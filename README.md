@@ -60,6 +60,11 @@ hi，来了，老铁，先喝杯茶。
 ## 缓存系列
 《[烂大街的缓存穿透、缓存击穿和缓存雪崩，你真的懂了？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491225&idx=1&sn=bfb14f28911efaa6e3a615870fff9a5c&chksm=c0ebc671f79c4f6718a63bbec91d79a4b05e1dd2a7c00ed9bf6a9f582abd4c6e5c870148ff89&token=426403078&lang=zh_CN#rd)》  
 
+## 线上问题
+《[分布式下的区域问题，让我们大战了300回合](https://mp.weixin.qq.com/s/pdiJayi-ab0glJly9oJNjw)》  
+《[生产环境一次诡异的NPE问题，反转了4次](https://mp.weixin.qq.com/s/tHCQHOXSol7Eiu8kdLBAQw)》  
+《[卧槽sql注入竟然把我们的系统搞挂了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490286&amp;idx=1&amp;sn=c80ca28614e4cac1c2fe1902e028ef1b&amp;chksm=c0ebc206f79c4b1026f59982e1a365b145f3b6ef52221c858f77cd69e757d0231754af57eefc&token=751314179&lang=zh_CN#rd)》   
+
 
 ## 工具系列
 《[干掉visio，这个画图神器真的绝了！！！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491053&idx=1&sn=f21b5669a98721aeba3a91c85f298b7c&chksm=c0ebc505f79c4c137c742b657e97834c563527ce4601348621ef5326e678c36427b7d9ed195d&token=426403078&lang=zh_CN#rd)》   
@@ -69,3 +74,4 @@ hi，来了，老铁，先喝杯茶。
 《[这样写代码，真是帅到没有朋友](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490293&amp;idx=1&amp;sn=2d146162543cddc91d16fe51fecb930c&amp;chksm=c0ebc21df79c4b0b9f0708f614cc45638a67a292ea427abd8c83729d9009d21d8487b7627c56&token=751314179&lang=zh_CN#rd)》  
 《[这个神器让我工作效率提升了数倍](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490362&amp;idx=1&amp;sn=50fd23b98926d1d4d3d7e901b7671da0&amp;chksm=c0ebc3d2f79c4ac4f0af88aae9a095e310f09135add98c949ec00ef7f011e46adf1797b52b57&token=751314179&lang=zh_CN#rd)》   
 《[这个神器让我的代码bug少了一半](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490250&amp;idx=1&amp;sn=bf92cd67ea7d271a40e86953da87726d&amp;chksm=c0ebc222f79c4b3427641bdafc3cc54f5fafc949dc98be7f2899cb0fd33c4474486696e8bfa5&token=751314179&lang=zh_CN#rd)》 
+
