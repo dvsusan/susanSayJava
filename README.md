@@ -26,6 +26,7 @@ hi，来了，老铁，先喝杯茶。
 
 
 ## 高并发系列
+《[聊聊接口性能优化的11个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490731&idx=1&sn=29ed0295c7990157a3a56ba33cf7f8be&chksm=c0ebc443f79c4d55a2bac81744992c96f97737e5d0717ec99231f4d08f57a7f0220eafdac9c9&token=426403078&lang=zh_CN#rd)》   
 《[我用kafka两年踩过的一些坑](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490289&amp;idx=1&amp;sn=bc311da9f4a4d3f48ee5dc207bf31a8b&amp;chksm=c0ebc219f79c4b0fc711116723b9df3a5531cda32f0f5d00f065910aa552af6ff03b3f1528fc&token=751314179&lang=zh_CN#rd)》   
 《[高并发下如何保证接口的幂等性？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490307&amp;idx=1&amp;sn=b9eeb427c33cb171da6c3f11243a88f4&amp;chksm=c0ebc3ebf79c4afd0d5a1851a975534b672d86c531d28c5933013140173e794f5f53e78a6765&token=751314179&lang=zh_CN#rd)》   
 《[mq的那些破事儿，你不好奇吗？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490326&amp;idx=1&amp;sn=8acb7c030591932e4ddce5502fbc1382&amp;chksm=c0ebc3fef79c4ae8c8600cb2e869d4cfa577c8424efbc46bac0ab0eed4ac231aa7e172b46213&token=751314179&lang=zh_CN#rd)》  
@@ -35,7 +36,6 @@ hi，来了，老铁，先喝杯茶。
 《[高并发下秒杀商品，你必须知道的9个细节](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490378&amp;idx=1&amp;sn=3398107767443078564bd85b26c3b342&amp;chksm=c0ebc3a2f79c4ab46dd1c23eda4cef17b14e6fdec19883279c739dfc51abc6a95a990364e6ec&token=751314179&lang=zh_CN#rd)》 
 
 ## spring系列
-
 《[spring中让你爱不释手的代码技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490278&amp;idx=1&amp;sn=89af37ff9d1577ddc0f48866343412cd&amp;chksm=c0ebc20ef79c4b184a617c95714d407b1ab4646ae930ee4b5c3201065030d7a1a8bcd23297a3&token=751314179&lang=zh_CN#rd)》   
 《[spring中让你爱不释手的代码技巧续](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490282&amp;idx=1&amp;sn=2c2744525a598a837c1c5d596be467e3&amp;chksm=c0ebc202f79c4b14a4c84ec63dbae8429d043d2c4f1dc6a1318e5629e61f190d704e0cc40073&token=751314179&lang=zh_CN#rd)》    
 《[聊聊spring事务失效的12种场景](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490414&amp;idx=1&amp;sn=b232e8931fbc754a255bde93a5a810e5&amp;chksm=c0ebc386f79c4a9079f096acc8e5836cab99746689309c293900488a538b7489dc7d64b0ae0a&token=751314179&lang=zh_CN#rd)》    
@@ -49,7 +49,6 @@ hi，来了，老铁，先喝杯茶。
 《[@Value竟然能玩出这么多花样？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490444&amp;idx=1&amp;sn=6f10e002f38ffd3cebf4fa1746123950&amp;chksm=c0ebc364f79c4a72415f8380ed3821d67cff0485aef230a256bbca0f37bf44a6b97f527f489e&token=751314179&lang=zh_CN#rd)》   
 
  
-
 ## 数据库系列
 《[聊聊sql优化的15个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490473&amp;idx=1&amp;sn=ba07d64aa8c89054bd263efd660d3a3f&amp;chksm=c0ebc341f79c4a579a6f41465df0459a696ab8ef0499a5f6fd76269af1064fde0286afdb027d&token=751314179&lang=zh_CN#rd)》  
 《[卧槽sql注入竟然把我们的系统搞挂了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490286&amp;idx=1&amp;sn=c80ca28614e4cac1c2fe1902e028ef1b&amp;chksm=c0ebc206f79c4b1026f59982e1a365b145f3b6ef52221c858f77cd69e757d0231754af57eefc&token=751314179&lang=zh_CN#rd)》   
@@ -58,7 +57,12 @@ hi，来了，老铁，先喝杯茶。
 《[explain | 索引优化的这把绝世好剑](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490262&amp;idx=1&amp;sn=a67f610afa984ecca130a54a3be453ab&amp;chksm=c0ebc23ef79c4b2869dea998e413c5cbea6aeeea01ee74efc7c1a5fc228baa7beca215adf3ea&token=751314179&lang=zh_CN#rd)》  
 《[mysql的这几个坑你踩过没？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490242&amp;idx=1&amp;sn=fa68cb6bbfccda699796b777b740dc3f&amp;chksm=c0ebc22af79c4b3c4ebed3a11142029a73fe10c7a6bc8bc5747fd4b465afe6ca90376891d96d&token=751314179&lang=zh_CN#rd)》 
 
+## 缓存系列
+《[烂大街的缓存穿透、缓存击穿和缓存雪崩，你真的懂了？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491225&idx=1&sn=bfb14f28911efaa6e3a615870fff9a5c&chksm=c0ebc671f79c4f6718a63bbec91d79a4b05e1dd2a7c00ed9bf6a9f582abd4c6e5c870148ff89&token=426403078&lang=zh_CN#rd)》  
+
+
 ## 工具系列
+《[干掉visio，这个画图神器真的绝了！！！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491053&idx=1&sn=f21b5669a98721aeba3a91c85f298b7c&chksm=c0ebc505f79c4c137c742b657e97834c563527ce4601348621ef5326e678c36427b7d9ed195d&token=426403078&lang=zh_CN#rd)》   
 《[推荐几个在线文档生成神器](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490261&amp;idx=1&amp;sn=174bac016abb19497fb35a7aea19ac77&amp;chksm=c0ebc23df79c4b2b3538612ac99a89ab8d8ff13c08107ab61d7fdac5a7a15bf855bae1481415&token=751314179&lang=zh_CN#rd)》   
 《[这11款chrome神器，用起来爽到爆](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490317&amp;idx=1&amp;sn=5f8e86158b571c3d3f3e84e7422a58ce&amp;chksm=c0ebc3e5f79c4af37ebf32b2a1e83662ee2af57b2292ee19533328ee51f63f61d51a7a198a99&token=751314179&lang=zh_CN#rd)》  
 《[阿里开源的10个神级项目](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490438&amp;idx=1&amp;sn=e05695e2293c2dd5e5f31ef9d4a11a7b&amp;chksm=c0ebc36ef79c4a78b99c6ff6b56e40266685fcadbeb967b39d1533f83591ad07b84510f7f705&token=751314179&lang=zh_CN#rd)》   
