@@ -11,9 +11,12 @@ hi，来了，老铁，先喝杯茶。
 2. 工作经验、踩坑经历分享，让你少走一些弯路
 3. 诗和远方
 
+欢迎关注下方公众号：
+![](https://pic.imgdb.cn/item/610dd6395132923bf8966807.jpg)
 作为见面礼，先送你免费领取福利 ，在公众号中回复：开发手册 和 时间管理。
 
 更多福利，可以加我个人微信：li_su123 添加时备注：代码神器。
+![](https://pic.imgdb.cn/item/610dd4d95132923bf8949142.png)
 
 想挣点广告费访问这里：
 <a href="https://a.newrank.cn/link/JkWwhb">挣点广告费</a>
@@ -21,7 +24,6 @@ hi，来了，老铁，先喝杯茶。
 另外，回复：加群，可以找到组织，跟很多BAT的大佬一起聊技术、分享工作趣事 和 面试经历。
 
 欢迎加我微信：li_su123 一起交流，一起成长，共同进步。
-
 <a href="https://susan.net.cn">个人博客</a>
 
 
@@ -65,6 +67,11 @@ hi，来了，老铁，先喝杯茶。
 《[生产环境一次诡异的NPE问题，反转了4次](https://mp.weixin.qq.com/s/tHCQHOXSol7Eiu8kdLBAQw)》  
 《[卧槽sql注入竟然把我们的系统搞挂了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490286&amp;idx=1&amp;sn=c80ca28614e4cac1c2fe1902e028ef1b&amp;chksm=c0ebc206f79c4b1026f59982e1a365b145f3b6ef52221c858f77cd69e757d0231754af57eefc&token=751314179&lang=zh_CN#rd)》   
 
+## 多线程
+《[深入剖析ThreadLocal](./docs/多线程/深入剖析ThreadLocal.md)》   
+《[线程池最佳线程到底要如何配置？](./docs/多线程/线程池最佳线程到底要如何配置？.md)》   
+《[这8种保证线程安全的技术你都知道吗？](./docs/多线程/这8种保证线程安全的技术你都知道吗？.md)》   
+
 
 ## 工具系列
 《[干掉visio，这个画图神器真的绝了！！！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491053&idx=1&sn=f21b5669a98721aeba3a91c85f298b7c&chksm=c0ebc505f79c4c137c742b657e97834c563527ce4601348621ef5326e678c36427b7d9ed195d&token=426403078&lang=zh_CN#rd)》   
@@ -75,3 +82,11 @@ hi，来了，老铁，先喝杯茶。
 《[这个神器让我工作效率提升了数倍](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490362&amp;idx=1&amp;sn=50fd23b98926d1d4d3d7e901b7671da0&amp;chksm=c0ebc3d2f79c4ac4f0af88aae9a095e310f09135add98c949ec00ef7f011e46adf1797b52b57&token=751314179&lang=zh_CN#rd)》   
 《[这个神器让我的代码bug少了一半](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490250&amp;idx=1&amp;sn=bf92cd67ea7d271a40e86953da87726d&amp;chksm=c0ebc222f79c4b3427641bdafc3cc54f5fafc949dc98be7f2899cb0fd33c4474486696e8bfa5&token=751314179&lang=zh_CN#rd)》 
 
+## 基础知识
+《[java中那些让你傻傻分不清楚的小细节](./docs/基础/java中那些让你傻傻分不清楚的小细节.md)》   
+《[单例模式，真不简单](./docs/基础/单例模式，真不简单.md)》   
+《[迷茫了，我们到底该不该用lombok？](./docs/基础/迷茫了，我们到底该不该用lombok？.md)》   
+
+
+## 其他
+《[我的公众号万粉之路](./docs/其他/我的公众号万粉之路.md)》   
