@@ -91,3 +91,4 @@ hi，来了，老铁，先喝杯茶。
 
 ## 其他
 《[我的公众号万粉之路](./docs/其他/我的公众号万粉之路.md)》   
+《[我的第一个10万](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491128&idx=1&sn=9b35640a5a5e1b26ef9d95b1cbc0d710&chksm=c0ebc6d0f79c4fc638686cffb25efa4926229517331d299b0ea2054fb0fe398289b0c8bc0f9a&token=1866170951&lang=zh_CN#rd)》   
