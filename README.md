@@ -25,6 +25,8 @@ hi，来了，老铁，先喝杯茶。
 - [聊聊分布式配置中心](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494265&idx=1&sn=978b6284cc0f7a915ddbbe87368480fd&chksm=c0e83291f79fbb877a62b30c8b1bf225b527fc147dfb6574d15f47acaa04e69d0090d5807f55&token=375542673&lang=zh_CN#rd)
 - [聊聊注册中心](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494011&idx=1&sn=8517c74e29be65fdadf3051d3fdfef44&chksm=c0e83193f79fb8857fa4c8990b8cfe78038955085fc84997f23351085c042b89eb0a6224a687&token=375542673&lang=zh_CN#rd)
 - [聊聊API网关](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493730&idx=1&sn=514173fff413c785c2fb6770361487de&chksm=c0e8308af79fb99cbd275c5df551cd4bbba6c4bb2f14b00a8d544711864cb3e91d44fec5be82&token=375542673&lang=zh_CN#rd)
+- [这9种分布式ID生成方法，打死也要记住呀](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491057&idx=1&sn=b0ed7c63e54761905b1cbbef123f16f1&chksm=c0ebc519f79c4c0f2e66e1365d216d9d312a59938216a0e1c32bcc0377febcf5a1ad0158ffec&token=375542673&lang=zh_CN#rd)
+- [你管这破玩意儿叫负载均衡?](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491502&idx=1&sn=981658cf1bb24842211f8abe9c3ef156&chksm=c0ebc746f79c4e504e64be95dbc21b85a1ded3be5772a7707b711f7e0ab419bd697003baab06&token=375542673&lang=zh_CN#rd)
 
 
 ## spring系列
@@ -43,6 +45,14 @@ hi，来了，老铁，先喝杯茶。
 
 ## springboot系列
 - [SpringBoot 生产中 16 条最佳实践](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493688&idx=1&sn=41c2ba075b218608b1e7654200cde714&chksm=c0e830d0f79fb9c6b02f8c608998ec2e2124df57ce74aa0ba15a0adb786d5a0b09c1ac932b54&token=375542673&lang=zh_CN#rd)   
+
+## spring cloud
+- [深入理解 Ribbon 的架构原理](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490734&idx=1&sn=f55bc1f702ef3926f169e6ab529159f0&chksm=c0ebc446f79c4d5002f5ee4acbbd2651fdea8155cf64ba015b977928de596d1b746056f13525&token=375542673&lang=zh_CN#rd)   
+
+## spring cloud alibaba
+- [聊聊 Nacos](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494153&idx=1&sn=804e06cb87e9607bba05dc4cf4580c60&chksm=c0e832e1f79fbbf74440a2976f5cdb85771136b28b59d8d561864ebe3ab66759335ebb8dbea5&token=375542673&lang=zh_CN#rd)   
+- [Seata的那些过人之处](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490513&idx=1&sn=713228191b96d5e681f07926cb43ace1&chksm=c0ebc339f79c4a2f5cb87b20ae1752a409ad834e6c3f4b4bf5534990a3df09cccf569c5c6045&token=375542673&lang=zh_CN#rd)   
+- [聊聊 Sentinel](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494221&idx=1&sn=739cc31be175ca6e2673842444ea4ab1&chksm=c0e832a5f79fbbb3006e877c7bea52fe5313cca1e537c871f852417493be6590c44f2c2f6bbc&token=375542673&lang=zh_CN#rd)   
 
  
 ## 数据库系列
@@ -86,6 +96,7 @@ hi，来了，老铁，先喝杯茶。
 - [Redis夺命16问](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493072&idx=1&sn=cf333d349c620eca21d4aa8ef6981d98&chksm=c0e83d38f79fb42edae42afef6c82585a47b146a11c7ab20609fe12b731c26fa004a6339e8a6&token=375542673&lang=zh_CN#rd)  
 - [聊聊缓存](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247492975&idx=1&sn=52c9004b554fcdccee12a8aae339c216&chksm=c0e83d87f79fb49172fb5a7812e3f837ee8a3bba8d4db0eb62625569f7b264665a76186fa59f&token=375542673&lang=zh_CN#rd)  
 - [聊聊Redis性能优化的13个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491718&idx=1&sn=c632f38b4357e2e4e2b9c580cfcd39bb&chksm=c0e8386ef79fb1787f11522ec2e07c1bec79bf042eb6945878086e5de1b8b0999a2767f653bb&token=375542673&lang=zh_CN#rd)  
+- [腾讯二面：Redis 事务支持 ACID 么？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490960&idx=1&sn=c2418b1820cf06a14460d2ef5e5508d4&chksm=c0ebc578f79c4c6e93d348cbd6e27097908a507ba6af7ef13d02fc8746ce44464e935fc493e3&token=375542673&lang=zh_CN#rd)  
 
 ## 线上问题
 - [分布式下的区域问题，让我们大战了300回合](https://mp.weixin.qq.com/s/pdiJayi-ab0glJly9oJNjw)  
@@ -111,10 +122,6 @@ hi，来了，老铁，先喝杯茶。
 ## netty系列
 - [聊聊Netty那些事儿](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491897&idx=1&sn=f46c85ca6c3ac27803c67503eccc3484&chksm=c0e839d1f79fb0c7ffa9a44e20dc027ad4e8f32773e35d1f262ad19440e27bb94931f50b6de8&token=375542673&lang=zh_CN#rd)   
 - [今天给Netty贡献了一波源码](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495776&idx=1&sn=b0c4f85727f2567b4ab64f1f5b12eac0&chksm=c0e82888f79fa19e9b80efe10e25e240f8f51d75105ac893d2018f801beeb0242bc2a1a9c4d9&token=375542673&lang=zh_CN#rd)   
-
-## spring cloud alibaba
-- [聊聊 Nacos](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494153&idx=1&sn=804e06cb87e9607bba05dc4cf4580c60&chksm=c0e832e1f79fbbf74440a2976f5cdb85771136b28b59d8d561864ebe3ab66759335ebb8dbea5&token=375542673&lang=zh_CN#rd)   
-- [聊聊 Sentinel](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494221&idx=1&sn=739cc31be175ca6e2673842444ea4ab1&chksm=c0e832a5f79fbbb3006e877c7bea52fe5313cca1e537c871f852417493be6590c44f2c2f6bbc&token=375542673&lang=zh_CN#rd)   
 
 
 ## 工具系列
