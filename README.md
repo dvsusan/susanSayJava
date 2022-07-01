@@ -1,9 +1,13 @@
 ⭐ 点右上角给一个 Star，鼓励技术人输出更多干货，爱了 ！
 
-hi，来了，老铁，先喝杯茶。
+作者苏三浪迹过几家大厂，掘金优秀创作者，阿里云专家博主，腾讯云年度潜力作者，CSDN万粉博主。
 
-这里是【苏三说技术】，一个你来了就不想走的地方。
+- [苏三原创精品50篇](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494429&idx=1&sn=8038c3f100c73b9223755ccb80eea4ac&chksm=c0e833f5f79fbae3be32214d1e1234670511a754f8d0a7d86ce701a8a60bad9f397b798e2da1&token=1249303273&lang=zh_CN#rd)
+- [苏三原创精品30篇，真香。](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490497&idx=1&sn=ebb80714930faca74e4e14de38437cf0&chksm=c0ebc329f79c4a3fa48eb46adb5895f8817af41d2231a57cac34965b8c94ca52d34fe599fa5a&token=1249303273&lang=zh_CN#rd)
 
+
+以下内容全部出自公众号：苏三说技术，欢迎关注。
+![](https://pic.imgdb.cn/item/62bf06e01d64b07066781ad4.jpg#pic_left)
 
 ## 高并发系列
 - [聊聊接口性能优化的11个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490731&idx=1&sn=29ed0295c7990157a3a56ba33cf7f8be&chksm=c0ebc443f79c4d55a2bac81744992c96f97737e5d0717ec99231f4d08f57a7f0220eafdac9c9&token=426403078&lang=zh_CN#rd)
