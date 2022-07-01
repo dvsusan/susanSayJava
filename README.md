@@ -18,6 +18,7 @@ hi，来了，老铁，先喝杯茶。
 - [聊聊限流](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495624&idx=1&sn=6d321d800c4033c312a42af21abe9019&chksm=c0e83720f79fbe3687236c8e8f0a95d33fb511f8f0336b149f2ed0b2c35a8c18a6e822fc56b2&token=375542673&lang=zh_CN#rd) 
 - [高并发下如何防重？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495570&idx=1&sn=eed3102c7dffc4ddbc59844dd9b865a5&chksm=c0e8377af79fbe6c29aefa3ae3aab48c6459b673005e2f97ae402172f6e5cdf8573aea5e7663&token=375542673&lang=zh_CN#rd) 
 - [京东二面：高并发系统如何设计？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495120&idx=1&sn=f45283e45ca8e5c19ed1f22a890e75e5&chksm=c0e83538f79fbc2e77cf9844095b588b29aa85a41995aecb1345d18537b9977b9984876d626e&token=375542673&lang=zh_CN#rd) 
+- [从20s优化到500ms，我用了这三招](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495991&idx=1&sn=f7ff015da0de21c2fac603b711918c8a&chksm=c0e829dff79fa0c9d76c9f6eff3448fd78ee5f2f7b348d37b24bb07fbece2ea193dbb23c38d7&token=375542673&lang=zh_CN#rd) 
 
 ## 分布式系列
 - [聊聊分布式锁](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495781&idx=1&sn=a979c6559d57a1257fa40c93aa432de7&chksm=c0e8288df79fa19b794b1671072c92ef434880bbb8c9ba141e3fe4394b6b0765088ad36d463b&token=375542673&lang=zh_CN#rd)
