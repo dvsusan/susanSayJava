@@ -7,6 +7,7 @@
 
 
 以下内容全部出自公众号：苏三说技术，欢迎关注。
+
 ![](https://pic.imgdb.cn/item/62bf06e01d64b07066781ad4.jpg#pic_left)
 
 ## 高并发系列
@@ -23,6 +24,7 @@
 - [高并发下如何防重？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495570&idx=1&sn=eed3102c7dffc4ddbc59844dd9b865a5&chksm=c0e8377af79fbe6c29aefa3ae3aab48c6459b673005e2f97ae402172f6e5cdf8573aea5e7663&token=375542673&lang=zh_CN#rd) 
 - [京东二面：高并发系统如何设计？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495120&idx=1&sn=f45283e45ca8e5c19ed1f22a890e75e5&chksm=c0e83538f79fbc2e77cf9844095b588b29aa85a41995aecb1345d18537b9977b9984876d626e&token=375542673&lang=zh_CN#rd) 
 - [从20s优化到500ms，我用了这三招](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495991&idx=1&sn=f7ff015da0de21c2fac603b711918c8a&chksm=c0e829dff79fa0c9d76c9f6eff3448fd78ee5f2f7b348d37b24bb07fbece2ea193dbb23c38d7&token=375542673&lang=zh_CN#rd) 
+- [如何用 Java 几分钟处理完 30 亿个数据?](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496011&idx=1&sn=a2450defef6d94fccdb962e1c6f8a826&chksm=c0e829a3f79fa0b524d3229ab0cdc511ee445e0e9cd6234799e209f0bbf8c1a858cecbbdf577&token=1502528170&lang=zh_CN#rd) 
 
 ## 分布式系列
 - [聊聊分布式锁](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495781&idx=1&sn=a979c6559d57a1257fa40c93aa432de7&chksm=c0e8288df79fa19b794b1671072c92ef434880bbb8c9ba141e3fe4394b6b0765088ad36d463b&token=375542673&lang=zh_CN#rd)
@@ -61,7 +63,6 @@
 
  
 ## 数据库系列
-- [聊聊索引失效的10种场景，太坑了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491626&idx=1&sn=18fc949c06f04fe8f4c29b6fc5c66f9c&chksm=c0e838c2f79fb1d45c6f9b2ab188bb4663414690bab0718a7d46beb875e6b83e5e67ec27d2ff&token=1866170951&lang=zh_CN#rd)  
 - [聊聊sql优化的15个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490473&amp;idx=1&amp;sn=ba07d64aa8c89054bd263efd660d3a3f&amp;chksm=c0ebc341f79c4a579a6f41465df0459a696ab8ef0499a5f6fd76269af1064fde0286afdb027d&token=751314179&lang=zh_CN#rd)  
 - [聊聊索引失效的10种场景，太坑了](kwNjMwMTgzMQ==&mid=2247491626&idx=1&sn=18fc949c06f04fe8f4c29b6fc5c66f9c&chksm=c0e838c2f79fb1d45c6f9b2ab188bb4663414690bab0718a7d46beb875e6b83e5e67ec27d2ff&token=375542673&lang=zh_CN#rd)  
 - [聊聊索引设计的8个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495678&idx=1&sn=c0c1abf7bd1208978f1fbba524d29dd4&chksm=c0e83716f79fbe0002efe71c3e07b37928bea4020b177c71135dacb84920a04c2d1b1048239f&token=375542673&lang=zh_CN#rd)  
@@ -102,6 +103,7 @@
 - [聊聊缓存](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247492975&idx=1&sn=52c9004b554fcdccee12a8aae339c216&chksm=c0e83d87f79fb49172fb5a7812e3f837ee8a3bba8d4db0eb62625569f7b264665a76186fa59f&token=375542673&lang=zh_CN#rd)  
 - [聊聊Redis性能优化的13个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491718&idx=1&sn=c632f38b4357e2e4e2b9c580cfcd39bb&chksm=c0e8386ef79fb1787f11522ec2e07c1bec79bf042eb6945878086e5de1b8b0999a2767f653bb&token=375542673&lang=zh_CN#rd)  
 - [腾讯二面：Redis 事务支持 ACID 么？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490960&idx=1&sn=c2418b1820cf06a14460d2ef5e5508d4&chksm=c0ebc578f79c4c6e93d348cbd6e27097908a507ba6af7ef13d02fc8746ce44464e935fc493e3&token=375542673&lang=zh_CN#rd)  
+- [聊聊Redis的9种数据类型](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495654&idx=2&sn=3b1d57f93ba722d24b504eb0dc1b9121&chksm=c0e8370ef79fbe1860537c341a6a6749f83a1dee1fbca99dd26f393354bac7d1c41ad7cc8070&token=1502528170&lang=zh_CN#rd)  
 
 ## 线上问题
 - [分布式下的区域问题，让我们大战了300回合](https://mp.weixin.qq.com/s/pdiJayi-ab0glJly9oJNjw)  
@@ -123,6 +125,11 @@
 - [这8种保证线程安全的技术你都知道吗？](./docs/多线程/这8种保证线程安全的技术你都知道吗？.md)   
 - [聊聊AQS](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493017&idx=1&sn=ca149ae57fd0fdc2b84c9a5cfea2f867&chksm=c0e83d71f79fb46791c0f599c01a098577e1b9274dfbcf81618f1d2aed6ba40915795ed243b4&token=375542673&lang=zh_CN#rd)   
 - [聊聊Java中那18 把锁](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491700&idx=1&sn=6ad0512fb2874b4e4a7da006bbbf0a61&chksm=c0e8389cf79fb18ac93255ab2029b60f779557d2854c8943e4d809ba2d32021f0bf8cd4f304a&token=375542673&lang=zh_CN#rd)   
+- [聊聊伪共享](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496114&idx=1&sn=5c87b3bfd4db6cd5b5aa3020b6b97383&chksm=c0e8295af79fa04c179b319ce7304d4a795b7fe175256ed7634abcdfe487221eb0ea41966673&token=1502528170&lang=zh_CN#rd)   
+
+## JVM系列
+- [聊聊JVM](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495919&idx=1&sn=71010d91e376270afc31bbe61c8326aa&chksm=c0e82807f79fa111d7c339832f48c9542d5fc1540c1a619c1a3281040fc1631616e016d0dc36&token=1502528170&lang=zh_CN#rd)   
+
 
 ## netty系列
 - [聊聊Netty那些事儿](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491897&idx=1&sn=f46c85ca6c3ac27803c67503eccc3484&chksm=c0e839d1f79fb0c7ffa9a44e20dc027ad4e8f32773e35d1f262ad19440e27bb94931f50b6de8&token=375542673&lang=zh_CN#rd)   
@@ -147,6 +154,9 @@
 ## 踩坑日记
 - [被自己坑了...](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493833&idx=1&sn=7ab5fc431fa1cf8c609a7315e5a5456c&chksm=c0e83021f79fb93729db528f0a19446d8c3e281b52cf2a919efec12c35b61ca7afb8062aa6f1&token=375542673&lang=zh_CN#rd)  
 - [Objects.equals有坑](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493176&idx=1&sn=c445625478a7f8122a6715b64fe6770c&chksm=c0e83ed0f79fb7c6cf2992d24e98f60fd78ca89525b5a3cc07f79dc801dd8e381b1fce03bf5c&token=375542673&lang=zh_CN#rd)  
+
+## 系统设计
+- [红包系统如何设计？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496017&idx=1&sn=7b64f8cf61e3e347c8a32181dce7553e&chksm=c0e829b9f79fa0afd02f4c43d2f2d34428ca21572bbb877f2a2748feae696b12602fc5ad7db6&token=1502528170&lang=zh_CN#rd)  
 
 
 ## 其他
