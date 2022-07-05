@@ -2,6 +2,14 @@
 
 作者苏三浪迹过几家大厂，掘金优秀创作者，阿里云专家博主，腾讯云年度潜力作者，CSDN万粉博主。
 
+<div align="center">
+    <a href="https://www.zhihu.com/people/qing-jiao-wo-da-chu-2" target="_blank"> <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E6%BD%9C%E5%8A%9B%E7%AD%94%E4%B8%BB-ef8b00"></a>
+    <a href="https://juejin.cn/user/465848661970824/posts" target="_blank"> <img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E4%BA%BA%E6%B0%94%E4%BD%9C%E8%80%85-ef8b00"></a>
+    <a href="https://blog.csdn.net/lisu061714112" target="_blank"> <img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2%E4%B8%93%E5%AE%B6-ef8b00"></a>
+</div>
+
+<br />
+
 - [苏三原创精品50篇](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494429&idx=1&sn=8038c3f100c73b9223755ccb80eea4ac&chksm=c0e833f5f79fbae3be32214d1e1234670511a754f8d0a7d86ce701a8a60bad9f397b798e2da1&token=1249303273&lang=zh_CN#rd)
 - [苏三原创精品30篇，真香。](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490497&idx=1&sn=ebb80714930faca74e4e14de38437cf0&chksm=c0ebc329f79c4a3fa48eb46adb5895f8817af41d2231a57cac34965b8c94ca52d34fe599fa5a&token=1249303273&lang=zh_CN#rd)
 
