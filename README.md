@@ -33,7 +33,12 @@
 - [聊聊注册中心](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494011&idx=1&sn=8517c74e29be65fdadf3051d3fdfef44&chksm=c0e83193f79fb8857fa4c8990b8cfe78038955085fc84997f23351085c042b89eb0a6224a687&token=375542673&lang=zh_CN#rd)
 - [聊聊API网关](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493730&idx=1&sn=514173fff413c785c2fb6770361487de&chksm=c0e8308af79fb99cbd275c5df551cd4bbba6c4bb2f14b00a8d544711864cb3e91d44fec5be82&token=375542673&lang=zh_CN#rd)
 - [这9种分布式ID生成方法，打死也要记住呀](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491057&idx=1&sn=b0ed7c63e54761905b1cbbef123f16f1&chksm=c0ebc519f79c4c0f2e66e1365d216d9d312a59938216a0e1c32bcc0377febcf5a1ad0158ffec&token=375542673&lang=zh_CN#rd)
+- [session、token、jwt、oauth2 傻傻分不清](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496146&idx=1&sn=7c0291f4fc84797e63c6e49f030e0557&chksm=c0e8293af79fa02c1fe26a49745e0994345858d845412f6f314ed32903e9667608d42a73a03e&token=1121830644&lang=zh_CN#rd)
+
+## 高可用系列
+- [搞懂异地多活，看这篇就够了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490455&idx=1&sn=74013dfc33c7d46626dca1a7ae048419&chksm=c0ebc37ff79c4a699b15040002f35ee7993dcf002cde34c2599234110369ea4f4732854c5f75&token=1121830644&lang=zh_CN#rd)
 - [你管这破玩意儿叫负载均衡?](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491502&idx=1&sn=981658cf1bb24842211f8abe9c3ef156&chksm=c0ebc746f79c4e504e64be95dbc21b85a1ded3be5772a7707b711f7e0ab419bd697003baab06&token=375542673&lang=zh_CN#rd)
+- [聊聊高可用](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494085&idx=1&sn=c79d9b7841dd67ad3243e87f18779e45&chksm=c0e8312df79fb83b0aefd8e4dc0e1b75af93243bbcd5896203a15fddf3774e4b7194b3d0956c&token=1121830644&lang=zh_CN#rd)
 
 
 ## spring系列
@@ -49,6 +54,7 @@
 - [springboot面试杀手锏-自动配置原理](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490236&amp;idx=1&amp;sn=636be5ccb19d59cfc1801efc22160ad0&amp;chksm=c0ebc254f79c4b42d6005d5d229c729c9f187b63b68e74e5a2ac5e25dbdfbb80316919b8e69d&token=751314179&lang=zh_CN#rd)   
 - [@Autowired的这些骚操作你知道吗？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490385&amp;idx=1&amp;sn=e84b36485c823041aad6a55a4f357534&amp;chksm=c0ebc3b9f79c4aafd37a7178c3b72c95dd49dd595feddd5950ff92f2792f9c482dd3bdd778f6&token=751314179&lang=zh_CN#rd)   
 - [@Value竟然能玩出这么多花样？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490444&amp;idx=1&amp;sn=6f10e002f38ffd3cebf4fa1746123950&amp;chksm=c0ebc364f79c4a72415f8380ed3821d67cff0485aef230a256bbca0f37bf44a6b97f527f489e&token=751314179&lang=zh_CN#rd)   
+- [面试前看了这篇spring事务的文章，让我多要了2k的工资](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490224&idx=1&sn=c32cc226d2b4201649b51f404844c1f7&chksm=c0ebc258f79c4b4ebfb3454cc284be5886ad5084a32c6487bca4380d3f65e2f35c572dbd2b28&token=660773166&lang=zh_CN&scene=21#wechat_redirect)   
 
 ## springboot系列
 - [SpringBoot 生产中 16 条最佳实践](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493688&idx=1&sn=41c2ba075b218608b1e7654200cde714&chksm=c0e830d0f79fb9c6b02f8c608998ec2e2124df57ce74aa0ba15a0adb786d5a0b09c1ac932b54&token=375542673&lang=zh_CN#rd)   
@@ -145,6 +151,7 @@
 - [这样写代码，真是帅到没有朋友](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490293&amp;idx=1&amp;sn=2d146162543cddc91d16fe51fecb930c&amp;chksm=c0ebc21df79c4b0b9f0708f614cc45638a67a292ea427abd8c83729d9009d21d8487b7627c56&token=751314179&lang=zh_CN#rd)  
 - [这个神器让我工作效率提升了数倍](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490362&amp;idx=1&amp;sn=50fd23b98926d1d4d3d7e901b7671da0&amp;chksm=c0ebc3d2f79c4ac4f0af88aae9a095e310f09135add98c949ec00ef7f011e46adf1797b52b57&token=751314179&lang=zh_CN#rd)   
 - [这个神器让我的代码bug少了一半](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490250&amp;idx=1&amp;sn=bf92cd67ea7d271a40e86953da87726d&amp;chksm=c0ebc222f79c4b3427641bdafc3cc54f5fafc949dc98be7f2899cb0fd33c4474486696e8bfa5&token=751314179&lang=zh_CN#rd) 
+- [学会这10种定时任务，我有点飘了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490314&idx=1&sn=29ddf0c1e99675b86cdfc082556a69a9&chksm=c0ebc3e2f79c4af43cf8582d41b0bc3ede57986cc6c115b103b586a2c7bddb4475555e919b20&token=1121830644&lang=zh_CN#rd) 
 
 ## 基础知识
 - [java中那些让你傻傻分不清楚的小细节](./docs/基础/java中那些让你傻傻分不清楚的小细节.md)   
@@ -154,6 +161,9 @@
 ## 踩坑日记
 - [被自己坑了...](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493833&idx=1&sn=7ab5fc431fa1cf8c609a7315e5a5456c&chksm=c0e83021f79fb93729db528f0a19446d8c3e281b52cf2a919efec12c35b61ca7afb8062aa6f1&token=375542673&lang=zh_CN#rd)  
 - [Objects.equals有坑](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493176&idx=1&sn=c445625478a7f8122a6715b64fe6770c&chksm=c0e83ed0f79fb7c6cf2992d24e98f60fd78ca89525b5a3cc07f79dc801dd8e381b1fce03bf5c&token=375542673&lang=zh_CN#rd)  
+- [生产环境一次诡异的NPE问题，反转了4次](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490345&idx=1&sn=cbbcb88678c487074d7516edcee64d01&chksm=c0ebc3c1f79c4ad73f05bf3eb6b2b652cb70b37e02bd24fc1d1078bfa7332d0e6581bd7ab133&token=660773166&lang=zh_CN&scene=21#wechat_redirect)  
+- [分布式下的区域问题，让我们大战了300回合](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490339&idx=1&sn=15aed6615bfed74a0cb3572185525809&chksm=c0ebc3cbf79c4adda626d0cce8e8badee1192793569deca0f8ec9158ce22832c84dc79e73855&token=660773166&lang=zh_CN&scene=21#wechat_redirect)  
+- [java中那些让你傻傻分不清楚的小细节](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490288&idx=1&sn=ba15d8f83186c2d0d66f24af413b49e3&chksm=c0ebc218f79c4b0ec8e3a6940c54fa2a385c2a724a9d2ea1acdf8187f1b0e96b4378348c0ed1&token=660773166&lang=zh_CN&scene=21#wechat_redirect)  
 
 ## 系统设计
 - [红包系统如何设计？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496017&idx=1&sn=7b64f8cf61e3e347c8a32181dce7553e&chksm=c0e829b9f79fa0afd02f4c43d2f2d34428ca21572bbb877f2a2748feae696b12602fc5ad7db6&token=1502528170&lang=zh_CN#rd)  
