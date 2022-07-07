@@ -118,6 +118,7 @@
 - [聊聊Redis性能优化的13个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491718&idx=1&sn=c632f38b4357e2e4e2b9c580cfcd39bb&chksm=c0e8386ef79fb1787f11522ec2e07c1bec79bf042eb6945878086e5de1b8b0999a2767f653bb&token=375542673&lang=zh_CN#rd)  
 - [腾讯二面：Redis 事务支持 ACID 么？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490960&idx=1&sn=c2418b1820cf06a14460d2ef5e5508d4&chksm=c0ebc578f79c4c6e93d348cbd6e27097908a507ba6af7ef13d02fc8746ce44464e935fc493e3&token=375542673&lang=zh_CN#rd)  
 - [聊聊Redis的9种数据类型](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495654&idx=2&sn=3b1d57f93ba722d24b504eb0dc1b9121&chksm=c0e8370ef79fbe1860537c341a6a6749f83a1dee1fbca99dd26f393354bac7d1c41ad7cc8070&token=1502528170&lang=zh_CN#rd)  
+- [聊聊Redis内存优化的7个神技](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496151&idx=1&sn=bcef0cb1c1e6ab5ffc7ce36915940728&chksm=c0e8293ff79fa029f60f3d22bef5cbc5fcb5eb70ba519990a13a5de0a6aa705992f380246e1b&token=1121830644&lang=zh_CN#rd)  
 
 ## 线上问题
 - [分布式下的区域问题，让我们大战了300回合](https://mp.weixin.qq.com/s/pdiJayi-ab0glJly9oJNjw)  
@@ -143,6 +144,7 @@
 
 ## JVM系列
 - [聊聊JVM](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495919&idx=1&sn=71010d91e376270afc31bbe61c8326aa&chksm=c0e82807f79fa111d7c339832f48c9542d5fc1540c1a619c1a3281040fc1631616e016d0dc36&token=1502528170&lang=zh_CN#rd)   
+- [聊聊JVM内存布局](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493279&idx=1&sn=5de4a1eecd81911740d9b9fa03d25eb3&chksm=c0e83e77f79fb7611fe980aaf071cf6b62edf18ed5360bfd9ce204437a3e261546d9598cade4&token=1121830644&lang=zh_CN#rd)   
 
 
 ## netty系列
@@ -160,6 +162,7 @@
 - [这个神器让我工作效率提升了数倍](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490362&amp;idx=1&amp;sn=50fd23b98926d1d4d3d7e901b7671da0&amp;chksm=c0ebc3d2f79c4ac4f0af88aae9a095e310f09135add98c949ec00ef7f011e46adf1797b52b57&token=751314179&lang=zh_CN#rd)   
 - [这个神器让我的代码bug少了一半](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490250&amp;idx=1&amp;sn=bf92cd67ea7d271a40e86953da87726d&amp;chksm=c0ebc222f79c4b3427641bdafc3cc54f5fafc949dc98be7f2899cb0fd33c4474486696e8bfa5&token=751314179&lang=zh_CN#rd) 
 - [学会这10种定时任务，我有点飘了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490314&idx=1&sn=29ddf0c1e99675b86cdfc082556a69a9&chksm=c0ebc3e2f79c4af43cf8582d41b0bc3ede57986cc6c115b103b586a2c7bddb4475555e919b20&token=1121830644&lang=zh_CN#rd) 
+- [有了HTTP，为什么还要RPC？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495646&idx=1&sn=6c77dc78bea23c96dc64193bf82bbcec&chksm=c0e83736f79fbe20eb953e1e2a6ace6ef687faaca1c9e3cdb7646f2a25ab70d454269ced8d4c&token=1121830644&lang=zh_CN#rd) 
 
 ## 基础知识
 - [java中那些让你傻傻分不清楚的小细节](./docs/基础/java中那些让你傻傻分不清楚的小细节.md)   
@@ -172,12 +175,19 @@
 - [生产环境一次诡异的NPE问题，反转了4次](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490345&idx=1&sn=cbbcb88678c487074d7516edcee64d01&chksm=c0ebc3c1f79c4ad73f05bf3eb6b2b652cb70b37e02bd24fc1d1078bfa7332d0e6581bd7ab133&token=660773166&lang=zh_CN&scene=21#wechat_redirect)  
 - [分布式下的区域问题，让我们大战了300回合](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490339&idx=1&sn=15aed6615bfed74a0cb3572185525809&chksm=c0ebc3cbf79c4adda626d0cce8e8badee1192793569deca0f8ec9158ce22832c84dc79e73855&token=660773166&lang=zh_CN&scene=21#wechat_redirect)  
 - [java中那些让你傻傻分不清楚的小细节](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490288&idx=1&sn=ba15d8f83186c2d0d66f24af413b49e3&chksm=c0ebc218f79c4b0ec8e3a6940c54fa2a385c2a724a9d2ea1acdf8187f1b0e96b4378348c0ed1&token=660773166&lang=zh_CN&scene=21#wechat_redirect)  
-
-## 系统设计
-- [红包系统如何设计？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496017&idx=1&sn=7b64f8cf61e3e347c8a32181dce7553e&chksm=c0e829b9f79fa0afd02f4c43d2f2d34428ca21572bbb877f2a2748feae696b12602fc5ad7db6&token=1502528170&lang=zh_CN#rd)  
+- [JDK有BUG！！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494613&idx=1&sn=65be88d628980eaa77ded1305568f2ce&chksm=c0e8333df79fba2b77111b8345d15903d0976857d37f13d4efef27ab6040f950d9888df6297f&token=1121830644&lang=zh_CN#rd)  
+- [Spring爆出致命漏洞，赶紧修复！！！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493469&idx=1&sn=937bdfe0b5e7558fb184eb7a128c1f6c&chksm=c0e83fb5f79fb6a30e944fc7672b7e0a300933ca9885c32fd61a1620afc3c378b2a079e670d8&token=1121830644&lang=zh_CN#rd)  
 
 
 ## 其他
 - [我的公众号万粉之路](./docs/其他/我的公众号万粉之路.md)   
 - [我的第一个10万](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491128&idx=1&sn=9b35640a5a5e1b26ef9d95b1cbc0d710&chksm=c0ebc6d0f79c4fc638686cffb25efa4926229517331d299b0ea2054fb0fe398289b0c8bc0f9a&token=1866170951&lang=zh_CN#rd)   
 - [终于破100万了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494216&idx=1&sn=f27c229c82392ff3fa7bb0a709b498a9&chksm=c0e832a0f79fbbb6027bc78ffcae993fd9f54cbc9647334e38aab8d3337d4bfeabff4391cc4e&token=375542673&lang=zh_CN#rd)   
+- [群](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496031&idx=1&sn=c88b3a9996e43bdb1e00eb18dcd8201b&chksm=c0e829b7f79fa0a1d675d514629df8ecfe0e48b8ddcbf9f2eb33d603d1e1e2cb4ad2854f7113&token=1121830644&lang=zh_CN#rd)   
+
+## 面试真题
+- [小厂面试10连问](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494055&idx=1&sn=6b76adbe4e2b384942a0f5a9a3d86f49&chksm=c0e8314ff79fb8591ad4f5f7b66ae244adbe79adab670f0eb83cbbc3001ed933bfcbcf32a1a7&token=1121830644&lang=zh_CN#rd)   
+
+
+## 福利
+- [我想进大厂面试资料.pdf](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494448&idx=1&sn=f30d3aeed17ee21058b61c7f5166f6ac&chksm=c0e833d8f79fbace2fcf5a469a4d59140845ea6dd57a99b75ef5cbf041b85db3c381cf7c7b99&token=1121830644&lang=zh_CN#rd)   
