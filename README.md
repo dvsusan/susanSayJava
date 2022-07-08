@@ -19,7 +19,7 @@
 ![](https://pic.imgdb.cn/item/62bf06e01d64b07066781ad4.jpg#pic_left)
 
 下面分享Java后端学习路线，后续会不断持续更新。。。
-![](./docs/学习路线/Java后端学习路线.png)
+![](https://pic.imgdb.cn/item/62c82558f54cd3f93756e811.png)
 
 ## 高并发系列
 - [聊聊接口性能优化的11个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490731&idx=1&sn=29ed0295c7990157a3a56ba33cf7f8be&chksm=c0ebc443f79c4d55a2bac81744992c96f97737e5d0717ec99231f4d08f57a7f0220eafdac9c9&token=426403078&lang=zh_CN#rd)
