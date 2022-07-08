@@ -110,6 +110,7 @@
 - [阿里二面: Kafka 到底会不会丢数据？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491709&idx=1&sn=bb59522f2edca71dbb5c0b6283eb4975&chksm=c0e83895f79fb18364d3f74b3881310cc863ff2f27ecab7af81d19fad6e84e0346f0119dc727&token=375542673&lang=zh_CN#rd)  
 - [Kafka性能篇：为何Kafka这么"快"？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491510&idx=1&sn=a7d5b0609295e319c3d2e96efd3fb6eb&chksm=c0ebc75ef79c4e48a9e8247a77bf3b45b6f3a835a45e3e85f5eea2a14cf1a5a7c6060adc5c65&token=375542673&lang=zh_CN#rd)  
 - [六问 Kafka 为啥那么牛！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491268&idx=1&sn=b9eb5ff0ed41a405b79aeacb70e860e5&chksm=c0ebc62cf79c4f3aca42da50507bba134bd6a86823d5e466ddc149a2e3dca464f2c587039cac&token=375542673&lang=zh_CN#rd)  
+- [聊聊RabbitMQ](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496186&idx=1&sn=a5a6cb4336c1d115f601926059d1aa0c&chksm=c0e82912f79fa0043492490ba328b500949d91a0b96c56c95ef6e7f6cd652894ee7a3e1b7620&token=1121830644&lang=zh_CN#rd)  
 
 
 ## 缓存系列
