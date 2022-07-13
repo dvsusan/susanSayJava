@@ -19,7 +19,7 @@
 ![](https://pic.imgdb.cn/item/62bf06e01d64b07066781ad4.jpg#pic_left)
 
 下面分享Java后端学习路线，后续会不断持续更新。。。
-![](https://pic.imgdb.cn/item/62c82558f54cd3f93756e811.png)
+![](https://pic.imgdb.cn/item/62ceabfaf54cd3f937280fde.png)
 
 ## 高并发系列
 - [聊聊接口性能优化的11个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490731&idx=1&sn=29ed0295c7990157a3a56ba33cf7f8be&chksm=c0ebc443f79c4d55a2bac81744992c96f97737e5d0717ec99231f4d08f57a7f0220eafdac9c9&token=426403078&lang=zh_CN#rd)
@@ -50,6 +50,7 @@
 - [搞懂异地多活，看这篇就够了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490455&idx=1&sn=74013dfc33c7d46626dca1a7ae048419&chksm=c0ebc37ff79c4a699b15040002f35ee7993dcf002cde34c2599234110369ea4f4732854c5f75&token=1121830644&lang=zh_CN#rd)
 - [你管这破玩意儿叫负载均衡?](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491502&idx=1&sn=981658cf1bb24842211f8abe9c3ef156&chksm=c0ebc746f79c4e504e64be95dbc21b85a1ded3be5772a7707b711f7e0ab419bd697003baab06&token=375542673&lang=zh_CN#rd)
 - [聊聊高可用](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494085&idx=1&sn=c79d9b7841dd67ad3243e87f18779e45&chksm=c0e8312df79fb83b0aefd8e4dc0e1b75af93243bbcd5896203a15fddf3774e4b7194b3d0956c&token=1121830644&lang=zh_CN#rd)
+- [B站崩在这里...](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496241&idx=1&sn=041cf3e733490a659093b3a2f8f9a730&chksm=c0e82ad9f79fa3cf1fc58c3438023a031b860d6a0d47ca7c3715f258e67704f8c936b66fb041&token=1508828007&lang=zh_CN#rd)
 
 
 ## spring系列
