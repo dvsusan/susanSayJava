@@ -45,6 +45,7 @@
 - [聊聊API网关](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493730&idx=1&sn=514173fff413c785c2fb6770361487de&chksm=c0e8308af79fb99cbd275c5df551cd4bbba6c4bb2f14b00a8d544711864cb3e91d44fec5be82&token=375542673&lang=zh_CN#rd)
 - [这9种分布式ID生成方法，打死也要记住呀](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491057&idx=1&sn=b0ed7c63e54761905b1cbbef123f16f1&chksm=c0ebc519f79c4c0f2e66e1365d216d9d312a59938216a0e1c32bcc0377febcf5a1ad0158ffec&token=375542673&lang=zh_CN#rd)
 - [session、token、jwt、oauth2 傻傻分不清](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496146&idx=1&sn=7c0291f4fc84797e63c6e49f030e0557&chksm=c0e8293af79fa02c1fe26a49745e0994345858d845412f6f314ed32903e9667608d42a73a03e&token=1121830644&lang=zh_CN#rd)
+- [聊聊10种延迟任务](https://mp.weixin.qq.com/cgi-bin/home?t=home/index&token=1508828007&lang=zh_CN#tab=sent-panel)
 
 ## 高可用系列
 - [搞懂异地多活，看这篇就够了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490455&idx=1&sn=74013dfc33c7d46626dca1a7ae048419&chksm=c0ebc37ff79c4a699b15040002f35ee7993dcf002cde34c2599234110369ea4f4732854c5f75&token=1121830644&lang=zh_CN#rd)
@@ -131,6 +132,7 @@
 - [卧槽sql注入竟然把我们的系统搞挂了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490286&amp;idx=1&amp;sn=c80ca28614e4cac1c2fe1902e028ef1b&amp;chksm=c0ebc206f79c4b1026f59982e1a365b145f3b6ef52221c858f77cd69e757d0231754af57eefc&token=751314179&lang=zh_CN#rd)   
 - [一次 MySQL 误操作导致P0级事故](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495705&idx=1&sn=89241040fa9741306d5311d3dabf0b04&chksm=c0e828f1f79fa1e7ca937d318735713d5431a8ac2f8b32e8fb1b7f0e0bdd675da2025e8906df&token=375542673&lang=zh_CN#rd)   
 - [复盘一次线上Redis缓存雪崩事故...](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493113&idx=1&sn=f456deed6a4a9221ace97b0358151c6e&chksm=c0e83d11f79fb407dfa7ec79376431dc687db99fdf45704ba90b9b3dfebaa8a0c0a28bffe3ca&token=375542673&lang=zh_CN#rd)   
+- [一次线上事故，我顿悟了异步](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496248&idx=2&sn=1636195a613aadc5e3ba4c4ec1ccddfc&chksm=c0e82ad0f79fa3c617cd326e990cf6f8d3fec57ab172db7ad9faf412f0addc9730c4c6220ba9&token=1508828007&lang=zh_CN#rd)   
 
 
 ## 多线程
@@ -182,6 +184,7 @@
 - [java中那些让你傻傻分不清楚的小细节](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490288&idx=1&sn=ba15d8f83186c2d0d66f24af413b49e3&chksm=c0ebc218f79c4b0ec8e3a6940c54fa2a385c2a724a9d2ea1acdf8187f1b0e96b4378348c0ed1&token=660773166&lang=zh_CN&scene=21#wechat_redirect)  
 - [JDK有BUG！！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494613&idx=1&sn=65be88d628980eaa77ded1305568f2ce&chksm=c0e8333df79fba2b77111b8345d15903d0976857d37f13d4efef27ab6040f950d9888df6297f&token=1121830644&lang=zh_CN#rd)  
 - [Spring爆出致命漏洞，赶紧修复！！！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493469&idx=1&sn=937bdfe0b5e7558fb184eb7a128c1f6c&chksm=c0e83fb5f79fb6a30e944fc7672b7e0a300933ca9885c32fd61a1620afc3c378b2a079e670d8&token=1121830644&lang=zh_CN#rd)  
+- [99%的Java程序员会踩的6个坑](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496369&idx=1&sn=c0824ac978d122e25aa30c9335a2973f&chksm=c0e82a59f79fa34f78ece0fcba184799d8dc3143e7ac5e0530d0771ef5e155116aa9aa74eb06&token=1508828007&lang=zh_CN#rd)  
 
 
 ## 其他
