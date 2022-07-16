@@ -36,6 +36,7 @@
 - [京东二面：高并发系统如何设计？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495120&idx=1&sn=f45283e45ca8e5c19ed1f22a890e75e5&chksm=c0e83538f79fbc2e77cf9844095b588b29aa85a41995aecb1345d18537b9977b9984876d626e&token=375542673&lang=zh_CN#rd) 
 - [从20s优化到500ms，我用了这三招](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495991&idx=1&sn=f7ff015da0de21c2fac603b711918c8a&chksm=c0e829dff79fa0c9d76c9f6eff3448fd78ee5f2f7b348d37b24bb07fbece2ea193dbb23c38d7&token=375542673&lang=zh_CN#rd) 
 - [如何用 Java 几分钟处理完 30 亿个数据?](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496011&idx=1&sn=a2450defef6d94fccdb962e1c6f8a826&chksm=c0e829a3f79fa0b524d3229ab0cdc511ee445e0e9cd6234799e209f0bbf8c1a858cecbbdf577&token=1502528170&lang=zh_CN#rd) 
+- [并发环境下，先操作数据库还是先操作缓存？](https://mp.weixin.qq.com/s/i1V34oH6_8WsTu0IpPuwqQ) 
 
 ## 分布式系列
 - [聊聊分布式锁](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495781&idx=1&sn=a979c6559d57a1257fa40c93aa432de7&chksm=c0e8288df79fa19b794b1671072c92ef434880bbb8c9ba141e3fe4394b6b0765088ad36d463b&token=375542673&lang=zh_CN#rd)
@@ -113,6 +114,7 @@
 - [Kafka性能篇：为何Kafka这么"快"？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491510&idx=1&sn=a7d5b0609295e319c3d2e96efd3fb6eb&chksm=c0ebc75ef79c4e48a9e8247a77bf3b45b6f3a835a45e3e85f5eea2a14cf1a5a7c6060adc5c65&token=375542673&lang=zh_CN#rd)  
 - [六问 Kafka 为啥那么牛！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491268&idx=1&sn=b9eb5ff0ed41a405b79aeacb70e860e5&chksm=c0ebc62cf79c4f3aca42da50507bba134bd6a86823d5e466ddc149a2e3dca464f2c587039cac&token=375542673&lang=zh_CN#rd)  
 - [聊聊RabbitMQ](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496186&idx=1&sn=a5a6cb4336c1d115f601926059d1aa0c&chksm=c0e82912f79fa0043492490ba328b500949d91a0b96c56c95ef6e7f6cd652894ee7a3e1b7620&token=1121830644&lang=zh_CN#rd)  
+- [阿里二面：什么是mmap？](https://mp.weixin.qq.com/s/Yfjiq90iG6KKuEKMSVy5oQ)  
 
 
 ## 缓存系列
@@ -148,6 +150,7 @@
 - [聊聊AQS](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493017&idx=1&sn=ca149ae57fd0fdc2b84c9a5cfea2f867&chksm=c0e83d71f79fb46791c0f599c01a098577e1b9274dfbcf81618f1d2aed6ba40915795ed243b4&token=375542673&lang=zh_CN#rd)   
 - [聊聊Java中那18 把锁](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491700&idx=1&sn=6ad0512fb2874b4e4a7da006bbbf0a61&chksm=c0e8389cf79fb18ac93255ab2029b60f779557d2854c8943e4d809ba2d32021f0bf8cd4f304a&token=375542673&lang=zh_CN#rd)   
 - [聊聊伪共享](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496114&idx=1&sn=5c87b3bfd4db6cd5b5aa3020b6b97383&chksm=c0e8295af79fa04c179b319ce7304d4a795b7fe175256ed7634abcdfe487221eb0ea41966673&token=1502528170&lang=zh_CN#rd)   
+- [面试官一个线程池问题把我问懵逼了](https://mp.weixin.qq.com/s/1OwV4NdMmt3Jhf8BgvFYWw)   
 
 ## JVM系列
 - [聊聊JVM](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495919&idx=1&sn=71010d91e376270afc31bbe61c8326aa&chksm=c0e82807f79fa111d7c339832f48c9542d5fc1540c1a619c1a3281040fc1631616e016d0dc36&token=1502528170&lang=zh_CN#rd)   
