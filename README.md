@@ -47,6 +47,7 @@
 - [这9种分布式ID生成方法，打死也要记住呀](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491057&idx=1&sn=b0ed7c63e54761905b1cbbef123f16f1&chksm=c0ebc519f79c4c0f2e66e1365d216d9d312a59938216a0e1c32bcc0377febcf5a1ad0158ffec&token=375542673&lang=zh_CN#rd)
 - [session、token、jwt、oauth2 傻傻分不清](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496146&idx=1&sn=7c0291f4fc84797e63c6e49f030e0557&chksm=c0e8293af79fa02c1fe26a49745e0994345858d845412f6f314ed32903e9667608d42a73a03e&token=1121830644&lang=zh_CN#rd)
 - [聊聊10种延迟任务](https://mp.weixin.qq.com/cgi-bin/home?t=home/index&token=1508828007&lang=zh_CN#tab=sent-panel)
+- [聊聊一致性hash算法](https://mp.weixin.qq.com/s/yy0Gmo_2fq4Mw9QEx4AfBg)
 
 ## 高可用系列
 - [搞懂异地多活，看这篇就够了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490455&idx=1&sn=74013dfc33c7d46626dca1a7ae048419&chksm=c0ebc37ff79c4a699b15040002f35ee7993dcf002cde34c2599234110369ea4f4732854c5f75&token=1121830644&lang=zh_CN#rd)
@@ -72,9 +73,11 @@
 
 ## springboot系列
 - [SpringBoot 生产中 16 条最佳实践](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493688&idx=1&sn=41c2ba075b218608b1e7654200cde714&chksm=c0e830d0f79fb9c6b02f8c608998ec2e2124df57ce74aa0ba15a0adb786d5a0b09c1ac932b54&token=375542673&lang=zh_CN#rd)   
+- [Spring Boot Admin，贼好使！](https://mp.weixin.qq.com/s/qglX8id8RRCB46D1SD82lw)   
 
 ## spring cloud
 - [深入理解 Ribbon 的架构原理](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490734&idx=1&sn=f55bc1f702ef3926f169e6ab529159f0&chksm=c0ebc446f79c4d5002f5ee4acbbd2651fdea8155cf64ba015b977928de596d1b746056f13525&token=375542673&lang=zh_CN#rd)   
+- [openFeign夺命连环9问](https://mp.weixin.qq.com/s/INJCuuW1chbosUEcsuSeAA)   
 
 ## spring cloud alibaba
 - [聊聊 Nacos](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494153&idx=1&sn=804e06cb87e9607bba05dc4cf4580c60&chksm=c0e832e1f79fbbf74440a2976f5cdb85771136b28b59d8d561864ebe3ab66759335ebb8dbea5&token=375542673&lang=zh_CN#rd)   
@@ -101,6 +104,7 @@
 - [mysql单表最多两千万条数据？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493756&idx=1&sn=6f894fac74251b794cb8a5db2bfce0fe&chksm=c0e83094f79fb982faa02c7238239f78f467e11f99df519a2316a25805799434cd1c820c9683&token=375542673&lang=zh_CN#rd) 
 - [聊聊Order By](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493408&idx=1&sn=18f4c3821065a77e0025c3ee50fa0d0e&chksm=c0e83fc8f79fb6def4c7c89d09a3633bdc50f5f03881e0f38e1516164bcb67934a5756ca8b02&token=375542673&lang=zh_CN#rd) 
 - [字节二面：一条慢sql如何优化？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491519&idx=2&sn=2f7eae8925b3bb74745d16b87999be20&chksm=c0ebc757f79c4e411569de394a0609071682d8fc7f586cf37188c23b123a8011973d475cab7d&token=375542673&lang=zh_CN#rd) 
+- [MySQL的redo log和bin log 真香](https://mp.weixin.qq.com/s/lA4cpJrG7ysek1monYqTgg) 
 
 ## 中间件系列
 - [Kafka能抗住百万并发的秘密](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495797&idx=1&sn=5e6a4e91695854fa4511ff6978b21ddf&chksm=c0e8289df79fa18ba0c1bf6dbc82017ab6b7df04cd73f6faf5db6d694ed33ecd67e3dbb3d5f4&token=375542673&lang=zh_CN#rd)  
@@ -135,6 +139,7 @@
 - [一次 MySQL 误操作导致P0级事故](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495705&idx=1&sn=89241040fa9741306d5311d3dabf0b04&chksm=c0e828f1f79fa1e7ca937d318735713d5431a8ac2f8b32e8fb1b7f0e0bdd675da2025e8906df&token=375542673&lang=zh_CN#rd)   
 - [复盘一次线上Redis缓存雪崩事故...](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493113&idx=1&sn=f456deed6a4a9221ace97b0358151c6e&chksm=c0e83d11f79fb407dfa7ec79376431dc687db99fdf45704ba90b9b3dfebaa8a0c0a28bffe3ca&token=375542673&lang=zh_CN#rd)   
 - [一次线上事故，我顿悟了异步](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496248&idx=2&sn=1636195a613aadc5e3ba4c4ec1ccddfc&chksm=c0e82ad0f79fa3c617cd326e990cf6f8d3fec57ab172db7ad9faf412f0addc9730c4c6220ba9&token=1508828007&lang=zh_CN#rd)   
+- [记一次dubbo内存泄露排查经历](https://mp.weixin.qq.com/s/SnqIUHP-hqqBQnWItaQLwQ)   
 
 
 ## 多线程
@@ -151,6 +156,7 @@
 - [聊聊Java中那18 把锁](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491700&idx=1&sn=6ad0512fb2874b4e4a7da006bbbf0a61&chksm=c0e8389cf79fb18ac93255ab2029b60f779557d2854c8943e4d809ba2d32021f0bf8cd4f304a&token=375542673&lang=zh_CN#rd)   
 - [聊聊伪共享](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496114&idx=1&sn=5c87b3bfd4db6cd5b5aa3020b6b97383&chksm=c0e8295af79fa04c179b319ce7304d4a795b7fe175256ed7634abcdfe487221eb0ea41966673&token=1502528170&lang=zh_CN#rd)   
 - [面试官一个线程池问题把我问懵逼了](https://mp.weixin.qq.com/s/1OwV4NdMmt3Jhf8BgvFYWw)   
+- [当Synchronized遇到这玩意儿，有个大坑，要注意！](https://mp.weixin.qq.com/s/PV7sRUVYbNjV_BpZYS0qzg)   
 
 ## JVM系列
 - [聊聊JVM](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495919&idx=1&sn=71010d91e376270afc31bbe61c8326aa&chksm=c0e82807f79fa111d7c339832f48c9542d5fc1540c1a619c1a3281040fc1631616e016d0dc36&token=1502528170&lang=zh_CN#rd)   
