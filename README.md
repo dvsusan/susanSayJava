@@ -46,7 +46,7 @@
 - [聊聊API网关](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493730&idx=1&sn=514173fff413c785c2fb6770361487de&chksm=c0e8308af79fb99cbd275c5df551cd4bbba6c4bb2f14b00a8d544711864cb3e91d44fec5be82&token=375542673&lang=zh_CN#rd)
 - [这9种分布式ID生成方法，打死也要记住呀](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491057&idx=1&sn=b0ed7c63e54761905b1cbbef123f16f1&chksm=c0ebc519f79c4c0f2e66e1365d216d9d312a59938216a0e1c32bcc0377febcf5a1ad0158ffec&token=375542673&lang=zh_CN#rd)
 - [session、token、jwt、oauth2 傻傻分不清](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496146&idx=1&sn=7c0291f4fc84797e63c6e49f030e0557&chksm=c0e8293af79fa02c1fe26a49745e0994345858d845412f6f314ed32903e9667608d42a73a03e&token=1121830644&lang=zh_CN#rd)
-- [聊聊10种延迟任务](https://mp.weixin.qq.com/cgi-bin/home?t=home/index&token=1508828007&lang=zh_CN#tab=sent-panel)
+- [聊聊10种延迟任务](https://mp.weixin.qq.com/s/m8xF8GQKi82wLF2kYNBumA)
 - [聊聊一致性hash算法](https://mp.weixin.qq.com/s/yy0Gmo_2fq4Mw9QEx4AfBg)
 - [Redis 分布式锁｜从青铜到钻石的五种演进方案](https://mp.weixin.qq.com/s/2xhjrkpZNaA6NH4MV0gz6A)
 - [对比 5 种分布式事务方案，还是宠幸了阿里的 Seata](https://mp.weixin.qq.com/s/Uot4d_6ys9qmvnp2PrCXAw)   
