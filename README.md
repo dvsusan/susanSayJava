@@ -57,6 +57,7 @@
 - [你管这破玩意儿叫负载均衡?](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491502&idx=1&sn=981658cf1bb24842211f8abe9c3ef156&chksm=c0ebc746f79c4e504e64be95dbc21b85a1ded3be5772a7707b711f7e0ab419bd697003baab06&token=375542673&lang=zh_CN#rd)
 - [聊聊高可用](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494085&idx=1&sn=c79d9b7841dd67ad3243e87f18779e45&chksm=c0e8312df79fb83b0aefd8e4dc0e1b75af93243bbcd5896203a15fddf3774e4b7194b3d0956c&token=1121830644&lang=zh_CN#rd)
 - [B站崩在这里...](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496241&idx=1&sn=041cf3e733490a659093b3a2f8f9a730&chksm=c0e82ad9f79fa3cf1fc58c3438023a031b860d6a0d47ca7c3715f258e67704f8c936b66fb041&token=1508828007&lang=zh_CN#rd)
+- [如何优雅停机？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496477&idx=1&sn=3382cf474cd045f216ca07b008746c23&chksm=c0e82bf5f79fa2e3368632358b9991c4db4468606554ffe42cf08a18933508a05783066132cd&token=1690710950&lang=zh_CN#rd)
 
 
 ## spring系列
@@ -163,6 +164,7 @@
 - [面试官一个线程池问题把我问懵逼了](https://mp.weixin.qq.com/s/1OwV4NdMmt3Jhf8BgvFYWw)   
 - [当Synchronized遇到这玩意儿，有个大坑，要注意！](https://mp.weixin.qq.com/s/PV7sRUVYbNjV_BpZYS0qzg)   
 - [JAVA并发十二连招，你能接住吗？](https://mp.weixin.qq.com/s/asVIrMWDJkBPojdRRZnKzQ)   
+- [看起来是线程池的BUG，但是我认为是源码设计不合理。](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496479&idx=2&sn=c7c1318578a3e227921eacb7a84f2f74&chksm=c0e82bf7f79fa2e1209052272e57554cb59f74263d16ac04cf088cf4cf54298d25ebfac85c77&token=1690710950&lang=zh_CN#rd)   
 
 ## JVM系列
 - [聊聊JVM](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495919&idx=1&sn=71010d91e376270afc31bbe61c8326aa&chksm=c0e82807f79fa111d7c339832f48c9542d5fc1540c1a619c1a3281040fc1631616e016d0dc36&token=1502528170&lang=zh_CN#rd)   
@@ -191,6 +193,7 @@
 - [单例模式，真不简单](./docs/基础/单例模式，真不简单.md)   
 - [迷茫了，我们到底该不该用lombok？](./docs/基础/迷茫了，我们到底该不该用lombok？.md)   
 - [为什么网络 I/O 会被阻塞？](https://mp.weixin.qq.com/s/7mT9lZNCtpPe4xEfu9s5xQ)   
+- [聊聊Java中代码优化的30个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496758&idx=1&sn=ca7ad0708b1349c5bafadb96adb56170&chksm=c0e82cdef79fa5c88b9861aa9953a6178f10bcd5151c51824d1a61856eff0dd21674335975ce&token=1581341365&lang=zh_CN#rd)   
 
 ## 网络
 - [断网了，还能ping通 127.0.0.1 吗？](https://mp.weixin.qq.com/s/n9gTRLgw_tnVl90zywrdcg)   
