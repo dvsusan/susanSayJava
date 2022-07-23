@@ -87,6 +87,7 @@
 - [聊聊 Nacos](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494153&idx=1&sn=804e06cb87e9607bba05dc4cf4580c60&chksm=c0e832e1f79fbbf74440a2976f5cdb85771136b28b59d8d561864ebe3ab66759335ebb8dbea5&token=375542673&lang=zh_CN#rd)   
 - [Seata的那些过人之处](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490513&idx=1&sn=713228191b96d5e681f07926cb43ace1&chksm=c0ebc339f79c4a2f5cb87b20ae1752a409ad834e6c3f4b4bf5534990a3df09cccf569c5c6045&token=375542673&lang=zh_CN#rd)   
 - [聊聊 Sentinel](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494221&idx=1&sn=739cc31be175ca6e2673842444ea4ab1&chksm=c0e832a5f79fbbb3006e877c7bea52fe5313cca1e537c871f852417493be6590c44f2c2f6bbc&token=375542673&lang=zh_CN#rd)   
+- [OpenFeign的9个坑，每个都能让你的系统奔溃](https://mp.weixin.qq.com/s/g4r4uof8G3IRE7ngo2U_OQ)   
 
  
 ## 数据库系列
@@ -110,6 +111,7 @@
 - [字节二面：一条慢sql如何优化？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491519&idx=2&sn=2f7eae8925b3bb74745d16b87999be20&chksm=c0ebc757f79c4e411569de394a0609071682d8fc7f586cf37188c23b123a8011973d475cab7d&token=375542673&lang=zh_CN#rd) 
 - [MySQL的redo log和bin log 真香](https://mp.weixin.qq.com/s/lA4cpJrG7ysek1monYqTgg) 
 - [mysql十个核心知识点拿走不谢](https://mp.weixin.qq.com/s/zCR-bccW6aoNrVpwRTGBiw) 
+- [MySQL为Null导致的5大坑](https://mp.weixin.qq.com/s/ES-cZBsawOR80JzUSR9LaA) 
 
 
 ## 中间件系列
@@ -125,6 +127,9 @@
 - [六问 Kafka 为啥那么牛！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491268&idx=1&sn=b9eb5ff0ed41a405b79aeacb70e860e5&chksm=c0ebc62cf79c4f3aca42da50507bba134bd6a86823d5e466ddc149a2e3dca464f2c587039cac&token=375542673&lang=zh_CN#rd)  
 - [聊聊RabbitMQ](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496186&idx=1&sn=a5a6cb4336c1d115f601926059d1aa0c&chksm=c0e82912f79fa0043492490ba328b500949d91a0b96c56c95ef6e7f6cd652894ee7a3e1b7620&token=1121830644&lang=zh_CN#rd)  
 - [阿里二面：什么是mmap？](https://mp.weixin.qq.com/s/Yfjiq90iG6KKuEKMSVy5oQ)  
+- [18张图带你搞透Kafka的存储架构](https://mp.weixin.qq.com/s/6jQcrInoJakDj9O-2Ct2SQ)  
+- [Kafka 连环20问](https://mp.weixin.qq.com/s/DM3z8aM0CqAzWGwXEIzBhQ)  
+- [7张图揭晓RocketMQ存储设计的精髓](https://mp.weixin.qq.com/s/7szWAxW3Huog5lnHTCgn2w)  
 
 
 ## 缓存系列
@@ -188,9 +193,12 @@
 - [学会这10种定时任务，我有点飘了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490314&idx=1&sn=29ddf0c1e99675b86cdfc082556a69a9&chksm=c0ebc3e2f79c4af43cf8582d41b0bc3ede57986cc6c115b103b586a2c7bddb4475555e919b20&token=1121830644&lang=zh_CN#rd) 
 - [有了HTTP，为什么还要RPC？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495646&idx=1&sn=6c77dc78bea23c96dc64193bf82bbcec&chksm=c0e83736f79fbe20eb953e1e2a6ace6ef687faaca1c9e3cdb7646f2a25ab70d454269ced8d4c&token=1121830644&lang=zh_CN#rd) 
 
+## 设计模式
+- [单例模式，真不简单](./docs/基础/单例模式，真不简单.md)   
+- [聊聊工作中必用的6种设计模式](https://mp.weixin.qq.com/s/H-OurMV7I6g5EqW_MIaOww)   
+
 ## 基础知识
 - [java中那些让你傻傻分不清楚的小细节](./docs/基础/java中那些让你傻傻分不清楚的小细节.md)   
-- [单例模式，真不简单](./docs/基础/单例模式，真不简单.md)   
 - [迷茫了，我们到底该不该用lombok？](./docs/基础/迷茫了，我们到底该不该用lombok？.md)   
 - [为什么网络 I/O 会被阻塞？](https://mp.weixin.qq.com/s/7mT9lZNCtpPe4xEfu9s5xQ)   
 - [聊聊Java中代码优化的30个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496758&idx=1&sn=ca7ad0708b1349c5bafadb96adb56170&chksm=c0e82cdef79fa5c88b9861aa9953a6178f10bcd5151c51824d1a61856eff0dd21674335975ce&token=1581341365&lang=zh_CN#rd)   
