@@ -50,6 +50,7 @@
 - [聊聊一致性hash算法](https://mp.weixin.qq.com/s/yy0Gmo_2fq4Mw9QEx4AfBg)
 - [Redis 分布式锁｜从青铜到钻石的五种演进方案](https://mp.weixin.qq.com/s/2xhjrkpZNaA6NH4MV0gz6A)
 - [对比 5 种分布式事务方案，还是宠幸了阿里的 Seata](https://mp.weixin.qq.com/s/Uot4d_6ys9qmvnp2PrCXAw)   
+- [聊聊分库分表](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496764&idx=1&sn=80ad84ec0348c6045c110c9ba9d29e6b&chksm=c0e82cd4f79fa5c28498b3642e147b1771d83c882be1a90fcf8244fb931c9640967283098bab&token=1446978876&lang=zh_CN#rd)   
 
 
 ## 高可用系列
@@ -112,6 +113,7 @@
 - [MySQL的redo log和bin log 真香](https://mp.weixin.qq.com/s/lA4cpJrG7ysek1monYqTgg) 
 - [mysql十个核心知识点拿走不谢](https://mp.weixin.qq.com/s/zCR-bccW6aoNrVpwRTGBiw) 
 - [MySQL为Null导致的5大坑](https://mp.weixin.qq.com/s/ES-cZBsawOR80JzUSR9LaA) 
+- [MySQL夺命66问](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496901&idx=1&sn=e9070382523cc007a1d037754eb40320&chksm=c0e82c2df79fa53b076029a9578b5368c204428cb0ad1a9941ef8708b27048e79d95c60624eb&token=1446978876&lang=zh_CN#rd) 
 
 
 ## 中间件系列
@@ -205,6 +207,8 @@
 
 ## 网络
 - [断网了，还能ping通 127.0.0.1 吗？](https://mp.weixin.qq.com/s/n9gTRLgw_tnVl90zywrdcg)   
+- [HTTP/3发布了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496895&idx=1&sn=a3d100d7f6d4b67f691f1b19e7f07b1e&chksm=c0e82c57f79fa54148f4f912a7db751236d27dd8452fc0affd818cc6d8825b3a01ec8a44ea72&token=1446978876&lang=zh_CN#rd)   
+- [输入 xxxhub 的背后到底发生了什么?](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496772&idx=1&sn=6f73c91c982928c0e7e11a30ff92ec94&chksm=c0e82cacf79fa5ba1e67353fb78f205fea88557208332676cc89aa90ad7135fd5411666182b1&token=1446978876&lang=zh_CN#rd)   
 
 
 ## 踩坑日记
