@@ -52,7 +52,6 @@
 - [对比 5 种分布式事务方案，还是宠幸了阿里的 Seata](https://mp.weixin.qq.com/s/Uot4d_6ys9qmvnp2PrCXAw)   
 - [聊聊分库分表](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496764&idx=1&sn=80ad84ec0348c6045c110c9ba9d29e6b&chksm=c0e82cd4f79fa5c28498b3642e147b1771d83c882be1a90fcf8244fb931c9640967283098bab&token=1446978876&lang=zh_CN#rd)   
 
-
 ## 高可用系列
 - [搞懂异地多活，看这篇就够了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490455&idx=1&sn=74013dfc33c7d46626dca1a7ae048419&chksm=c0ebc37ff79c4a699b15040002f35ee7993dcf002cde34c2599234110369ea4f4732854c5f75&token=1121830644&lang=zh_CN#rd)
 - [你管这破玩意儿叫负载均衡?](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491502&idx=1&sn=981658cf1bb24842211f8abe9c3ef156&chksm=c0ebc746f79c4e504e64be95dbc21b85a1ded3be5772a7707b711f7e0ab419bd697003baab06&token=375542673&lang=zh_CN#rd)
