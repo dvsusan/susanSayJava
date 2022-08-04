@@ -37,6 +37,7 @@
 - [从20s优化到500ms，我用了这三招](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495991&idx=1&sn=f7ff015da0de21c2fac603b711918c8a&chksm=c0e829dff79fa0c9d76c9f6eff3448fd78ee5f2f7b348d37b24bb07fbece2ea193dbb23c38d7&token=375542673&lang=zh_CN#rd) 
 - [如何用 Java 几分钟处理完 30 亿个数据?](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496011&idx=1&sn=a2450defef6d94fccdb962e1c6f8a826&chksm=c0e829a3f79fa0b524d3229ab0cdc511ee445e0e9cd6234799e209f0bbf8c1a858cecbbdf577&token=1502528170&lang=zh_CN#rd) 
 - [并发环境下，先操作数据库还是先操作缓存？](https://mp.weixin.qq.com/s/i1V34oH6_8WsTu0IpPuwqQ) 
+- [接口流量突增，如何做好性能优化？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496949&idx=2&sn=6640e0fa214de3c67d8b374aa8819977&chksm=c0e82c1df79fa50beee26ab141e596bc8f0d471e732f531562e7a0ded5f36a575f8e895f180b&token=1780081529&lang=zh_CN#rd) 
 
 ## 分布式系列
 - [聊聊分布式锁](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495781&idx=1&sn=a979c6559d57a1257fa40c93aa432de7&chksm=c0e8288df79fa19b794b1671072c92ef434880bbb8c9ba141e3fe4394b6b0765088ad36d463b&token=375542673&lang=zh_CN#rd)
@@ -51,6 +52,7 @@
 - [Redis 分布式锁｜从青铜到钻石的五种演进方案](https://mp.weixin.qq.com/s/2xhjrkpZNaA6NH4MV0gz6A)
 - [对比 5 种分布式事务方案，还是宠幸了阿里的 Seata](https://mp.weixin.qq.com/s/Uot4d_6ys9qmvnp2PrCXAw)   
 - [聊聊分库分表](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496764&idx=1&sn=80ad84ec0348c6045c110c9ba9d29e6b&chksm=c0e82cd4f79fa5c28498b3642e147b1771d83c882be1a90fcf8244fb931c9640967283098bab&token=1446978876&lang=zh_CN#rd)   
+- [实现web实时消息推送的7种方案](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496923&idx=1&sn=38e0b64b4b365a1c60d64f6a83e7a519&chksm=c0e82c33f79fa5255b5c87ecbaded2f99229b14e5f70b8614112ac8854583ea52f0dce798147&token=1780081529&lang=zh_CN#rd)   
 
 ## 高可用系列
 - [搞懂异地多活，看这篇就够了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490455&idx=1&sn=74013dfc33c7d46626dca1a7ae048419&chksm=c0ebc37ff79c4a699b15040002f35ee7993dcf002cde34c2599234110369ea4f4732854c5f75&token=1121830644&lang=zh_CN#rd)
@@ -113,6 +115,7 @@
 - [mysql十个核心知识点拿走不谢](https://mp.weixin.qq.com/s/zCR-bccW6aoNrVpwRTGBiw) 
 - [MySQL为Null导致的5大坑](https://mp.weixin.qq.com/s/ES-cZBsawOR80JzUSR9LaA) 
 - [MySQL夺命66问](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496901&idx=1&sn=e9070382523cc007a1d037754eb40320&chksm=c0e82c2df79fa53b076029a9578b5368c204428cb0ad1a9941ef8708b27048e79d95c60624eb&token=1446978876&lang=zh_CN#rd) 
+- [明明加了唯一索引，为什么还是产生重复数据？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497090&idx=1&sn=53b81535a9815853382c3a4bff8c844b&chksm=c0e82d6af79fa47ccfece23a8b0ad46ef6c647f1d2f961823eed181732c47e250ed0cbcfe6fd&token=1780081529&lang=zh_CN#rd) 
 
 
 ## 中间件系列
@@ -131,6 +134,7 @@
 - [18张图带你搞透Kafka的存储架构](https://mp.weixin.qq.com/s/6jQcrInoJakDj9O-2Ct2SQ)  
 - [Kafka 连环20问](https://mp.weixin.qq.com/s/DM3z8aM0CqAzWGwXEIzBhQ)  
 - [7张图揭晓RocketMQ存储设计的精髓](https://mp.weixin.qq.com/s/7szWAxW3Huog5lnHTCgn2w)  
+- [RabbitMQ、RocketMQ、Kafka 三元归一](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496933&idx=1&sn=c92d226f2e5ec3be467e3c5715967005&chksm=c0e82c0df79fa51bfeaffbd14d732ad03a9235a59a46fc6b428cbbe401883e51cce4481ce893&token=1780081529&lang=zh_CN#rd)  
 
 
 ## 缓存系列
@@ -171,6 +175,7 @@
 - [当Synchronized遇到这玩意儿，有个大坑，要注意！](https://mp.weixin.qq.com/s/PV7sRUVYbNjV_BpZYS0qzg)   
 - [JAVA并发十二连招，你能接住吗？](https://mp.weixin.qq.com/s/asVIrMWDJkBPojdRRZnKzQ)   
 - [看起来是线程池的BUG，但是我认为是源码设计不合理。](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496479&idx=2&sn=c7c1318578a3e227921eacb7a84f2f74&chksm=c0e82bf7f79fa2e1209052272e57554cb59f74263d16ac04cf088cf4cf54298d25ebfac85c77&token=1690710950&lang=zh_CN#rd)   
+- [聊聊异步编程的 7 种实现方式](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496908&idx=1&sn=79ec332b4e5d390ce103b0cb15b5a0b0&chksm=c0e82c24f79fa5323bff7f2144190e272f849435a408148bc41107085ac8c7c26066d4b8baed&token=1780081529&lang=zh_CN#rd)   
 
 ## JVM系列
 - [聊聊JVM](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495919&idx=1&sn=71010d91e376270afc31bbe61c8326aa&chksm=c0e82807f79fa111d7c339832f48c9542d5fc1540c1a619c1a3281040fc1631616e016d0dc36&token=1502528170&lang=zh_CN#rd)   
