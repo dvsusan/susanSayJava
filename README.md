@@ -1,5 +1,7 @@
 ⭐ 点右上角给一个 Star，鼓励技术人输出更多干货，爱了 ！
 
+这里有面试八股文，面试真题，工作经验分享，踩坑日记，学习路线，还有个人成长经历等。
+
 作者苏三浪迹过几家大厂，掘金优秀创作者，阿里云专家博主，腾讯云年度潜力作者，CSDN万粉博主。
 
 <div align="center">
@@ -198,6 +200,11 @@
 - [这个神器让我的代码bug少了一半](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490250&amp;idx=1&amp;sn=bf92cd67ea7d271a40e86953da87726d&amp;chksm=c0ebc222f79c4b3427641bdafc3cc54f5fafc949dc98be7f2899cb0fd33c4474486696e8bfa5&token=751314179&lang=zh_CN#rd) 
 - [学会这10种定时任务，我有点飘了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490314&idx=1&sn=29ddf0c1e99675b86cdfc082556a69a9&chksm=c0ebc3e2f79c4af43cf8582d41b0bc3ede57986cc6c115b103b586a2c7bddb4475555e919b20&token=1121830644&lang=zh_CN#rd) 
 - [有了HTTP，为什么还要RPC？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495646&idx=1&sn=6c77dc78bea23c96dc64193bf82bbcec&chksm=c0e83736f79fbe20eb953e1e2a6ace6ef687faaca1c9e3cdb7646f2a25ab70d454269ced8d4c&token=1121830644&lang=zh_CN#rd) 
+
+## 系统设计
+- [红包雨：Redis 和 Lua 的奇妙邂逅](https://mp.weixin.qq.com/s?__biz=MzIyNTYzNDE5MQ==&mid=2247504090&idx=1&sn=cb3c72842390ee6fef950b1f80c56b40&chksm=e87e223adf09ab2cf3c4ffc5c0c587fc08e7c5ddce38f2880918f163a793d80813585c157032&token=1495241346&lang=zh_CN#rd)   
+- [权限系统就该这么设计，yyds](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497097&idx=1&sn=4225f4fe59f2d77d0f3686009bab48ae&chksm=c0e82d61f79fa477ec30cf750aef113fa872a8962821eb782a70419c8b842d7b65e85718e427&token=1495241346&lang=zh_CN#rd)   
+
 
 ## 设计模式
 - [单例模式，真不简单](./docs/基础/单例模式，真不简单.md)   
