@@ -55,6 +55,7 @@
 - [对比 5 种分布式事务方案，还是宠幸了阿里的 Seata](https://mp.weixin.qq.com/s/Uot4d_6ys9qmvnp2PrCXAw)   
 - [聊聊分库分表](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496764&idx=1&sn=80ad84ec0348c6045c110c9ba9d29e6b&chksm=c0e82cd4f79fa5c28498b3642e147b1771d83c882be1a90fcf8244fb931c9640967283098bab&token=1446978876&lang=zh_CN#rd)   
 - [实现web实时消息推送的7种方案](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496923&idx=1&sn=38e0b64b4b365a1c60d64f6a83e7a519&chksm=c0e82c33f79fa5255b5c87ecbaded2f99229b14e5f70b8614112ac8854583ea52f0dce798147&token=1780081529&lang=zh_CN#rd)   
+- [聊聊分布式ID](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497161&idx=1&sn=a133091a716e9c682cb952577fec146a&chksm=c0e82d21f79fa4374c49dbc0f1be16cec2423812cbf315ff4926baf1b929ff6496e80a783b83&token=1650035797&lang=zh_CN#rd)   
 
 ## 高可用系列
 - [搞懂异地多活，看这篇就够了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490455&idx=1&sn=74013dfc33c7d46626dca1a7ae048419&chksm=c0ebc37ff79c4a699b15040002f35ee7993dcf002cde34c2599234110369ea4f4732854c5f75&token=1121830644&lang=zh_CN#rd)
@@ -118,6 +119,7 @@
 - [MySQL为Null导致的5大坑](https://mp.weixin.qq.com/s/ES-cZBsawOR80JzUSR9LaA) 
 - [MySQL夺命66问](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496901&idx=1&sn=e9070382523cc007a1d037754eb40320&chksm=c0e82c2df79fa53b076029a9578b5368c204428cb0ad1a9941ef8708b27048e79d95c60624eb&token=1446978876&lang=zh_CN#rd) 
 - [明明加了唯一索引，为什么还是产生重复数据？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497090&idx=1&sn=53b81535a9815853382c3a4bff8c844b&chksm=c0e82d6af79fa47ccfece23a8b0ad46ef6c647f1d2f961823eed181732c47e250ed0cbcfe6fd&token=1780081529&lang=zh_CN#rd) 
+- [聊聊MVCC](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497137&idx=1&sn=6aaaadc31e0060f2ae7e6c656a3f02e7&chksm=c0e82d59f79fa44f446c336e8e205c3c3badabd042e0457385d5cac609897982767dae7ebe8c&token=1650035797&lang=zh_CN#rd) 
 
 
 ## 中间件系列
@@ -220,6 +222,7 @@
 - [断网了，还能ping通 127.0.0.1 吗？](https://mp.weixin.qq.com/s/n9gTRLgw_tnVl90zywrdcg)   
 - [HTTP/3发布了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496895&idx=1&sn=a3d100d7f6d4b67f691f1b19e7f07b1e&chksm=c0e82c57f79fa54148f4f912a7db751236d27dd8452fc0affd818cc6d8825b3a01ec8a44ea72&token=1446978876&lang=zh_CN#rd)   
 - [输入 xxxhub 的背后到底发生了什么?](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496772&idx=1&sn=6f73c91c982928c0e7e11a30ff92ec94&chksm=c0e82cacf79fa5ba1e67353fb78f205fea88557208332676cc89aa90ad7135fd5411666182b1&token=1446978876&lang=zh_CN#rd)   
+- [既然有HTTP协议，为什么还要有RPC](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497130&idx=1&sn=5bcc60dee03c1eae0043dd014c42677b&chksm=c0e82d42f79fa45409316e2d5a56b88ed332e54069e23a1d98558c65915fdc837f497b82ed8c&token=1650035797&lang=zh_CN#rd)   
 
 
 ## 踩坑日记
