@@ -64,6 +64,7 @@
 - [聊聊高可用](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494085&idx=1&sn=c79d9b7841dd67ad3243e87f18779e45&chksm=c0e8312df79fb83b0aefd8e4dc0e1b75af93243bbcd5896203a15fddf3774e4b7194b3d0956c&token=1121830644&lang=zh_CN#rd)
 - [B站崩在这里...](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496241&idx=1&sn=041cf3e733490a659093b3a2f8f9a730&chksm=c0e82ad9f79fa3cf1fc58c3438023a031b860d6a0d47ca7c3715f258e67704f8c936b66fb041&token=1508828007&lang=zh_CN#rd)
 - [如何优雅停机？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496477&idx=1&sn=3382cf474cd045f216ca07b008746c23&chksm=c0e82bf5f79fa2e3368632358b9991c4db4468606554ffe42cf08a18933508a05783066132cd&token=1690710950&lang=zh_CN#rd)
+- [5 种 API 网关技术选型，yyds](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497590&idx=1&sn=0e4f4eaf95c02fecf70ad75ed8e6b91b&chksm=c0e82f9ef79fa688c08e8e60be75e560decb0b633cfad08019997883893f47f0d2d07716b66f&token=741870596&lang=zh_CN#rd)
 
 
 ## spring系列
@@ -80,6 +81,7 @@
 - [@Autowired的这些骚操作你知道吗？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490385&amp;idx=1&amp;sn=e84b36485c823041aad6a55a4f357534&amp;chksm=c0ebc3b9f79c4aafd37a7178c3b72c95dd49dd595feddd5950ff92f2792f9c482dd3bdd778f6&token=751314179&lang=zh_CN#rd)   
 - [@Value竟然能玩出这么多花样？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490444&amp;idx=1&amp;sn=6f10e002f38ffd3cebf4fa1746123950&amp;chksm=c0ebc364f79c4a72415f8380ed3821d67cff0485aef230a256bbca0f37bf44a6b97f527f489e&token=751314179&lang=zh_CN#rd)   
 - [面试前看了这篇spring事务的文章，让我多要了2k的工资](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490224&idx=1&sn=c32cc226d2b4201649b51f404844c1f7&chksm=c0ebc258f79c4b4ebfb3454cc284be5886ad5084a32c6487bca4380d3f65e2f35c572dbd2b28&token=660773166&lang=zh_CN&scene=21#wechat_redirect)   
+- [聊聊Spring事务](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497429&idx=1&sn=e699c3930f4a49b782c6731de24147d6&chksm=c0e82e3df79fa72bd072aa09af7aa1011b4b34ebf97574a3b41f6c39ffef2f3445841e0a1a06&token=741870596&lang=zh_CN#rd)   
 
 ## springboot系列
 - [SpringBoot 生产中 16 条最佳实践](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493688&idx=1&sn=41c2ba075b218608b1e7654200cde714&chksm=c0e830d0f79fb9c6b02f8c608998ec2e2124df57ce74aa0ba15a0adb786d5a0b09c1ac932b54&token=375542673&lang=zh_CN#rd)   
@@ -94,6 +96,7 @@
 - [Seata的那些过人之处](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490513&idx=1&sn=713228191b96d5e681f07926cb43ace1&chksm=c0ebc339f79c4a2f5cb87b20ae1752a409ad834e6c3f4b4bf5534990a3df09cccf569c5c6045&token=375542673&lang=zh_CN#rd)   
 - [聊聊 Sentinel](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494221&idx=1&sn=739cc31be175ca6e2673842444ea4ab1&chksm=c0e832a5f79fbbb3006e877c7bea52fe5313cca1e537c871f852417493be6590c44f2c2f6bbc&token=375542673&lang=zh_CN#rd)   
 - [OpenFeign的9个坑，每个都能让你的系统奔溃](https://mp.weixin.qq.com/s/g4r4uof8G3IRE7ngo2U_OQ)   
+- [Spring Cloud Gateway + JWT 实现登录认证](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497606&idx=1&sn=03c5996d2ba3aade0ec154bf9c42a32d&chksm=c0e82f6ef79fa67858aef0ed3bd5d41e51acfefa72e54756cb65cae291f626ab72d97ce806fd#rd)   
 
  
 ## 数据库系列
@@ -122,6 +125,8 @@
 - [明明加了唯一索引，为什么还是产生重复数据？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497090&idx=1&sn=53b81535a9815853382c3a4bff8c844b&chksm=c0e82d6af79fa47ccfece23a8b0ad46ef6c647f1d2f961823eed181732c47e250ed0cbcfe6fd&token=1780081529&lang=zh_CN#rd) 
 - [聊聊MVCC](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497137&idx=1&sn=6aaaadc31e0060f2ae7e6c656a3f02e7&chksm=c0e82d59f79fa44f446c336e8e205c3c3badabd042e0457385d5cac609897982767dae7ebe8c&token=1650035797&lang=zh_CN#rd) 
 - [mysql查询 limit 1000,10 和limit 10 一样快吗？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497172&idx=1&sn=ee11773a596308a65321aa213b5d9a6f&chksm=c0e82d3cf79fa42a409d95d7036f8d5c384cb98164bcb198ef3e3e950a6c3112de6351c85ae8&token=1106409335&lang=zh_CN#rd) 
+- [count(*)为什么会慢？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497604&idx=1&sn=29ee3ccb8f01cf842ccc5aa841383150&chksm=c0e82f6cf79fa67a7d61757ea5619b9ad2e665ed97e5fbb7fa51b612289a9ff26ce445f26438&token=741870596&lang=zh_CN#rd) 
+- [聊聊数据库建表的15个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497540&idx=1&sn=06872bca65725e1384762b6cb7438879&chksm=c0e82facf79fa6ba657d70a1189ae0d598cf6b667773c329355dc4f57f97a90a5d7e0656cef4&token=741870596&lang=zh_CN#rd) 
 
 
 ## 中间件系列
@@ -153,6 +158,8 @@
 - [腾讯二面：Redis 事务支持 ACID 么？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490960&idx=1&sn=c2418b1820cf06a14460d2ef5e5508d4&chksm=c0ebc578f79c4c6e93d348cbd6e27097908a507ba6af7ef13d02fc8746ce44464e935fc493e3&token=375542673&lang=zh_CN#rd)  
 - [聊聊Redis的9种数据类型](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495654&idx=2&sn=3b1d57f93ba722d24b504eb0dc1b9121&chksm=c0e8370ef79fbe1860537c341a6a6749f83a1dee1fbca99dd26f393354bac7d1c41ad7cc8070&token=1502528170&lang=zh_CN#rd)  
 - [聊聊Redis内存优化的7个神技](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496151&idx=1&sn=bcef0cb1c1e6ab5ffc7ce36915940728&chksm=c0e8293ff79fa029f60f3d22bef5cbc5fcb5eb70ba519990a13a5de0a6aa705992f380246e1b&token=1121830644&lang=zh_CN#rd)  
+- [Redis不是单线程的吗，为什么又要用多线程？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497594&idx=1&sn=f517cf8f7fcfeb5e61fe18fb30a66ddc&chksm=c0e82f92f79fa684bdd453609cae0007d92acc5b1f57ada3b0b04226b9170817ab011b230f93#rd)  
+- [RedisJson横空出世，性能碾压 ES 和 MongoDB](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497410&idx=1&sn=d57ec067c3495e27f26601d6a6dd374e&chksm=c0e82e2af79fa73c574a2e0bbacba13bf913808d49579646fd6be90b6f6b747476aa0d8d8cfc&token=741870596&lang=zh_CN#rd)  
 
 ## 线上问题
 - [分布式下的区域问题，让我们大战了300回合](https://mp.weixin.qq.com/s/pdiJayi-ab0glJly9oJNjw)  
