@@ -65,6 +65,7 @@
 - [B站崩在这里...](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496241&idx=1&sn=041cf3e733490a659093b3a2f8f9a730&chksm=c0e82ad9f79fa3cf1fc58c3438023a031b860d6a0d47ca7c3715f258e67704f8c936b66fb041&token=1508828007&lang=zh_CN#rd)
 - [如何优雅停机？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496477&idx=1&sn=3382cf474cd045f216ca07b008746c23&chksm=c0e82bf5f79fa2e3368632358b9991c4db4468606554ffe42cf08a18933508a05783066132cd&token=1690710950&lang=zh_CN#rd)
 - [5 种 API 网关技术选型，yyds](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497590&idx=1&sn=0e4f4eaf95c02fecf70ad75ed8e6b91b&chksm=c0e82f9ef79fa688c08e8e60be75e560decb0b633cfad08019997883893f47f0d2d07716b66f&token=741870596&lang=zh_CN#rd)
+- [聊聊 8 种架构模式](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498105&idx=1&sn=ba65a488862ac2c9ba0a8740d1115bbb&chksm=c0e82191f79fa887113eb056e053c29c417e79782659ab7b616128f1b5768437f9154622c726&token=609351868&lang=zh_CN#rd)
 
 
 ## spring系列
@@ -82,6 +83,7 @@
 - [@Value竟然能玩出这么多花样？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490444&amp;idx=1&amp;sn=6f10e002f38ffd3cebf4fa1746123950&amp;chksm=c0ebc364f79c4a72415f8380ed3821d67cff0485aef230a256bbca0f37bf44a6b97f527f489e&token=751314179&lang=zh_CN#rd)   
 - [面试前看了这篇spring事务的文章，让我多要了2k的工资](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490224&idx=1&sn=c32cc226d2b4201649b51f404844c1f7&chksm=c0ebc258f79c4b4ebfb3454cc284be5886ad5084a32c6487bca4380d3f65e2f35c572dbd2b28&token=660773166&lang=zh_CN&scene=21#wechat_redirect)   
 - [聊聊Spring事务](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497429&idx=1&sn=e699c3930f4a49b782c6731de24147d6&chksm=c0e82e3df79fa72bd072aa09af7aa1011b4b34ebf97574a3b41f6c39ffef2f3445841e0a1a06&token=741870596&lang=zh_CN#rd)   
+- [聊聊Bean的生命周期](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498002&idx=1&sn=213ad69a0cc21fb8dbc05e79e2e48974&chksm=c0e821faf79fa8ec2fe25dd9463db1870a100250adc7ea7853782d8b0779c9c2586f6f8ee5d4&token=609351868&lang=zh_CN#rd)   
 
 ## springboot系列
 - [SpringBoot 生产中 16 条最佳实践](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493688&idx=1&sn=41c2ba075b218608b1e7654200cde714&chksm=c0e830d0f79fb9c6b02f8c608998ec2e2124df57ce74aa0ba15a0adb786d5a0b09c1ac932b54&token=375542673&lang=zh_CN#rd)   
@@ -101,7 +103,7 @@
  
 ## 数据库系列
 - [聊聊sql优化的15个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490473&amp;idx=1&amp;sn=ba07d64aa8c89054bd263efd660d3a3f&amp;chksm=c0ebc341f79c4a579a6f41465df0459a696ab8ef0499a5f6fd76269af1064fde0286afdb027d&token=751314179&lang=zh_CN#rd)  
-- [聊聊索引失效的10种场景，太坑了](kwNjMwMTgzMQ==&mid=2247491626&idx=1&sn=18fc949c06f04fe8f4c29b6fc5c66f9c&chksm=c0e838c2f79fb1d45c6f9b2ab188bb4663414690bab0718a7d46beb875e6b83e5e67ec27d2ff&token=375542673&lang=zh_CN#rd)  
+- [聊聊索引失效的10种场景，太坑了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491626&idx=1&sn=18fc949c06f04fe8f4c29b6fc5c66f9c&chksm=c0e838c2f79fb1d45c6f9b2ab188bb4663414690bab0718a7d46beb875e6b83e5e67ec27d2ff&token=660773166&lang=zh_CN&scene=21#wechat_redirect)  
 - [聊聊索引设计的8个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495678&idx=1&sn=c0c1abf7bd1208978f1fbba524d29dd4&chksm=c0e83716f79fbe0002efe71c3e07b37928bea4020b177c71135dacb84920a04c2d1b1048239f&token=375542673&lang=zh_CN#rd)  
 - [MySQL如何优化？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494379&idx=1&sn=7037931ed8a41d8ec2fbafd81e873b06&chksm=c0e83203f79fbb15df43242607c6ec8c766ff57457b238f0b20d090205cfddfe07e749636a75&token=375542673&lang=zh_CN#rd)  
 - [卧槽sql注入竟然把我们的系统搞挂了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490286&amp;idx=1&amp;sn=c80ca28614e4cac1c2fe1902e028ef1b&amp;chksm=c0ebc206f79c4b1026f59982e1a365b145f3b6ef52221c858f77cd69e757d0231754af57eefc&token=751314179&lang=zh_CN#rd)   
@@ -127,6 +129,7 @@
 - [mysql查询 limit 1000,10 和limit 10 一样快吗？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497172&idx=1&sn=ee11773a596308a65321aa213b5d9a6f&chksm=c0e82d3cf79fa42a409d95d7036f8d5c384cb98164bcb198ef3e3e950a6c3112de6351c85ae8&token=1106409335&lang=zh_CN#rd) 
 - [count(*)为什么会慢？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497604&idx=1&sn=29ee3ccb8f01cf842ccc5aa841383150&chksm=c0e82f6cf79fa67a7d61757ea5619b9ad2e665ed97e5fbb7fa51b612289a9ff26ce445f26438&token=741870596&lang=zh_CN#rd) 
 - [聊聊数据库建表的15个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497540&idx=1&sn=06872bca65725e1384762b6cb7438879&chksm=c0e82facf79fa6ba657d70a1189ae0d598cf6b667773c329355dc4f57f97a90a5d7e0656cef4&token=741870596&lang=zh_CN#rd) 
+- [SQL优化20招](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498038&idx=1&sn=2748ba3d13fbb854125f334b7723e905&chksm=c0e821def79fa8c85c63ca70fb6e4e5fbe991770133bd8e670c11fa45bfce044f9e2d6fd6206&token=609351868&lang=zh_CN#rd) 
 
 
 ## 中间件系列
@@ -244,6 +247,8 @@
 - [JDK有BUG！！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494613&idx=1&sn=65be88d628980eaa77ded1305568f2ce&chksm=c0e8333df79fba2b77111b8345d15903d0976857d37f13d4efef27ab6040f950d9888df6297f&token=1121830644&lang=zh_CN#rd)  
 - [Spring爆出致命漏洞，赶紧修复！！！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493469&idx=1&sn=937bdfe0b5e7558fb184eb7a128c1f6c&chksm=c0e83fb5f79fb6a30e944fc7672b7e0a300933ca9885c32fd61a1620afc3c378b2a079e670d8&token=1121830644&lang=zh_CN#rd)  
 - [99%的Java程序员会踩的6个坑](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496369&idx=1&sn=c0824ac978d122e25aa30c9335a2973f&chksm=c0e82a59f79fa34f78ece0fcba184799d8dc3143e7ac5e0530d0771ef5e155116aa9aa74eb06&token=1508828007&lang=zh_CN#rd)  
+- [分页 + 模糊查询 有坑！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498069&idx=1&sn=16ea422fe7896f001d0a6f2328f92fc5&chksm=c0e821bdf79fa8abe07adc45219927ae49ec9bab86690166396bcd0bfc7e40c05d80a4463eda&token=609351868&lang=zh_CN#rd)  
+- [千万千万不要在方法上打断点！太坑了！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498013&idx=1&sn=0aff71f6ffb704e57f5f33ebfed6bfd3&chksm=c0e821f5f79fa8e357ff649558d73ab7015f3832331d1b3c97f7a330b2d833b78769ebf10d40&token=609351868&lang=zh_CN#rd)  
 
 
 ## 其他
