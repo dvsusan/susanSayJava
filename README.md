@@ -40,6 +40,8 @@
 - [如何用 Java 几分钟处理完 30 亿个数据?](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496011&idx=1&sn=a2450defef6d94fccdb962e1c6f8a826&chksm=c0e829a3f79fa0b524d3229ab0cdc511ee445e0e9cd6234799e209f0bbf8c1a858cecbbdf577&token=1502528170&lang=zh_CN#rd) 
 - [并发环境下，先操作数据库还是先操作缓存？](https://mp.weixin.qq.com/s/i1V34oH6_8WsTu0IpPuwqQ) 
 - [接口流量突增，如何做好性能优化？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496949&idx=2&sn=6640e0fa214de3c67d8b374aa8819977&chksm=c0e82c1df79fa50beee26ab141e596bc8f0d471e732f531562e7a0ded5f36a575f8e895f180b&token=1780081529&lang=zh_CN#rd) 
+- [服务器性能如何优化？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498596&idx=1&sn=ba61ea039c62068e3c2f96741f985a15&chksm=c0e8238cf79faa9a42f74668e7187e48f073c3aad90f5f09bb8db255c4606c854d764c2cdbba&token=866261993&lang=zh_CN#rd) 
+- [excel百万数据如何导入导出？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498555&idx=1&sn=c0fe07f9add137a0ff76b3c157b08cb7&chksm=c0e823d3f79faac54fb3d032e60b4d8beedaa8f2334b1603c1c5ce8b2e53fe62c343e556a20d&token=866261993&lang=zh_CN#rd) 
 
 ## 分布式系列
 - [聊聊分布式锁](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495781&idx=1&sn=a979c6559d57a1257fa40c93aa432de7&chksm=c0e8288df79fa19b794b1671072c92ef434880bbb8c9ba141e3fe4394b6b0765088ad36d463b&token=375542673&lang=zh_CN#rd)
@@ -57,6 +59,7 @@
 - [实现web实时消息推送的7种方案](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496923&idx=1&sn=38e0b64b4b365a1c60d64f6a83e7a519&chksm=c0e82c33f79fa5255b5c87ecbaded2f99229b14e5f70b8614112ac8854583ea52f0dce798147&token=1780081529&lang=zh_CN#rd)   
 - [聊聊分布式ID](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497161&idx=1&sn=a133091a716e9c682cb952577fec146a&chksm=c0e82d21f79fa4374c49dbc0f1be16cec2423812cbf315ff4926baf1b929ff6496e80a783b83&token=1650035797&lang=zh_CN#rd)   
 - [学会这10种定时任务，我有点飘了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490314&idx=1&sn=29ddf0c1e99675b86cdfc082556a69a9&chksm=c0ebc3e2f79c4af43cf8582d41b0bc3ede57986cc6c115b103b586a2c7bddb4475555e919b20&token=1121830644&lang=zh_CN#rd) 
+- [分库分表后，如何保证数据一致性？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498338&idx=1&sn=68856d4d5eaeb16e0c8742037d5cf894&chksm=c0e8228af79fab9c8a6cb420deee399022419d68db2b3eb0e025a8167962675da57394c66b09&token=866261993&lang=zh_CN#rd) 
 
 ## 高可用系列
 - [搞懂异地多活，看这篇就够了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490455&idx=1&sn=74013dfc33c7d46626dca1a7ae048419&chksm=c0ebc37ff79c4a699b15040002f35ee7993dcf002cde34c2599234110369ea4f4732854c5f75&token=1121830644&lang=zh_CN#rd)
@@ -84,10 +87,13 @@
 - [面试前看了这篇spring事务的文章，让我多要了2k的工资](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490224&idx=1&sn=c32cc226d2b4201649b51f404844c1f7&chksm=c0ebc258f79c4b4ebfb3454cc284be5886ad5084a32c6487bca4380d3f65e2f35c572dbd2b28&token=660773166&lang=zh_CN&scene=21#wechat_redirect)   
 - [聊聊Spring事务](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497429&idx=1&sn=e699c3930f4a49b782c6731de24147d6&chksm=c0e82e3df79fa72bd072aa09af7aa1011b4b34ebf97574a3b41f6c39ffef2f3445841e0a1a06&token=741870596&lang=zh_CN#rd)   
 - [聊聊Bean的生命周期](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498002&idx=1&sn=213ad69a0cc21fb8dbc05e79e2e48974&chksm=c0e821faf79fa8ec2fe25dd9463db1870a100250adc7ea7853782d8b0779c9c2586f6f8ee5d4&token=609351868&lang=zh_CN#rd)   
+- [聊聊Spring中最常用的11个扩展点](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498446&idx=1&sn=1c6157caeedf309813e52761e327eed2&chksm=c0e82226f79fab309b0e53c04ba950abde4c9e31f9413c1c992e656c0e1539b73f5acbf5f8a5&token=866261993&lang=zh_CN#rd)   
 
 ## springboot系列
 - [SpringBoot 生产中 16 条最佳实践](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493688&idx=1&sn=41c2ba075b218608b1e7654200cde714&chksm=c0e830d0f79fb9c6b02f8c608998ec2e2124df57ce74aa0ba15a0adb786d5a0b09c1ac932b54&token=375542673&lang=zh_CN#rd)   
 - [Spring Boot Admin，贼好使！](https://mp.weixin.qq.com/s/qglX8id8RRCB46D1SD82lw)   
+- [SpringBoot + Sharding JDBC 分库分表](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498561&idx=1&sn=5a490d9fdb75dac33e71a587c3be675a&chksm=c0e823a9f79faabfc7648f303b7ea4d57aff0604fb1282c8ee1afd021e57a63c50bf550829d3&token=866261993&lang=zh_CN#rd)   
+- [SpringBoot的starter到底是什么？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498385&idx=1&sn=8abb67cdda305c7c1c4efde309bc89bb&chksm=c0e82279f79fab6f7e29a35be37e47551093ce8ee3113452a77f3641f6f1b8de8803a0455656&token=866261993&lang=zh_CN#rd)   
 
 ## spring cloud
 - [深入理解 Ribbon 的架构原理](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490734&idx=1&sn=f55bc1f702ef3926f169e6ab529159f0&chksm=c0ebc446f79c4d5002f5ee4acbbd2651fdea8155cf64ba015b977928de596d1b746056f13525&token=375542673&lang=zh_CN#rd)   
@@ -130,6 +136,8 @@
 - [count(*)为什么会慢？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497604&idx=1&sn=29ee3ccb8f01cf842ccc5aa841383150&chksm=c0e82f6cf79fa67a7d61757ea5619b9ad2e665ed97e5fbb7fa51b612289a9ff26ce445f26438&token=741870596&lang=zh_CN#rd) 
 - [聊聊数据库建表的15个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497540&idx=1&sn=06872bca65725e1384762b6cb7438879&chksm=c0e82facf79fa6ba657d70a1189ae0d598cf6b667773c329355dc4f57f97a90a5d7e0656cef4&token=741870596&lang=zh_CN#rd) 
 - [SQL优化20招](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498038&idx=1&sn=2748ba3d13fbb854125f334b7723e905&chksm=c0e821def79fa8c85c63ca70fb6e4e5fbe991770133bd8e670c11fa45bfce044f9e2d6fd6206&token=609351868&lang=zh_CN#rd) 
+- [Mysql查询好慢，除了索引，还有什么原因？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498308&idx=1&sn=d0389a3aa2b8b64f10acae6f0ba95546&chksm=c0e822acf79fabba3881a55949ec433602bd45da713d577cc59e78b588e6f9d3656cffd34222&token=866261993&lang=zh_CN#rd) 
+- [MySQL 上亿大表如何优化？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498251&idx=1&sn=7057527d0ba6ee6f0611898b9c9d2cf2&chksm=c0e822e3f79fabf53766e219349eff590a294042b230aeb3c823ec42dd507657f7deb917bdc5&token=866261993&lang=zh_CN#rd) 
 
 
 ## 中间件系列
@@ -149,6 +157,7 @@
 - [Kafka 连环20问](https://mp.weixin.qq.com/s/DM3z8aM0CqAzWGwXEIzBhQ)  
 - [7张图揭晓RocketMQ存储设计的精髓](https://mp.weixin.qq.com/s/7szWAxW3Huog5lnHTCgn2w)  
 - [RabbitMQ、RocketMQ、Kafka 三元归一](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496933&idx=1&sn=c92d226f2e5ec3be467e3c5715967005&chksm=c0e82c0df79fa51bfeaffbd14d732ad03a9235a59a46fc6b428cbbe401883e51cce4481ce893&token=1780081529&lang=zh_CN#rd)  
+- [图解 Kafka 缓存架构](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498567&idx=1&sn=09fef0642297040022423136c5912c26&chksm=c0e823aff79faab9d27d9ccb40078ec63ca78d60ba9e521d6d723baf8948a386ee3d29ca4a14&token=866261993&lang=zh_CN#rd)  
 
 
 ## 缓存系列
@@ -172,6 +181,7 @@
 - [复盘一次线上Redis缓存雪崩事故...](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493113&idx=1&sn=f456deed6a4a9221ace97b0358151c6e&chksm=c0e83d11f79fb407dfa7ec79376431dc687db99fdf45704ba90b9b3dfebaa8a0c0a28bffe3ca&token=375542673&lang=zh_CN#rd)   
 - [一次线上事故，我顿悟了异步](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496248&idx=2&sn=1636195a613aadc5e3ba4c4ec1ccddfc&chksm=c0e82ad0f79fa3c617cd326e990cf6f8d3fec57ab172db7ad9faf412f0addc9730c4c6220ba9&token=1508828007&lang=zh_CN#rd)   
 - [记一次dubbo内存泄露排查经历](https://mp.weixin.qq.com/s/SnqIUHP-hqqBQnWItaQLwQ)   
+- [糟了，线上服务出现OOM了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498590&idx=1&sn=214cab0f95ad3df24055d5d18a110a2a&chksm=c0e823b6f79faaa0fa0c310715c7e94a205add4b1557cdc5f13bda85ce7862232c6955e261b6&token=866261993&lang=zh_CN#rd)   
 
 
 ## 多线程
@@ -219,6 +229,8 @@
 ## 系统设计
 - [红包雨：Redis 和 Lua 的奇妙邂逅](https://mp.weixin.qq.com/s?__biz=MzIyNTYzNDE5MQ==&mid=2247504090&idx=1&sn=cb3c72842390ee6fef950b1f80c56b40&chksm=e87e223adf09ab2cf3c4ffc5c0c587fc08e7c5ddce38f2880918f163a793d80813585c157032&token=1495241346&lang=zh_CN#rd)   
 - [权限系统就该这么设计，yyds](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497097&idx=1&sn=4225f4fe59f2d77d0f3686009bab48ae&chksm=c0e82d61f79fa477ec30cf750aef113fa872a8962821eb782a70419c8b842d7b65e85718e427&token=1495241346&lang=zh_CN#rd)   
+- [开发一个不崩溃的核酸系统难吗？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498606&idx=1&sn=059c88c4872c4a1aaf255ed1fde64d95&chksm=c0e82386f79faa906772a0619b2d2e3edf025a386b1a583849a4090137fe64595235b1c8843b&token=866261993&lang=zh_CN#rd)   
+- [B站从0到1000万](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498256&idx=1&sn=d10e97439545dd4199d142b4c907a647&chksm=c0e822f8f79fabee2f8a34ad75aff8adb317d518397b8b4a0521e06940af1cdb04ed8d04d192&token=866261993&lang=zh_CN#rd)   
 
 
 ## 设计模式
@@ -236,6 +248,7 @@
 - [HTTP/3发布了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496895&idx=1&sn=a3d100d7f6d4b67f691f1b19e7f07b1e&chksm=c0e82c57f79fa54148f4f912a7db751236d27dd8452fc0affd818cc6d8825b3a01ec8a44ea72&token=1446978876&lang=zh_CN#rd)   
 - [输入 xxxhub 的背后到底发生了什么?](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496772&idx=1&sn=6f73c91c982928c0e7e11a30ff92ec94&chksm=c0e82cacf79fa5ba1e67353fb78f205fea88557208332676cc89aa90ad7135fd5411666182b1&token=1446978876&lang=zh_CN#rd)   
 - [既然有HTTP协议，为什么还要有RPC](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497130&idx=1&sn=5bcc60dee03c1eae0043dd014c42677b&chksm=c0e82d42f79fa45409316e2d5a56b88ed332e54069e23a1d98558c65915fdc837f497b82ed8c&token=1650035797&lang=zh_CN#rd)   
+- [有HTTP协议，为什么还要websocket协议？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498599&idx=1&sn=f0170bad7f393bfa8f6dc88c6d46cb4f&chksm=c0e8238ff79faa99dd5e38325b8cb863c5c1d4fa934ccff91867e3c997b803485b416080959f&token=866261993&lang=zh_CN#rd)   
 
 
 ## 踩坑日记
