@@ -276,3 +276,21 @@
 
 ## 福利
 - [我想进大厂面试资料.pdf](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494448&idx=1&sn=f30d3aeed17ee21058b61c7f5166f6ac&chksm=c0e833d8f79fbace2fcf5a469a4d59140845ea6dd57a99b75ef5cbf041b85db3c381cf7c7b99&token=1121830644&lang=zh_CN#rd)   
+
+最近我建了新的技术交流群，打算将它打造成高质量的活跃群，欢迎小伙伴们加入。
+
+我以往的技术群里技术氛围非常不错，大佬很多。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/ibJZVicC7nz5gOfZqp44IMnIrys8aeBkUBMuRdzict3Kg4rNPMrwwUlFb6dW6pFcmQfPM77byIiba4ib7IOraoXLckQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+还有送书的活动：
+![](https://mmbiz.qpic.cn/mmbiz_png/ibJZVicC7nz5iaOibWCa4K0icj2SqnwTnfPuruR0hJg1pSgyMPiaicSpU02yMXIuWnq6kzZN32amntog47KiadDDZSQDwA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+此外，在群里你可以自由交流技术、生活和面试经历，不定期还有大厂的内推机会。
+
+扫描下方二维码，回复：加群，即可进群：
+
+![](https://mmbiz.qpic.cn/mmbiz_png/J4jTHmo8Xh6zjrAC4RzZly78RTumAA0dTCFUElhe2DE6GwbQiakH9tqlhUXmBXtjbicxJC1TPszLZW9UYyYoh5HA/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1)
+
