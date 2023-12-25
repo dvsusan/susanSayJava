@@ -264,18 +264,25 @@
 - [千万千万不要在方法上打断点！太坑了！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498013&idx=1&sn=0aff71f6ffb704e57f5f33ebfed6bfd3&chksm=c0e821f5f79fa8e357ff649558d73ab7015f3832331d1b3c97f7a330b2d833b78769ebf10d40&token=609351868&lang=zh_CN#rd)  
 
 
-## 其他
-- [我的公众号万粉之路](./docs/其他/我的公众号万粉之路.md)   
-- [我的第一个10万](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491128&idx=1&sn=9b35640a5a5e1b26ef9d95b1cbc0d710&chksm=c0ebc6d0f79c4fc638686cffb25efa4926229517331d299b0ea2054fb0fe398289b0c8bc0f9a&token=1866170951&lang=zh_CN#rd)   
-- [终于破100万了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494216&idx=1&sn=f27c229c82392ff3fa7bb0a709b498a9&chksm=c0e832a0f79fbbb6027bc78ffcae993fd9f54cbc9647334e38aab8d3337d4bfeabff4391cc4e&token=375542673&lang=zh_CN#rd)   
-- [群](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496031&idx=1&sn=c88b3a9996e43bdb1e00eb18dcd8201b&chksm=c0e829b7f79fa0a1d675d514629df8ecfe0e48b8ddcbf9f2eb33d603d1e1e2cb4ad2854f7113&token=1121830644&lang=zh_CN#rd)   
+1. 当你正在为面试而困扰的时候。
+2. 当你工作遇到难题不知道问谁的时候。
+3. 当你遇到了技术学习瓶颈的时候。
+4. 当你职业发展很迷茫不知道该如何选择的时候。
 
-## 面试真题
-- [小厂面试10连问](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494055&idx=1&sn=6b76adbe4e2b384942a0f5a9a3d86f49&chksm=c0e8314ff79fb8591ad4f5f7b66ae244adbe79adab670f0eb83cbbc3001ed933bfcbcf32a1a7&token=1121830644&lang=zh_CN#rd)   
+或许 [苏三的知识星球](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247510851&idx=1&sn=7e62ac87ee5a6b4a72d2da3a6fc76d4a&chksm=c0e873abf79ffabd7ba6672a36f21c0a939d5a3d15325ddeae476a9374f4a08679143695f1c4&token=469630221&lang=zh_CN#rd)：【[Java突击队](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247510851&idx=1&sn=7e62ac87ee5a6b4a72d2da3a6fc76d4a&chksm=c0e873abf79ffabd7ba6672a36f21c0a939d5a3d15325ddeae476a9374f4a08679143695f1c4&token=469630221&lang=zh_CN#rd)】真的可以帮到你。
 
+短短几个月的时间，已经有将近 `1100` 名球友加入了[苏三的学习圈子](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247510381&idx=1&sn=4ee8781f21392af7327e15b1595e804b&chksm=c0e87185f79ff89364b392e878010adec81b95675bf3f7a93ac6e83b9421beac75f382223500&scene=18#rd)，一起学习，一起成长。苏三的知识星球这几个月内曾多次[被官方推荐了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247511124&idx=1&sn=7739e52c7516b437f4a459bf8c638116&chksm=c0e874bcf79ffdaa49bdefe21636b3993489762b2d33a82edd06959551624c7a3202467a172f&token=469630221&lang=zh_CN#rd)，并且得到了球友们的一致认可。
 
-## 福利
-- [我想进大厂面试资料.pdf](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494448&idx=1&sn=f30d3aeed17ee21058b61c7f5166f6ac&chksm=c0e833d8f79fbace2fcf5a469a4d59140845ea6dd57a99b75ef5cbf041b85db3c381cf7c7b99&token=1121830644&lang=zh_CN#rd)   
+如果你也需要一个良好的学习环境，[戳这里](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247511124&idx=1&sn=7739e52c7516b437f4a459bf8c638116&chksm=c0e874bcf79ffdaa49bdefe21636b3993489762b2d33a82edd06959551624c7a3202467a172f&token=469630221&lang=zh_CN#rd)加入我们吧，绝对物超所值。
+
+这里有：系统设计、工作经验分享、性能优化、源码解读、高频面试题、底层原理、痛点问题、工作实战、开源项目等多个优质专栏。
+![](https://files.mdnice.com/user/5303/8fee3716-f5d5-4a94-8290-7ca288fa5963.png)
+我相信可以帮助你更从容的面对困难：
+- [我被官方推荐了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247511124&idx=1&sn=7739e52c7516b437f4a459bf8c638116&chksm=c0e874bcf79ffdaa49bdefe21636b3993489762b2d33a82edd06959551624c7a3202467a172f&token=469630221&lang=zh_CN#rd)
+- [我读Spring的一些心得](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247510851&idx=1&sn=7e62ac87ee5a6b4a72d2da3a6fc76d4a&chksm=c0e873abf79ffabd7ba6672a36f21c0a939d5a3d15325ddeae476a9374f4a08679143695f1c4&token=469630221&lang=zh_CN#rd)
+- [我的学习圈子](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247510381&idx=1&sn=4ee8781f21392af7327e15b1595e804b&chksm=c0e87185f79ff89364b392e878010adec81b95675bf3f7a93ac6e83b9421beac75f382223500&scene=18#rd)
+
+**如果一个人走的太累，不如结伴而行。** 
 
 最近我建了新的技术交流群，打算将它打造成高质量的活跃群，欢迎小伙伴们加入。
 
