@@ -12,6 +12,8 @@
 
 <br />
 
+更多项目实战在我的技术网站：[susan.net.cn/project](http://susan.net.cn/project)
+
 - [苏三原创精品50篇](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494429&idx=1&sn=8038c3f100c73b9223755ccb80eea4ac&chksm=c0e833f5f79fbae3be32214d1e1234670511a754f8d0a7d86ce701a8a60bad9f397b798e2da1&token=1249303273&lang=zh_CN#rd)
 - [苏三原创精品30篇，真香。](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490497&idx=1&sn=ebb80714930faca74e4e14de38437cf0&chksm=c0ebc329f79c4a3fa48eb46adb5895f8817af41d2231a57cac34965b8c94ca52d34fe599fa5a&token=1249303273&lang=zh_CN#rd)
 
