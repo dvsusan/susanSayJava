@@ -25,6 +25,8 @@
 下面分享Java后端学习路线，后续会不断持续更新。。。
 ![](https://pic.imgdb.cn/item/62c82558f54cd3f93756e811.png)
 
+最近缺项目经历想快速提升项目实战能力（包含多个AI项目），或者最近找工作，或者想学习AI的小伙伴，可以看看下面👇🏻的这个链接（或许真的能够帮到你）​​​https://susan.net.cn/project
+
 ## 高并发系列
 - [聊聊接口性能优化的11个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490731&idx=1&sn=29ed0295c7990157a3a56ba33cf7f8be&chksm=c0ebc443f79c4d55a2bac81744992c96f97737e5d0717ec99231f4d08f57a7f0220eafdac9c9&token=426403078&lang=zh_CN#rd)
 - [我用kafka两年踩过的一些坑](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490289&amp;idx=1&amp;sn=bc311da9f4a4d3f48ee5dc207bf31a8b&amp;chksm=c0ebc219f79c4b0fc711116723b9df3a5531cda32f0f5d00f065910aa552af6ff03b3f1528fc&token=751314179&lang=zh_CN#rd)
@@ -44,6 +46,7 @@
 - [接口流量突增，如何做好性能优化？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496949&idx=2&sn=6640e0fa214de3c67d8b374aa8819977&chksm=c0e82c1df79fa50beee26ab141e596bc8f0d471e732f531562e7a0ded5f36a575f8e895f180b&token=1780081529&lang=zh_CN#rd) 
 - [服务器性能如何优化？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498596&idx=1&sn=ba61ea039c62068e3c2f96741f985a15&chksm=c0e8238cf79faa9a42f74668e7187e48f073c3aad90f5f09bb8db255c4606c854d764c2cdbba&token=866261993&lang=zh_CN#rd) 
 - [excel百万数据如何导入导出？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498555&idx=1&sn=c0fe07f9add137a0ff76b3c157b08cb7&chksm=c0e823d3f79faac54fb3d032e60b4d8beedaa8f2334b1603c1c5ce8b2e53fe62c343e556a20d&token=866261993&lang=zh_CN#rd) 
+- [分库分表后带来了哪些问题？](https://mp.weixin.qq.com/s/SQrZajLzWxeYJzPA23ax4Q)
 
 ## 分布式系列
 - [聊聊分布式锁](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495781&idx=1&sn=a979c6559d57a1257fa40c93aa432de7&chksm=c0e8288df79fa19b794b1671072c92ef434880bbb8c9ba141e3fe4394b6b0765088ad36d463b&token=375542673&lang=zh_CN#rd)
@@ -73,7 +76,7 @@
 - [聊聊 8 种架构模式](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498105&idx=1&sn=ba65a488862ac2c9ba0a8740d1115bbb&chksm=c0e82191f79fa887113eb056e053c29c417e79782659ab7b616128f1b5768437f9154622c726&token=609351868&lang=zh_CN#rd)
 
 
-## spring系列
+## Spring系列
 - [spring中让你爱不释手的代码技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490278&amp;idx=1&amp;sn=89af37ff9d1577ddc0f48866343412cd&amp;chksm=c0ebc20ef79c4b184a617c95714d407b1ab4646ae930ee4b5c3201065030d7a1a8bcd23297a3&token=751314179&lang=zh_CN#rd)   
 - [spring中让你爱不释手的代码技巧续](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490282&amp;idx=1&amp;sn=2c2744525a598a837c1c5d596be467e3&amp;chksm=c0ebc202f79c4b14a4c84ec63dbae8429d043d2c4f1dc6a1318e5629e61f190d704e0cc40073&token=751314179&lang=zh_CN#rd)    
 - [聊聊spring事务失效的12种场景](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490414&amp;idx=1&amp;sn=b232e8931fbc754a255bde93a5a810e5&amp;chksm=c0ebc386f79c4a9079f096acc8e5836cab99746689309c293900488a538b7489dc7d64b0ae0a&token=751314179&lang=zh_CN#rd)    
@@ -91,17 +94,19 @@
 - [聊聊Bean的生命周期](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498002&idx=1&sn=213ad69a0cc21fb8dbc05e79e2e48974&chksm=c0e821faf79fa8ec2fe25dd9463db1870a100250adc7ea7853782d8b0779c9c2586f6f8ee5d4&token=609351868&lang=zh_CN#rd)   
 - [聊聊Spring中最常用的11个扩展点](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498446&idx=1&sn=1c6157caeedf309813e52761e327eed2&chksm=c0e82226f79fab309b0e53c04ba950abde4c9e31f9413c1c992e656c0e1539b73f5acbf5f8a5&token=866261993&lang=zh_CN#rd)   
 
-## springboot系列
+## SpringBoot系列
 - [SpringBoot 生产中 16 条最佳实践](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493688&idx=1&sn=41c2ba075b218608b1e7654200cde714&chksm=c0e830d0f79fb9c6b02f8c608998ec2e2124df57ce74aa0ba15a0adb786d5a0b09c1ac932b54&token=375542673&lang=zh_CN#rd)   
 - [Spring Boot Admin，贼好使！](https://mp.weixin.qq.com/s/qglX8id8RRCB46D1SD82lw)   
 - [SpringBoot + Sharding JDBC 分库分表](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498561&idx=1&sn=5a490d9fdb75dac33e71a587c3be675a&chksm=c0e823a9f79faabfc7648f303b7ea4d57aff0604fb1282c8ee1afd021e57a63c50bf550829d3&token=866261993&lang=zh_CN#rd)   
 - [SpringBoot的starter到底是什么？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498385&idx=1&sn=8abb67cdda305c7c1c4efde309bc89bb&chksm=c0e82279f79fab6f7e29a35be37e47551093ce8ee3113452a77f3641f6f1b8de8803a0455656&token=866261993&lang=zh_CN#rd)   
+- [架构师必知：SpringBoot性能优化的12招](https://mp.weixin.qq.com/s/mj1xvJuOImX4iSVEim9AVw) 
+- [SpringBoot中的拦截器江湖](https://mp.weixin.qq.com/s/pxwm68NZDpWKoOa0AzxMWg) 
 
-## spring cloud
+## Spring Cloud
 - [深入理解 Ribbon 的架构原理](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490734&idx=1&sn=f55bc1f702ef3926f169e6ab529159f0&chksm=c0ebc446f79c4d5002f5ee4acbbd2651fdea8155cf64ba015b977928de596d1b746056f13525&token=375542673&lang=zh_CN#rd)   
 - [openFeign夺命连环9问](https://mp.weixin.qq.com/s/INJCuuW1chbosUEcsuSeAA)   
 
-## spring cloud alibaba
+## Spring Cloud Alibaba
 - [聊聊 Nacos](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494153&idx=1&sn=804e06cb87e9607bba05dc4cf4580c60&chksm=c0e832e1f79fbbf74440a2976f5cdb85771136b28b59d8d561864ebe3ab66759335ebb8dbea5&token=375542673&lang=zh_CN#rd)   
 - [Seata的那些过人之处](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490513&idx=1&sn=713228191b96d5e681f07926cb43ace1&chksm=c0ebc339f79c4a2f5cb87b20ae1752a409ad834e6c3f4b4bf5534990a3df09cccf569c5c6045&token=375542673&lang=zh_CN#rd)   
 - [聊聊 Sentinel](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494221&idx=1&sn=739cc31be175ca6e2673842444ea4ab1&chksm=c0e832a5f79fbbb3006e877c7bea52fe5313cca1e537c871f852417493be6590c44f2c2f6bbc&token=375542673&lang=zh_CN#rd)   
@@ -112,7 +117,7 @@
 ## 数据库系列
 - [聊聊sql优化的15个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490473&amp;idx=1&amp;sn=ba07d64aa8c89054bd263efd660d3a3f&amp;chksm=c0ebc341f79c4a579a6f41465df0459a696ab8ef0499a5f6fd76269af1064fde0286afdb027d&token=751314179&lang=zh_CN#rd)  
 - [聊聊索引失效的10种场景，太坑了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491626&idx=1&sn=18fc949c06f04fe8f4c29b6fc5c66f9c&chksm=c0e838c2f79fb1d45c6f9b2ab188bb4663414690bab0718a7d46beb875e6b83e5e67ec27d2ff&token=660773166&lang=zh_CN&scene=21#wechat_redirect)  
-- [聊聊索引设计的8个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495678&idx=1&sn=c0c1abf7bd1208978f1fbba524d29dd4&chksm=c0e83716f79fbe0002efe71c3e07b37928bea4020b177c71135dacb84920a04c2d1b1048239f&token=375542673&lang=zh_CN#rd)  
+- [聊聊索引设计的10个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495678&idx=1&sn=c0c1abf7bd1208978f1fbba524d29dd4&chksm=c0e83716f79fbe0002efe71c3e07b37928bea4020b177c71135dacb84920a04c2d1b1048239f&token=375542673&lang=zh_CN#rd)  
 - [MySQL如何优化？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494379&idx=1&sn=7037931ed8a41d8ec2fbafd81e873b06&chksm=c0e83203f79fbb15df43242607c6ec8c766ff57457b238f0b20d090205cfddfe07e749636a75&token=375542673&lang=zh_CN#rd)  
 - [卧槽sql注入竟然把我们的系统搞挂了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490286&amp;idx=1&amp;sn=c80ca28614e4cac1c2fe1902e028ef1b&amp;chksm=c0ebc206f79c4b1026f59982e1a365b145f3b6ef52221c858f77cd69e757d0231754af57eefc&token=751314179&lang=zh_CN#rd)   
 - [innodb是如何存数据的？yyds](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490403&amp;idx=1&amp;sn=bf84d7016129446fe697562e005ec64a&amp;chksm=c0ebc38bf79c4a9d0ebd4041d16a995bbca8e38b47935e5ff22c2efc65d8ee87f9d954299c7c&token=751314179&lang=zh_CN#rd)  
@@ -140,6 +145,11 @@
 - [SQL优化20招](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498038&idx=1&sn=2748ba3d13fbb854125f334b7723e905&chksm=c0e821def79fa8c85c63ca70fb6e4e5fbe991770133bd8e670c11fa45bfce044f9e2d6fd6206&token=609351868&lang=zh_CN#rd) 
 - [Mysql查询好慢，除了索引，还有什么原因？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498308&idx=1&sn=d0389a3aa2b8b64f10acae6f0ba95546&chksm=c0e822acf79fabba3881a55949ec433602bd45da713d577cc59e78b588e6f9d3656cffd34222&token=866261993&lang=zh_CN#rd) 
 - [MySQL 上亿大表如何优化？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498251&idx=1&sn=7057527d0ba6ee6f0611898b9c9d2cf2&chksm=c0e822e3f79fabf53766e219349eff590a294042b230aeb3c823ec42dd507657f7deb917bdc5&token=866261993&lang=zh_CN#rd) 
+- [如何医治一条慢SQL？](https://mp.weixin.qq.com/s/NLCFZ04ivHsX4bc4gN1pHg) 
+- [数据脱敏的6种方案](https://mp.weixin.qq.com/s/f7tyWGMJu-Bkq2fYwp4dmw)
+- [排行榜的5种方案](https://mp.weixin.qq.com/s/qTYNK1-BSIpoSAGICWbHAw)
+- [MySQL同步ES的6种方案！](https://mp.weixin.qq.com/s/kV5RdF3UNJ5cEg-EW3EmPA)
+- [高质量索引的10条军规](https://mp.weixin.qq.com/s/AfO86YeXEqXwu8ZZmg_AwA)
 
 
 ## 中间件系列
@@ -160,6 +170,9 @@
 - [7张图揭晓RocketMQ存储设计的精髓](https://mp.weixin.qq.com/s/7szWAxW3Huog5lnHTCgn2w)  
 - [RabbitMQ、RocketMQ、Kafka 三元归一](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496933&idx=1&sn=c92d226f2e5ec3be467e3c5715967005&chksm=c0e82c0df79fa51bfeaffbd14d732ad03a9235a59a46fc6b428cbbe401883e51cce4481ce893&token=1780081529&lang=zh_CN#rd)  
 - [图解 Kafka 缓存架构](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498567&idx=1&sn=09fef0642297040022423136c5912c26&chksm=c0e823aff79faab9d27d9ccb40078ec63ca78d60ba9e521d6d723baf8948a386ee3d29ca4a14&token=866261993&lang=zh_CN#rd)  
+- [MQ的数据一致性，如何保证？](https://mp.weixin.qq.com/s/GmwfhHCj8R0wYXUIEhIZ2Q)  
+- [工作中这样使用MQ，很香！](https://mp.weixin.qq.com/s/vI9ZugHFznNUvrQnuM8F7Q)
+- [这 5 种规则引擎，真香！](https://mp.weixin.qq.com/s/emyrzFifP0azbDpNz6QZEQ)
 
 
 ## 缓存系列
@@ -174,6 +187,8 @@
 - [聊聊Redis内存优化的7个神技](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496151&idx=1&sn=bcef0cb1c1e6ab5ffc7ce36915940728&chksm=c0e8293ff79fa029f60f3d22bef5cbc5fcb5eb70ba519990a13a5de0a6aa705992f380246e1b&token=1121830644&lang=zh_CN#rd)  
 - [Redis不是单线程的吗，为什么又要用多线程？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497594&idx=1&sn=f517cf8f7fcfeb5e61fe18fb30a66ddc&chksm=c0e82f92f79fa684bdd453609cae0007d92acc5b1f57ada3b0b04226b9170817ab011b230f93#rd)  
 - [RedisJson横空出世，性能碾压 ES 和 MongoDB](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497410&idx=1&sn=d57ec067c3495e27f26601d6a6dd374e&chksm=c0e82e2af79fa73c574a2e0bbacba13bf913808d49579646fd6be90b6f6b747476aa0d8d8cfc&token=741870596&lang=zh_CN#rd)  
+- [用好缓存的10条军规](https://mp.weixin.qq.com/s/O4uto6IdP0rrtS2B2m3OXw)  
+
 
 ## 线上问题
 - [分布式下的区域问题，让我们大战了300回合](https://mp.weixin.qq.com/s/pdiJayi-ab0glJly9oJNjw)  
@@ -211,7 +226,7 @@
 - [聊聊JVM内存布局](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493279&idx=1&sn=5de4a1eecd81911740d9b9fa03d25eb3&chksm=c0e83e77f79fb7611fe980aaf071cf6b62edf18ed5360bfd9ce204437a3e261546d9598cade4&token=1121830644&lang=zh_CN#rd)   
 
 
-## netty系列
+## Netty系列
 - [聊聊Netty那些事儿](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491897&idx=1&sn=f46c85ca6c3ac27803c67503eccc3484&chksm=c0e839d1f79fb0c7ffa9a44e20dc027ad4e8f32773e35d1f262ad19440e27bb94931f50b6de8&token=375542673&lang=zh_CN#rd)   
 - [今天给Netty贡献了一波源码](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495776&idx=1&sn=b0c4f85727f2567b4ab64f1f5b12eac0&chksm=c0e82888f79fa19e9b80efe10e25e240f8f51d75105ac893d2018f801beeb0242bc2a1a9c4d9&token=375542673&lang=zh_CN#rd)   
 
@@ -227,17 +242,22 @@
 - [这个神器让我的代码bug少了一半](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490250&amp;idx=1&amp;sn=bf92cd67ea7d271a40e86953da87726d&amp;chksm=c0ebc222f79c4b3427641bdafc3cc54f5fafc949dc98be7f2899cb0fd33c4474486696e8bfa5&token=751314179&lang=zh_CN#rd) 
 - [学会这10种定时任务，我有点飘了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490314&idx=1&sn=29ddf0c1e99675b86cdfc082556a69a9&chksm=c0ebc3e2f79c4af43cf8582d41b0bc3ede57986cc6c115b103b586a2c7bddb4475555e919b20&token=1121830644&lang=zh_CN#rd) 
 - [用代码画时序图！YYDS](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497299&idx=1&sn=7ed248522600cb14e9ec609226cb0167&chksm=c0e82ebbf79fa7ad49b95887e5a3365cddf04219f85429e32283842b4c4a3cc35952fd874bcb&token=1106409335&lang=zh_CN#rd) 
+- [用这13个工具，开发效率提升了500%！](https://mp.weixin.qq.com/s/-fXZyXlznF4Aa6Xw7YmyHg) 
 
 ## 系统设计
 - [红包雨：Redis 和 Lua 的奇妙邂逅](https://mp.weixin.qq.com/s?__biz=MzIyNTYzNDE5MQ==&mid=2247504090&idx=1&sn=cb3c72842390ee6fef950b1f80c56b40&chksm=e87e223adf09ab2cf3c4ffc5c0c587fc08e7c5ddce38f2880918f163a793d80813585c157032&token=1495241346&lang=zh_CN#rd)   
 - [权限系统就该这么设计，yyds](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497097&idx=1&sn=4225f4fe59f2d77d0f3686009bab48ae&chksm=c0e82d61f79fa477ec30cf750aef113fa872a8962821eb782a70419c8b842d7b65e85718e427&token=1495241346&lang=zh_CN#rd)   
 - [开发一个不崩溃的核酸系统难吗？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498606&idx=1&sn=059c88c4872c4a1aaf255ed1fde64d95&chksm=c0e82386f79faa906772a0619b2d2e3edf025a386b1a583849a4090137fe64595235b1c8843b&token=866261993&lang=zh_CN#rd)   
 - [B站从0到1000万](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498256&idx=1&sn=d10e97439545dd4199d142b4c907a647&chksm=c0e822f8f79fabee2f8a34ad75aff8adb317d518397b8b4a0521e06940af1cdb04ed8d04d192&token=866261993&lang=zh_CN#rd)   
+- [接口被刷百万QPS，怎么防？](https://mp.weixin.qq.com/s/yxFd5O0g2-SvMzei3_qXtA)   
+- [100万QPS短链系统如何设计？](https://mp.weixin.qq.com/s/x4mYkwdoGeajLPJrf6kvDg)   
+
 
 
 ## 设计模式
 - [单例模式，真不简单](./docs/基础/单例模式，真不简单.md)   
 - [聊聊工作中必用的6种设计模式](https://mp.weixin.qq.com/s/H-OurMV7I6g5EqW_MIaOww)   
+- [聊聊Spring中最常用的10种设计模式](https://mp.weixin.qq.com/s/3zNJlkCxbD4eplIAdmV9AA) 
 
 ## 基础知识
 - [java中那些让你傻傻分不清楚的小细节](./docs/基础/java中那些让你傻傻分不清楚的小细节.md)   
@@ -266,40 +286,18 @@
 - [千万千万不要在方法上打断点！太坑了！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498013&idx=1&sn=0aff71f6ffb704e57f5f33ebfed6bfd3&chksm=c0e821f5f79fa8e357ff649558d73ab7015f3832331d1b3c97f7a330b2d833b78769ebf10d40&token=609351868&lang=zh_CN#rd)  
 
 
-1. 当你正在为面试而困扰的时候。
-2. 当你工作遇到难题不知道问谁的时候。
-3. 当你遇到了技术学习瓶颈的时候。
-4. 当你职业发展很迷茫不知道该如何选择的时候。
-
-或许 [苏三的知识星球](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247510851&idx=1&sn=7e62ac87ee5a6b4a72d2da3a6fc76d4a&chksm=c0e873abf79ffabd7ba6672a36f21c0a939d5a3d15325ddeae476a9374f4a08679143695f1c4&token=469630221&lang=zh_CN#rd)：【[Java突击队](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247510851&idx=1&sn=7e62ac87ee5a6b4a72d2da3a6fc76d4a&chksm=c0e873abf79ffabd7ba6672a36f21c0a939d5a3d15325ddeae476a9374f4a08679143695f1c4&token=469630221&lang=zh_CN#rd)】真的可以帮到你。
-
-短短几个月的时间，已经有将近 `1100` 名球友加入了[苏三的学习圈子](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247510381&idx=1&sn=4ee8781f21392af7327e15b1595e804b&chksm=c0e87185f79ff89364b392e878010adec81b95675bf3f7a93ac6e83b9421beac75f382223500&scene=18#rd)，一起学习，一起成长。苏三的知识星球这几个月内曾多次[被官方推荐了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247511124&idx=1&sn=7739e52c7516b437f4a459bf8c638116&chksm=c0e874bcf79ffdaa49bdefe21636b3993489762b2d33a82edd06959551624c7a3202467a172f&token=469630221&lang=zh_CN#rd)，并且得到了球友们的一致认可。
-
-如果你也需要一个良好的学习环境，[戳这里](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247511124&idx=1&sn=7739e52c7516b437f4a459bf8c638116&chksm=c0e874bcf79ffdaa49bdefe21636b3993489762b2d33a82edd06959551624c7a3202467a172f&token=469630221&lang=zh_CN#rd)加入我们吧，绝对物超所值。
-
-这里有：系统设计、工作经验分享、性能优化、源码解读、高频面试题、底层原理、痛点问题、工作实战、开源项目等多个优质专栏。
-![](https://files.mdnice.com/user/5303/8fee3716-f5d5-4a94-8290-7ca288fa5963.png)
-我相信可以帮助你更从容的面对困难：
-- [我被官方推荐了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247511124&idx=1&sn=7739e52c7516b437f4a459bf8c638116&chksm=c0e874bcf79ffdaa49bdefe21636b3993489762b2d33a82edd06959551624c7a3202467a172f&token=469630221&lang=zh_CN#rd)
-- [我读Spring的一些心得](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247510851&idx=1&sn=7e62ac87ee5a6b4a72d2da3a6fc76d4a&chksm=c0e873abf79ffabd7ba6672a36f21c0a939d5a3d15325ddeae476a9374f4a08679143695f1c4&token=469630221&lang=zh_CN#rd)
-- [我的学习圈子](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247510381&idx=1&sn=4ee8781f21392af7327e15b1595e804b&chksm=c0e87185f79ff89364b392e878010adec81b95675bf3f7a93ac6e83b9421beac75f382223500&scene=18#rd)
+## 其他
+- [我的公众号万粉之路](./docs/其他/我的公众号万粉之路.md)   
+- [我的第一个10万](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491128&idx=1&sn=9b35640a5a5e1b26ef9d95b1cbc0d710&chksm=c0ebc6d0f79c4fc638686cffb25efa4926229517331d299b0ea2054fb0fe398289b0c8bc0f9a&token=1866170951&lang=zh_CN#rd)       
+- [打印优质日志的 10 条军规](https://mp.weixin.qq.com/s/Jz3eC3p6tfE3QUPOkw4sTQ)   
+- [参数校验的 6 大神功！](https://mp.weixin.qq.com/s/UxsXS6n_xOS-htCG9UJwkA)
 
 **如果一个人走的太累，不如结伴而行。** 
 
-最近我建了新的技术交流群，打算将它打造成高质量的活跃群，欢迎小伙伴们加入。
+最近我建了一些AI技术交流群，打算将它打造成高质量的活跃群，欢迎小伙伴们加入。
 
-我以往的技术群里技术氛围非常不错，大佬很多。
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/ibJZVicC7nz5gOfZqp44IMnIrys8aeBkUBMuRdzict3Kg4rNPMrwwUlFb6dW6pFcmQfPM77byIiba4ib7IOraoXLckQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
-还有送书的活动：
-![](https://mmbiz.qpic.cn/mmbiz_png/ibJZVicC7nz5iaOibWCa4K0icj2SqnwTnfPuruR0hJg1pSgyMPiaicSpU02yMXIuWnq6kzZN32amntog47KiadDDZSQDwA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
+我以往的技术群里技术氛围非常不错，大佬很多，加我微信：li_su223，备注：github，即可近期交流和学习。。
 
 此外，在群里你可以自由交流技术、生活和面试经历，不定期还有大厂的内推机会。
 
-扫描下方二维码，回复：加群，即可进群：
-
-![](https://mmbiz.qpic.cn/mmbiz_png/J4jTHmo8Xh6zjrAC4RzZly78RTumAA0dTCFUElhe2DE6GwbQiakH9tqlhUXmBXtjbicxJC1TPszLZW9UYyYoh5HA/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1)
-
+最近缺项目经历想快速提升项目实战能力（包含多个AI项目），或者最近找工作，或者想学习AI的小伙伴，可以看看下面👇🏻的这个链接（或许真的能够帮到你）​​​https://susan.net.cn/project
