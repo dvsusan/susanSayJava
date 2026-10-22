@@ -1,4 +1,14 @@
-⭐ 点右上角给一个 Star，鼓励技术人输出更多干货，爱了 ！
+# Java 面试八股文与企业级项目实战（持续更新）
+
+Java 后端面试题与项目实战合集：覆盖 Java 基础、JVM、并发编程、Spring、
+Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高并发、
+微服务、分布式与 AI Agent，每篇都是可落地的实战经验。
+
+- 📖 完整网站（题库 + 场景设计 + 项目源码）：https://www.susan.net.cn
+- 🚀 项目实战（13 个可写进简历的企业级项目）：https://www.susan.net.cn/project/
+- 🤖 AI 教程（Spring AI / RAG / Agent）：https://www.susan.net.cn/ai/
+  
+> ⭐ 点右上角给一个 Star，鼓励技术人输出更多干货，爱了 ！
 
 这里有面试八股文，面试真题，工作经验分享，踩坑日记，学习路线，还有个人成长经历等。
 
