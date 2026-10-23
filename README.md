@@ -280,11 +280,11 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 3. 当你遇到了技术学习瓶颈的时候。
 4. 当你职业发展很迷茫不知道该如何选择的时候。
 
-或许 [苏三的知识星球](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247510851&idx=1&sn=7e62ac87ee5a6b4a72d2da3a6fc76d4a&chksm=c0e873abf79ffabd7ba6672a36f21c0a939d5a3d15325ddeae476a9374f4a08679143695f1c4&token=469630221&lang=zh_CN#rd)：【[Java突击队](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247510851&idx=1&sn=7e62ac87ee5a6b4a72d2da3a6fc76d4a&chksm=c0e873abf79ffabd7ba6672a36f21c0a939d5a3d15325ddeae476a9374f4a08679143695f1c4&token=469630221&lang=zh_CN#rd)】真的可以帮到你。
+或许 [苏三的知识星球](https://mp.weixin.qq.com/s/7qSxQvO8yEZ_5NjHvmwlEg)：【[Java突击队](https://mp.weixin.qq.com/s/7qSxQvO8yEZ_5NjHvmwlEg)】真的可以帮到你。
 
-短短几个月的时间，已经有将近 `1100` 名球友加入了[苏三的学习圈子](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247510381&idx=1&sn=4ee8781f21392af7327e15b1595e804b&chksm=c0e87185f79ff89364b392e878010adec81b95675bf3f7a93ac6e83b9421beac75f382223500&scene=18#rd)，一起学习，一起成长。苏三的知识星球这几个月内曾多次[被官方推荐了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247511124&idx=1&sn=7739e52c7516b437f4a459bf8c638116&chksm=c0e874bcf79ffdaa49bdefe21636b3993489762b2d33a82edd06959551624c7a3202467a172f&token=469630221&lang=zh_CN#rd)，并且得到了球友们的一致认可。
+短短几个月的时间，已经有 `3200`+ 球友加入了[苏三的学习圈子](https://mp.weixin.qq.com/s/7qSxQvO8yEZ_5NjHvmwlEg)，一起学习，一起成长。苏三的知识星球这几个月内曾多次[被官方推荐了](https://mp.weixin.qq.com/s/7qSxQvO8yEZ_5NjHvmwlEg)，并且得到了球友们的一致认可。
 
-如果你也需要一个良好的学习环境，[戳这里](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247511124&idx=1&sn=7739e52c7516b437f4a459bf8c638116&chksm=c0e874bcf79ffdaa49bdefe21636b3993489762b2d33a82edd06959551624c7a3202467a172f&token=469630221&lang=zh_CN#rd)加入我们吧，绝对物超所值。
+如果你也需要一个良好的学习环境，[戳这里](https://mp.weixin.qq.com/s/7qSxQvO8yEZ_5NjHvmwlEg)加入我们吧，绝对物超所值。
 
 这里有：系统设计、工作经验分享、性能优化、源码解读、高频面试题、底层原理、痛点问题、工作实战、开源项目等多个优质专栏。
 ![](https://files.mdnice.com/user/5303/8fee3716-f5d5-4a94-8290-7ca288fa5963.png)
@@ -303,6 +303,7 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 
 
 还有送书的活动：
+
 ![](https://mmbiz.qpic.cn/mmbiz_png/ibJZVicC7nz5iaOibWCa4K0icj2SqnwTnfPuruR0hJg1pSgyMPiaicSpU02yMXIuWnq6kzZN32amntog47KiadDDZSQDwA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
