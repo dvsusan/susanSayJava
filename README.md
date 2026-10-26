@@ -35,6 +35,33 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 下面分享Java后端学习路线，后续会不断持续更新。。。
 ![](https://pic.imgdb.cn/item/62c82558f54cd3f93756e811.png)
 
+## AI相关
+- [Java AI框架选型指南](https://mp.weixin.qq.com/s/5M9lMNu0o1IV5ZpzxUfVFg)
+- [xxl-job已正式接入AI](https://mp.weixin.qq.com/s/MPGPF9FriY57Vbb1MVGsEQ)
+- [Kafka已正式接入AI](https://mp.weixin.qq.com/s/WuhlJRZJjWCJeMZxOw3HqQ)
+- [Skywalking已全面拥抱AI！](https://mp.weixin.qq.com/s/N5hvp1ospzfUaq0pbZVNPg)
+- [Nacos已全面拥抱AI！](https://mp.weixin.qq.com/s/Ab12njjMd0PG_mh2uu0Izg)    
+- [为什么越来越多人用 Jev ？](https://mp.weixin.qq.com/s/TrAQCgxhoYxMYnLZx3UHCg)
+- [阿里开源了一个神级Agent项目](https://mp.weixin.qq.com/s/horzvWx2tUUQdkKlaq2Kzg)
+- [DeepSeek Harness必装的10个插件](https://mp.weixin.qq.com/s/HZkdwfLKjKFEE_J3EnGFrA)
+- [LangChain4j 入门指南](https://mp.weixin.qq.com/s/Yrlw5glCiMO9WNSNf07Uog)
+- [为什么越来越多人用 Pi ？](https://mp.weixin.qq.com/s/Q4HkNGARvnBg70K3miPsuw)
+- [Spring之父再次出山，开发了一个新AI框架！](http://mp.weixin.qq.com/s/HwhGNvqFK2_RoQH-ax-O8A)       
+- [AgentScope入门指南](https://mp.weixin.qq.com/s/v7xeZgNyT_hEbIcTACOviA)       
+- [为什么越来越多人使用FastAPI?](https://mp.weixin.qq.com/s/WYdY-1FL1M-JykoINrKRqg)
+- [全网爆火的Superpowers到底是什么?](https://mp.weixin.qq.com/s/_DLkG7wN-9qsoI_vulkMBw)
+- [Superpowers、OpenSpec、Spec-Kit 傻傻分不清楚](https://mp.weixin.qq.com/s/ZN7DiCcgoHDc4uWJlyQ_kQ)
+- [Claude Code从失控到起飞，只用了这些技巧。。。](https://mp.weixin.qq.com/s/X6c-ygH0jCcPt16cRmJMrg)
+- [AgentScope Java 2.0 正式发布了！](https://mp.weixin.qq.com/s/_Y8Fdaz6X_ovM05NnLg8Sg)
+- [Spring AI 2.0 RC正式发布了！](https://mp.weixin.qq.com/s/zvLHYX_1jy7jEjzvzka-CA)
+- [Codex中必装的11个Skills](https://mp.weixin.qq.com/s/z9TRIWLum5J6EOObxtcTog)
+- [Spring AI 从入门到实战](https://mp.weixin.qq.com/s/MCGmJ1GsVcpWAcO395TuYg)
+- [11个顶级的Claude Code Skills](https://mp.weixin.qq.com/s/qFAiSgBPSkO3Xv9pgDLIDw)
+- [RAG的10道高频面试题](https://mp.weixin.qq.com/s/dGU9ZTaynbdb4LzJYZlJTw)
+- [Milvus 和 PGVector，哪个更好？](https://mp.weixin.qq.com/s/8dAiwxUInGtveaV-GAn2XQ)
+- [Spring AI Aliababa和AgentScope，哪个更好？](https://mp.weixin.qq.com/s/q3deoe-d4B-Tsiq3ziZKYw)     
+       
+
 ## 高并发系列
 - [聊聊接口性能优化的11个小技巧](https://mp.weixin.qq.com/s/Wfedf1T8uCgW2GsDaeRSDg)
 - [我用kafka两年踩过的一些坑](https://mp.weixin.qq.com/s/-gQbjK7A04oVrtlaFlyixg)
