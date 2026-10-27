@@ -235,29 +235,28 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 - [聊聊AQS](https://mp.weixin.qq.com/s/wDmoX1gxfW4sCO6mGCiO6Q)   
 - [聊聊Java中那18 把锁](https://mp.weixin.qq.com/s/ESXBQXnzWh4fvhDU3rPuyw)   
 - [聊聊伪共享](https://mp.weixin.qq.com/s/FDwSy3zVXlyqhyE0aZoQ1A)   
-- [面试官一个线程池问题把我问懵逼了](https://mp.weixin.qq.com/s/1OwV4NdMmt3Jhf8BgvFYWw)   
-- [当Synchronized遇到这玩意儿，有个大坑，要注意！](https://mp.weixin.qq.com/s/PV7sRUVYbNjV_BpZYS0qzg)   
-- [JAVA并发十二连招，你能接住吗？](https://mp.weixin.qq.com/s/asVIrMWDJkBPojdRRZnKzQ)   
-- [看起来是线程池的BUG，但是我认为是源码设计不合理。](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496479&idx=2&sn=c7c1318578a3e227921eacb7a84f2f74&chksm=c0e82bf7f79fa2e1209052272e57554cb59f74263d16ac04cf088cf4cf54298d25ebfac85c77&token=1690710950&lang=zh_CN#rd)   
-- [聊聊异步编程的 7 种实现方式](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496908&idx=1&sn=79ec332b4e5d390ce103b0cb15b5a0b0&chksm=c0e82c24f79fa5323bff7f2144190e272f849435a408148bc41107085ac8c7c26066d4b8baed&token=1780081529&lang=zh_CN#rd)   
-- [麻了，代码改成多线程，竟有9大问题](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497280&idx=1&sn=16987a9419dc19f82f27f43523af0751&chksm=c0e82ea8f79fa7be6367189470168c0d45bfd52302b1fba873aec39c81949ba2f883d37d9336&token=1106409335&lang=zh_CN#rd)   
+- [面试官一个线程池问题把我问懵逼了](https://mp.weixin.qq.com/s/MMcDru8SXP5mYkFw3udjKg)   
+- [当Synchronized遇到这玩意儿，有个大坑，要注意！](https://mp.weixin.qq.com/s/hXZPzVa9Jm7Amgqf6OlqNg)   
+- [JAVA并发十二连招，你能接住吗？](https://mp.weixin.qq.com/s/uwTaazsfH1yBRwa2SePB4A)      
+- [聊聊异步编程的 7 种实现方式](https://mp.weixin.qq.com/s/piaRyEn3rNbMN5sDe_Og7g)   
+- [麻了，代码改成多线程，竟有9大问题](https://mp.weixin.qq.com/s/BeQob3Hgb-dqnFNIzjCOWg)   
 
 ## JVM系列
-- [聊聊JVM](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495919&idx=1&sn=71010d91e376270afc31bbe61c8326aa&chksm=c0e82807f79fa111d7c339832f48c9542d5fc1540c1a619c1a3281040fc1631616e016d0dc36&token=1502528170&lang=zh_CN#rd)   
-- [聊聊JVM内存布局](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493279&idx=1&sn=5de4a1eecd81911740d9b9fa03d25eb3&chksm=c0e83e77f79fb7611fe980aaf071cf6b62edf18ed5360bfd9ce204437a3e261546d9598cade4&token=1121830644&lang=zh_CN#rd)   
+- [聊聊JVM](https://mp.weixin.qq.com/s/wApsmB1B9hJR-zmZr4ogdg)   
+- [聊聊JVM内存布局](https://mp.weixin.qq.com/s/y9eLMW1NsRDbdA2j1USAFw)   
 
 
 ## netty系列
-- [聊聊Netty那些事儿](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491897&idx=1&sn=f46c85ca6c3ac27803c67503eccc3484&chksm=c0e839d1f79fb0c7ffa9a44e20dc027ad4e8f32773e35d1f262ad19440e27bb94931f50b6de8&token=375542673&lang=zh_CN#rd)   
-- [今天给Netty贡献了一波源码](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495776&idx=1&sn=b0c4f85727f2567b4ab64f1f5b12eac0&chksm=c0e82888f79fa19e9b80efe10e25e240f8f51d75105ac893d2018f801beeb0242bc2a1a9c4d9&token=375542673&lang=zh_CN#rd)   
+- [聊聊Netty那些事儿](https://mp.weixin.qq.com/s/-sPwfOVjW-JPGcTNyJoCkw)   
+- [今天给Netty贡献了一波源码](https://mp.weixin.qq.com/s/7MeORuMV2YTmues5yftTuQ)   
 
 
 ## 工具系列
-- [吐血推荐17个提升开发效率的“轮子”](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247495296&idx=1&sn=6ff4affb2d00dce011c08d8eb5448d7a&chksm=c0e83668f79fbf7ead1410a998f4d4406badd65f943ca1b6833a7b1d663d5d5d0808e4c462e4&token=375542673&lang=zh_CN#rd)   
-- [干掉visio，这个画图神器真的绝了！！！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247491053&idx=1&sn=f21b5669a98721aeba3a91c85f298b7c&chksm=c0ebc505f79c4c137c742b657e97834c563527ce4601348621ef5326e678c36427b7d9ed195d&token=426403078&lang=zh_CN#rd)   
-- [推荐几个在线文档生成神器](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490261&amp;idx=1&amp;sn=174bac016abb19497fb35a7aea19ac77&amp;chksm=c0ebc23df79c4b2b3538612ac99a89ab8d8ff13c08107ab61d7fdac5a7a15bf855bae1481415&token=751314179&lang=zh_CN#rd)   
-- [这11款chrome神器，用起来爽到爆](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490317&amp;idx=1&amp;sn=5f8e86158b571c3d3f3e84e7422a58ce&amp;chksm=c0ebc3e5f79c4af37ebf32b2a1e83662ee2af57b2292ee19533328ee51f63f61d51a7a198a99&token=751314179&lang=zh_CN#rd)  
-- [阿里开源的10个神级项目](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490438&amp;idx=1&amp;sn=e05695e2293c2dd5e5f31ef9d4a11a7b&amp;chksm=c0ebc36ef79c4a78b99c6ff6b56e40266685fcadbeb967b39d1533f83591ad07b84510f7f705&token=751314179&lang=zh_CN#rd)   
+- [吐血推荐17个提升开发效率的“轮子”](https://mp.weixin.qq.com/s/P51N2n6Fi4ycvJh1yv3AJQ)   
+- [干掉visio，这个画图神器真的绝了！！！](https://mp.weixin.qq.com/s/xANRqMjesFOm3HurJJ9mDw)   
+- [推荐几个在线文档生成神器](https://mp.weixin.qq.com/s/R7kinNftpRgvjqy3NVUPYw)   
+- [这11款chrome神器，用起来爽到爆](https://mp.weixin.qq.com/s/BB89sNu560bkdNWFvz0Rvw)  
+- [阿里开源的10个神级项目](https://mp.weixin.qq.com/s/0a25XYz9k1rNamMZWMhK6A)   
 - [这样写代码，真是帅到没有朋友](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490293&amp;idx=1&amp;sn=2d146162543cddc91d16fe51fecb930c&amp;chksm=c0ebc21df79c4b0b9f0708f614cc45638a67a292ea427abd8c83729d9009d21d8487b7627c56&token=751314179&lang=zh_CN#rd)  
 - [这个神器让我工作效率提升了数倍](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490362&amp;idx=1&amp;sn=50fd23b98926d1d4d3d7e901b7671da0&amp;chksm=c0ebc3d2f79c4ac4f0af88aae9a095e310f09135add98c949ec00ef7f011e46adf1797b52b57&token=751314179&lang=zh_CN#rd)   
 - [这个神器让我的代码bug少了一半](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490250&amp;idx=1&amp;sn=bf92cd67ea7d271a40e86953da87726d&amp;chksm=c0ebc222f79c4b3427641bdafc3cc54f5fafc949dc98be7f2899cb0fd33c4474486696e8bfa5&token=751314179&lang=zh_CN#rd) 
