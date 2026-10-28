@@ -60,7 +60,9 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 - [RAG的10道高频面试题](https://mp.weixin.qq.com/s/dGU9ZTaynbdb4LzJYZlJTw)
 - [Milvus 和 PGVector，哪个更好？](https://mp.weixin.qq.com/s/8dAiwxUInGtveaV-GAn2XQ)
 - [Spring AI Aliababa和AgentScope，哪个更好？](https://mp.weixin.qq.com/s/q3deoe-d4B-Tsiq3ziZKYw)     
-       
+- [Codex最佳实践完整指南（2026）](https://mp.weixin.qq.com/s/y-HPD9EifwhHpUeb5WfTng)
+- [Codex 接入 DeepSeek V4 保姆级教程](https://mp.weixin.qq.com/s/6XFwFvl5Z3PRwmftY1WUWw)
+      
 
 ## 高并发系列
 - [聊聊接口性能优化的11个小技巧](https://mp.weixin.qq.com/s/Wfedf1T8uCgW2GsDaeRSDg)
@@ -257,48 +259,47 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 - [推荐几个在线文档生成神器](https://mp.weixin.qq.com/s/R7kinNftpRgvjqy3NVUPYw)   
 - [这11款chrome神器，用起来爽到爆](https://mp.weixin.qq.com/s/BB89sNu560bkdNWFvz0Rvw)  
 - [阿里开源的10个神级项目](https://mp.weixin.qq.com/s/0a25XYz9k1rNamMZWMhK6A)   
-- [这样写代码，真是帅到没有朋友](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490293&amp;idx=1&amp;sn=2d146162543cddc91d16fe51fecb930c&amp;chksm=c0ebc21df79c4b0b9f0708f614cc45638a67a292ea427abd8c83729d9009d21d8487b7627c56&token=751314179&lang=zh_CN#rd)  
-- [这个神器让我工作效率提升了数倍](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490362&amp;idx=1&amp;sn=50fd23b98926d1d4d3d7e901b7671da0&amp;chksm=c0ebc3d2f79c4ac4f0af88aae9a095e310f09135add98c949ec00ef7f011e46adf1797b52b57&token=751314179&lang=zh_CN#rd)   
-- [这个神器让我的代码bug少了一半](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&amp;mid=2247490250&amp;idx=1&amp;sn=bf92cd67ea7d271a40e86953da87726d&amp;chksm=c0ebc222f79c4b3427641bdafc3cc54f5fafc949dc98be7f2899cb0fd33c4474486696e8bfa5&token=751314179&lang=zh_CN#rd) 
-- [学会这10种定时任务，我有点飘了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490314&idx=1&sn=29ddf0c1e99675b86cdfc082556a69a9&chksm=c0ebc3e2f79c4af43cf8582d41b0bc3ede57986cc6c115b103b586a2c7bddb4475555e919b20&token=1121830644&lang=zh_CN#rd) 
-- [用代码画时序图！YYDS](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497299&idx=1&sn=7ed248522600cb14e9ec609226cb0167&chksm=c0e82ebbf79fa7ad49b95887e5a3365cddf04219f85429e32283842b4c4a3cc35952fd874bcb&token=1106409335&lang=zh_CN#rd) 
+- [这样写代码，真是帅到没有朋友](https://mp.weixin.qq.com/s/u86GeQ2MxbkgqtQheqUfag)  
+- [这个神器让我工作效率提升了数倍](https://mp.weixin.qq.com/s/_DUz6e_-GBbCA34gAEYyGQ)   
+- [这个神器让我的代码bug少了一半](https://mp.weixin.qq.com/s/zSe2y3QTClIhIxxcEHtIMQ) 
+- [学会这10种定时任务，我有点飘了](https://mp.weixin.qq.com/s/D98xFBCS5CSwSXQ22itQqA) 
+- [用代码画时序图！YYDS](https://mp.weixin.qq.com/s/oO2LHwguMUvl8jDwwYl12w) 
 
-## 系统设计
-- [红包雨：Redis 和 Lua 的奇妙邂逅](https://mp.weixin.qq.com/s?__biz=MzIyNTYzNDE5MQ==&mid=2247504090&idx=1&sn=cb3c72842390ee6fef950b1f80c56b40&chksm=e87e223adf09ab2cf3c4ffc5c0c587fc08e7c5ddce38f2880918f163a793d80813585c157032&token=1495241346&lang=zh_CN#rd)   
-- [权限系统就该这么设计，yyds](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497097&idx=1&sn=4225f4fe59f2d77d0f3686009bab48ae&chksm=c0e82d61f79fa477ec30cf750aef113fa872a8962821eb782a70419c8b842d7b65e85718e427&token=1495241346&lang=zh_CN#rd)   
-- [开发一个不崩溃的核酸系统难吗？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498606&idx=1&sn=059c88c4872c4a1aaf255ed1fde64d95&chksm=c0e82386f79faa906772a0619b2d2e3edf025a386b1a583849a4090137fe64595235b1c8843b&token=866261993&lang=zh_CN#rd)   
-- [B站从0到1000万](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498256&idx=1&sn=d10e97439545dd4199d142b4c907a647&chksm=c0e822f8f79fabee2f8a34ad75aff8adb317d518397b8b4a0521e06940af1cdb04ed8d04d192&token=866261993&lang=zh_CN#rd)   
+## 系统设计 
+- [权限系统就该这么设计，yyds](https://mp.weixin.qq.com/s/qbRJtUfZwrpF4_izoOSWDQ)   
+- [开发一个不崩溃的核酸系统难吗？](https://mp.weixin.qq.com/s/1LqffaIwK_CcpIZtt3jMjw)   
+- [B站从0到1000万](https://mp.weixin.qq.com/s/7TfGj87K1MlISh9VSK1LQw)   
 
 
 ## 设计模式
 - [单例模式，真不简单](./docs/基础/单例模式，真不简单.md)   
-- [聊聊工作中必用的6种设计模式](https://mp.weixin.qq.com/s/H-OurMV7I6g5EqW_MIaOww)   
+- [聊聊工作中必用的6种设计模式](https://mp.weixin.qq.com/s/44hHWzNOHuDExiJRke0KGg)   
 
 ## 基础知识
 - [java中那些让你傻傻分不清楚的小细节](./docs/基础/java中那些让你傻傻分不清楚的小细节.md)   
 - [迷茫了，我们到底该不该用lombok？](./docs/基础/迷茫了，我们到底该不该用lombok？.md)   
-- [为什么网络 I/O 会被阻塞？](https://mp.weixin.qq.com/s/7mT9lZNCtpPe4xEfu9s5xQ)   
-- [聊聊Java中代码优化的30个小技巧](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496758&idx=1&sn=ca7ad0708b1349c5bafadb96adb56170&chksm=c0e82cdef79fa5c88b9861aa9953a6178f10bcd5151c51824d1a61856eff0dd21674335975ce&token=1581341365&lang=zh_CN#rd)   
+- [为什么网络 I/O 会被阻塞？](https://mp.weixin.qq.com/s/nUR6Xsg1SDRT2l1Iy4Mk-w)   
+- [聊聊Java中代码优化的30个小技巧](https://mp.weixin.qq.com/s/ZKY_9MZTs5Gav0vHphRZdg)   
 
 ## 网络
-- [断网了，还能ping通 127.0.0.1 吗？](https://mp.weixin.qq.com/s/n9gTRLgw_tnVl90zywrdcg)   
-- [HTTP/3发布了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496895&idx=1&sn=a3d100d7f6d4b67f691f1b19e7f07b1e&chksm=c0e82c57f79fa54148f4f912a7db751236d27dd8452fc0affd818cc6d8825b3a01ec8a44ea72&token=1446978876&lang=zh_CN#rd)   
-- [输入 xxxhub 的背后到底发生了什么?](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496772&idx=1&sn=6f73c91c982928c0e7e11a30ff92ec94&chksm=c0e82cacf79fa5ba1e67353fb78f205fea88557208332676cc89aa90ad7135fd5411666182b1&token=1446978876&lang=zh_CN#rd)   
-- [既然有HTTP协议，为什么还要有RPC](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247497130&idx=1&sn=5bcc60dee03c1eae0043dd014c42677b&chksm=c0e82d42f79fa45409316e2d5a56b88ed332e54069e23a1d98558c65915fdc837f497b82ed8c&token=1650035797&lang=zh_CN#rd)   
-- [有HTTP协议，为什么还要websocket协议？](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498599&idx=1&sn=f0170bad7f393bfa8f6dc88c6d46cb4f&chksm=c0e8238ff79faa99dd5e38325b8cb863c5c1d4fa934ccff91867e3c997b803485b416080959f&token=866261993&lang=zh_CN#rd)   
+- [断网了，还能ping通 127.0.0.1 吗？](https://mp.weixin.qq.com/s/xkJYc9rHRD5B7a5Js_0_xg)   
+- [HTTP/3发布了](https://mp.weixin.qq.com/s/IQC-WQaD-Zx1jSD6M8cKUA)   
+- [输入 xxxhub 的背后到底发生了什么?](https://mp.weixin.qq.com/s/A1ttux9rDgYIxMSRA6weAQ)   
+- [既然有HTTP协议，为什么还要有RPC](https://mp.weixin.qq.com/s/GI9KWl_S7LsU5W3sP0T2GQ)   
+- [有HTTP协议，为什么还要websocket协议？](https://mp.weixin.qq.com/s/w_kBMno9IJQDixUPOsIVeA)   
 
 
 ## 踩坑日记
-- [被自己坑了...](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493833&idx=1&sn=7ab5fc431fa1cf8c609a7315e5a5456c&chksm=c0e83021f79fb93729db528f0a19446d8c3e281b52cf2a919efec12c35b61ca7afb8062aa6f1&token=375542673&lang=zh_CN#rd)  
-- [Objects.equals有坑](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493176&idx=1&sn=c445625478a7f8122a6715b64fe6770c&chksm=c0e83ed0f79fb7c6cf2992d24e98f60fd78ca89525b5a3cc07f79dc801dd8e381b1fce03bf5c&token=375542673&lang=zh_CN#rd)  
-- [生产环境一次诡异的NPE问题，反转了4次](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490345&idx=1&sn=cbbcb88678c487074d7516edcee64d01&chksm=c0ebc3c1f79c4ad73f05bf3eb6b2b652cb70b37e02bd24fc1d1078bfa7332d0e6581bd7ab133&token=660773166&lang=zh_CN&scene=21#wechat_redirect)  
-- [分布式下的区域问题，让我们大战了300回合](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490339&idx=1&sn=15aed6615bfed74a0cb3572185525809&chksm=c0ebc3cbf79c4adda626d0cce8e8badee1192793569deca0f8ec9158ce22832c84dc79e73855&token=660773166&lang=zh_CN&scene=21#wechat_redirect)  
-- [java中那些让你傻傻分不清楚的小细节](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247490288&idx=1&sn=ba15d8f83186c2d0d66f24af413b49e3&chksm=c0ebc218f79c4b0ec8e3a6940c54fa2a385c2a724a9d2ea1acdf8187f1b0e96b4378348c0ed1&token=660773166&lang=zh_CN&scene=21#wechat_redirect)  
-- [JDK有BUG！！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247494613&idx=1&sn=65be88d628980eaa77ded1305568f2ce&chksm=c0e8333df79fba2b77111b8345d15903d0976857d37f13d4efef27ab6040f950d9888df6297f&token=1121830644&lang=zh_CN#rd)  
-- [Spring爆出致命漏洞，赶紧修复！！！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247493469&idx=1&sn=937bdfe0b5e7558fb184eb7a128c1f6c&chksm=c0e83fb5f79fb6a30e944fc7672b7e0a300933ca9885c32fd61a1620afc3c378b2a079e670d8&token=1121830644&lang=zh_CN#rd)  
-- [99%的Java程序员会踩的6个坑](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247496369&idx=1&sn=c0824ac978d122e25aa30c9335a2973f&chksm=c0e82a59f79fa34f78ece0fcba184799d8dc3143e7ac5e0530d0771ef5e155116aa9aa74eb06&token=1508828007&lang=zh_CN#rd)  
-- [分页 + 模糊查询 有坑！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498069&idx=1&sn=16ea422fe7896f001d0a6f2328f92fc5&chksm=c0e821bdf79fa8abe07adc45219927ae49ec9bab86690166396bcd0bfc7e40c05d80a4463eda&token=609351868&lang=zh_CN#rd)  
-- [千万千万不要在方法上打断点！太坑了！](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247498013&idx=1&sn=0aff71f6ffb704e57f5f33ebfed6bfd3&chksm=c0e821f5f79fa8e357ff649558d73ab7015f3832331d1b3c97f7a330b2d833b78769ebf10d40&token=609351868&lang=zh_CN#rd)  
+- [被自己坑了...](https://mp.weixin.qq.com/s/VHk4nUycSRJMXkwxR86sNg)  
+- [Objects.equals有坑](https://mp.weixin.qq.com/s/lanzveDiE3XF6psyUYHreQ)  
+- [生产环境一次诡异的NPE问题，反转了4次](https://mp.weixin.qq.com/s/3ieBn_VjzpDN0IQTpKnr_A)  
+- [分布式下的区域问题，让我们大战了300回合](https://mp.weixin.qq.com/s/GbO-rO9cCKxhxMHxgiMFww)  
+- [java中那些让你傻傻分不清楚的小细节](https://mp.weixin.qq.com/s/XiR3rvkrXGSHScXX8Qd0yw)  
+- [JDK有BUG！！](https://mp.weixin.qq.com/s/wnh1af9ww2GlQRSfi9Jc-w)  
+- [Spring爆出致命漏洞，赶紧修复！！！](https://mp.weixin.qq.com/s/KOn5IhJPOGs_qF1rQjCJsg)  
+- [99%的Java程序员会踩的6个坑](https://mp.weixin.qq.com/s/Ww8SGtyBX3oriVuAS2OAlA)  
+- [分页 + 模糊查询 有坑！](https://mp.weixin.qq.com/s/5ds29M4P5WbtkZKdOs7BBQ)  
+- [千万千万不要在方法上打断点！太坑了！](https://mp.weixin.qq.com/s/X4D2vHnJ58GKX9PiUUjDhA)  
 
 
 1. 当你正在为面试而困扰的时候。
