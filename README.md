@@ -36,6 +36,8 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 ![](https://pic.imgdb.cn/item/62c82558f54cd3f93756e811.png)
 
 ## AI相关
+- [为什么越来越多人用Arthas 4 ？](https://mp.weixin.qq.com/s/h10CWGkqxlKlO4JeOMAFbQ)
+- [推荐一个牛逼的AgentScope系统](https://mp.weixin.qq.com/s/Str30T891j7xTSCzrXsTnA)
 - [Java AI框架选型指南](https://mp.weixin.qq.com/s/5M9lMNu0o1IV5ZpzxUfVFg)
 - [xxl-job已正式接入AI](https://mp.weixin.qq.com/s/MPGPF9FriY57Vbb1MVGsEQ)
 - [Kafka已正式接入AI](https://mp.weixin.qq.com/s/WuhlJRZJjWCJeMZxOw3HqQ)
@@ -62,6 +64,7 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 - [Spring AI Aliababa和AgentScope，哪个更好？](https://mp.weixin.qq.com/s/q3deoe-d4B-Tsiq3ziZKYw)     
 - [Codex最佳实践完整指南（2026）](https://mp.weixin.qq.com/s/y-HPD9EifwhHpUeb5WfTng)
 - [Codex 接入 DeepSeek V4 保姆级教程](https://mp.weixin.qq.com/s/6XFwFvl5Z3PRwmftY1WUWw)
+- [为什么越来越多人用Eino？](https://mp.weixin.qq.com/s/9NtIiYcERFIzwT_oNs1jyw)
       
 
 ## 高并发系列
@@ -299,7 +302,8 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 - [Spring爆出致命漏洞，赶紧修复！！！](https://mp.weixin.qq.com/s/KOn5IhJPOGs_qF1rQjCJsg)  
 - [99%的Java程序员会踩的6个坑](https://mp.weixin.qq.com/s/Ww8SGtyBX3oriVuAS2OAlA)  
 - [分页 + 模糊查询 有坑！](https://mp.weixin.qq.com/s/5ds29M4P5WbtkZKdOs7BBQ)  
-- [千万千万不要在方法上打断点！太坑了！](https://mp.weixin.qq.com/s/X4D2vHnJ58GKX9PiUUjDhA)  
+- [千万千万不要在方法上打断点！太坑了！](https://mp.weixin.qq.com/s/X4D2vHnJ58GKX9PiUUjDhA)
+- [继PHP之后，Java也爆出了重大安全漏洞！](https://mp.weixin.qq.com/s/17imsGCoXhy_dqpFgB9taw)
 
 
 1. 当你正在为面试而困扰的时候。
