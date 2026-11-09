@@ -69,6 +69,7 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 - [为什么越来越多人用Quarkus？](https://mp.weixin.qq.com/s/z0CA-653zzoYrXg946NbjA)
 - [为什么越来越多人用 ZXing？](https://mp.weixin.qq.com/s/bDGSLq3lBubQFE1UKzw1rw)
 - [为什么越来越多人用OpenWiki？](https://mp.weixin.qq.com/s/GMd14zkO76WqBjCsD1PyHg)
+- [推荐 10 个 DeepSeek 顶级开源项目](https://mp.weixin.qq.com/s/yOmRsImF6j2eo6ZidkD_Dg)
   
 
 ## 高并发系列
@@ -90,6 +91,7 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 - [服务器性能如何优化？](https://mp.weixin.qq.com/s/jI8bui0N8n26jZK1UUTCBA) 
 - [excel百万数据如何导入导出？](https://mp.weixin.qq.com/s/Jt7s-A0TGTtsYC9LvXR4cg)
 - [微信为什么使用SQLite保存聊天记录？](https://mp.weixin.qq.com/s/F1escFQHY6h2_3Z_6iwx7Q)
+- [为什么越来越多人用JD-hotkey？](https://mp.weixin.qq.com/s/Fez_OBpTqJYNnuu6EwQXiw)
 
 ## 分布式系列
 - [聊聊分布式锁](https://mp.weixin.qq.com/s/IDO6RPiOEXQBVIodZG_x3A)
