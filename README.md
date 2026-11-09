@@ -22,7 +22,7 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 
 <br />
 
-更多项目实战在我的技术网站：[susan.net.cn/project](http://susan.net.cn/project)
+更多项目实战在我的技术网站：[susan.net.cn/project](https://www.susan.net.cn/project)
 
 - [苏三原创精品50篇](https://mp.weixin.qq.com/s/L4xqMUoQhCvqg2A6FAHpfA)
 - [苏三原创精品30篇，真香。](https://mp.weixin.qq.com/s/4aANvcWtQJcL_OubRGvh_g)
@@ -30,7 +30,8 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 
 以下内容全部出自公众号：苏三说技术，欢迎关注。
 
-![](https://pic.imgdb.cn/item/62bf06e01d64b07066781ad4.jpg#pic_left)
+<img width="300" height="300" alt="sssjs_new (2)" src="https://github.com/user-attachments/assets/b2061083-adcc-4714-81d9-34ffb0ac637e" />
+
 
 下面分享Java后端学习路线，后续会不断持续更新。。。
 ![](https://pic.imgdb.cn/item/62c82558f54cd3f93756e811.png)
