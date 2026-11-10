@@ -322,22 +322,19 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 
 
 1. 当你正在为面试而困扰的时候。
-2. 当你工作遇到难题不知道问谁的时候。
-3. 当你遇到了技术学习瓶颈的时候。
+2. 当你想快速增加项目实战能力的时候。
+3. 当你想学习AI Agent开发的时候。
 4. 当你职业发展很迷茫不知道该如何选择的时候。
 
 或许 [苏三的知识星球](https://mp.weixin.qq.com/s/7qSxQvO8yEZ_5NjHvmwlEg)：【[Java突击队](https://mp.weixin.qq.com/s/7qSxQvO8yEZ_5NjHvmwlEg)】真的可以帮到你。
 
-短短几个月的时间，已经有 `3200`+ 球友加入了[苏三的学习圈子](https://mp.weixin.qq.com/s/7qSxQvO8yEZ_5NjHvmwlEg)，一起学习，一起成长。苏三的知识星球这几个月内曾多次[被官方推荐了](https://mp.weixin.qq.com/s/7qSxQvO8yEZ_5NjHvmwlEg)，并且得到了球友们的一致认可。
+星球中包含：从0~1项目开发实战、系统架构、系统设计、表设计、高并发、微服务、分布式、集群、SaaS、多租户、Vue、小程序、AI Agent、LangChain、AgentScope、Spring AI、Spring AI Alibaba、RAG、KAG、Fucation Calling、MCP、向量检索、向量库、多Agent编排和协作什么都有。
+
+企业级实战项目（15个）：企业智能知识库、企业智能招聘系统、SaaS智能客服系统、智能商品购物助手AI Agent、智能代码检查AI Agent、智能翻译助手AI Agent、SaaS点餐系统（多租户&微服务）、100万QPS短链系统（超高并发）、商城微服务系统（分布式）、刷题吧小程序（AI）、商城系统（20多个技术亮点）、秒杀系统（高并发）、智能天气播报AI Agent、代码生成器、智能问答系统。帮你快速增加项目经验。
+
+目前已经有 `3200`+ 球友加入了[苏三的学习圈子](https://mp.weixin.qq.com/s/7qSxQvO8yEZ_5NjHvmwlEg)，一起学习，一起成长。
 
 如果你也需要一个良好的学习环境，[戳这里](https://mp.weixin.qq.com/s/7qSxQvO8yEZ_5NjHvmwlEg)加入我们吧，绝对物超所值。
-
-这里有：系统设计、工作经验分享、性能优化、源码解读、高频面试题、底层原理、痛点问题、工作实战、开源项目等多个优质专栏。
-![](https://files.mdnice.com/user/5303/8fee3716-f5d5-4a94-8290-7ca288fa5963.png)
-我相信可以帮助你更从容的面对困难：
-- [我被官方推荐了](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247511124&idx=1&sn=7739e52c7516b437f4a459bf8c638116&chksm=c0e874bcf79ffdaa49bdefe21636b3993489762b2d33a82edd06959551624c7a3202467a172f&token=469630221&lang=zh_CN#rd)
-- [我读Spring的一些心得](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247510851&idx=1&sn=7e62ac87ee5a6b4a72d2da3a6fc76d4a&chksm=c0e873abf79ffabd7ba6672a36f21c0a939d5a3d15325ddeae476a9374f4a08679143695f1c4&token=469630221&lang=zh_CN#rd)
-- [我的学习圈子](https://mp.weixin.qq.com/s?__biz=MzkwNjMwMTgzMQ==&mid=2247510381&idx=1&sn=4ee8781f21392af7327e15b1595e804b&chksm=c0e87185f79ff89364b392e878010adec81b95675bf3f7a93ac6e83b9421beac75f382223500&scene=18#rd)
 
 **如果一个人走的太累，不如结伴而行。** 
 
