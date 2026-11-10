@@ -37,6 +37,8 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 ![](https://pic.imgdb.cn/item/62c82558f54cd3f93756e811.png)
 
 ## AI相关
+
+- [为什么越来越多人用 AI Gateway ？](http://mp.weixin.qq.com/s/eL33TT0Xa5bLhU7kJhRIWg)
 - [为什么越来越多人用Arthas 4 ？](https://mp.weixin.qq.com/s/h10CWGkqxlKlO4JeOMAFbQ)
 - [推荐一个牛逼的AgentScope系统](https://mp.weixin.qq.com/s/Str30T891j7xTSCzrXsTnA)
 - [Java AI框架选型指南](https://mp.weixin.qq.com/s/5M9lMNu0o1IV5ZpzxUfVFg)
