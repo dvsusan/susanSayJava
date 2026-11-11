@@ -320,6 +320,21 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 - [阿里开源了一个神级Agent项目](https://mp.weixin.qq.com/s/horzvWx2tUUQdkKlaq2Kzg)
 - [推荐一个牛逼的RAG+KAG双引擎系统](https://mp.weixin.qq.com/s/FLHcS7T6RvUNDFLD8B3qNQ)
 
+## 🔥项目实战
+
+- [企业智能知识库系统AI Agent](https://www.susan.net.cn/project/knowledge/1.info.html)
+- [企业智能招聘系统AI Agent](https://www.susan.net.cn/project/smartRecruit/1.info.html)
+- [100万QPS短链系统](https://www.susan.net.cn/project/shortlink/1.info.html)
+- [智能代码审查AI Agent](https://www.susan.net.cn/project/codeReview/1.info.html)
+- [智能商品推荐助手](https://www.susan.net.cn/project/smartRecommendation/1.info.html)
+- [智能天气播报AI Agent](https://www.susan.net.cn/project/weather/1.info.html)
+- [智能翻译AI Agent](https://www.susan.net.cn/project/translate/1.info.html)
+- [复杂商城系统](https://www.susan.net.cn/project/mall/1.intro.html)
+- [秒杀系统](https://www.susan.net.cn/project/seckill/1.infro.html)
+- [SaaS点餐系统](https://www.susan.net.cn/project/saas/1.info.html)
+- [刷题吧小程序](https://www.susan.net.cn/project/itquiz/1.info.html)
+- [代码生成器](https://www.susan.net.cn/project/codeGenerate/1.info.html)
+- [商城微服务系统](https://www.susan.net.cn/project/mallCloud/0.infro.html)      
 
 1. 当你正在为面试而困扰的时候。
 2. 当你想快速增加项目实战能力的时候。
