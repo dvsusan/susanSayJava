@@ -38,6 +38,8 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 
 ## AI相关
 
+- [腾讯又来一王炸，开源版 WorkBuddy 太顶了](https://mp.weixin.qq.com/s/kuPuPUFSMbfMKngqXBbO3w)
+- [Workbuddy + ima 打造个人 AI 知识库](https://mp.weixin.qq.com/s/hkrnvzsoyHApVkwEm1762Q)
 - [为什么越来越多人用 AI Gateway ？](http://mp.weixin.qq.com/s/eL33TT0Xa5bLhU7kJhRIWg)
 - [为什么越来越多人用Arthas 4 ？](https://mp.weixin.qq.com/s/h10CWGkqxlKlO4JeOMAFbQ)
 - [推荐一个牛逼的AgentScope系统](https://mp.weixin.qq.com/s/Str30T891j7xTSCzrXsTnA)
@@ -158,6 +160,17 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 - [聊聊 Sentinel](https://mp.weixin.qq.com/s/2PFz4lC2825vMhPhlOU5mA)   
 - [OpenFeign的9个坑，每个都能让你的系统奔溃](https://mp.weixin.qq.com/s/alIcXOGfas7ea9QLvdJj3A)   
 - [Spring Cloud Gateway + JWT 实现登录认证](https://mp.weixin.qq.com/s/ctEjKUoqkGhMuCgGQTbJoQ)   
+
+## 开发规范
+- [一线大厂的Git规范](https://mp.weixin.qq.com/s/WdWlXufBsmoV5UCb5K600w)
+- [接口设计的18条军规](https://mp.weixin.qq.com/s/8TFQDZ-XVDkYdpMGfgF6WQ)
+- [表设计的18条军规](https://mp.weixin.qq.com/s/DnC-bHB9mXrCWYPXFJSGqQ)
+- [高质量索引的10条军规](https://mp.weixin.qq.com/s/oakKMNsxmIlj4QvZdty4jw)
+- [用好缓存的10条军规](https://mp.weixin.qq.com/s/xWoPWCdAqAHWp7vmyPz-iA)
+- [打印优质日志的 10 条军规](https://mp.weixin.qq.com/s/RUK9ctMH7m3AU7B-2mcLZw)
+- [分库分表的 21 条军规](https://mp.weixin.qq.com/s/Nnv5tmpv3_xrvL2pzEb2CQ)
+- [MySQL的20条军规](https://mp.weixin.qq.com/s/z3woj4CMX10Vq8EEmvkGvg)
+- [系统高可用的 10 条军规](https://mp.weixin.qq.com/s/nN4sl5YfiNnroUA_X1Ts0w)
 
  
 ## 数据库系列
