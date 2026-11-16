@@ -38,6 +38,7 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 
 ## AI相关
 
+- [为什么越来越多人用 Magpie？](https://mp.weixin.qq.com/s/7TRnRgwnNZc4ObFMatbH0w)
 - [腾讯又来一王炸，开源版 WorkBuddy 太顶了](https://mp.weixin.qq.com/s/kuPuPUFSMbfMKngqXBbO3w)
 - [Workbuddy + ima 打造个人 AI 知识库](https://mp.weixin.qq.com/s/hkrnvzsoyHApVkwEm1762Q)
 - [为什么越来越多人用 AI Gateway ？](http://mp.weixin.qq.com/s/eL33TT0Xa5bLhU7kJhRIWg)
@@ -68,6 +69,8 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 - [Milvus 和 PGVector，哪个更好？](https://mp.weixin.qq.com/s/8dAiwxUInGtveaV-GAn2XQ)
 - [Spring AI Aliababa和AgentScope，哪个更好？](https://mp.weixin.qq.com/s/q3deoe-d4B-Tsiq3ziZKYw)     
 - [Codex最佳实践完整指南（2026）](https://mp.weixin.qq.com/s/y-HPD9EifwhHpUeb5WfTng)
+- [ClaudeCode 新功能指南](https://mp.weixin.qq.com/s/cKKyZx1-GZfVf5ynhE8xIQ)
+- [JAVA中AI框架选型指南（2026）](https://mp.weixin.qq.com/s/6XGLvncryNNi7bWHoytk5g)
 - [Codex 接入 DeepSeek V4 保姆级教程](https://mp.weixin.qq.com/s/6XFwFvl5Z3PRwmftY1WUWw)
 - [为什么越来越多人用Eino？](https://mp.weixin.qq.com/s/9NtIiYcERFIzwT_oNs1jyw)
 - [为什么越来越多人用MinerU？](https://mp.weixin.qq.com/s/Ee4AhcAQOr0i3n_fHxXy-A)
