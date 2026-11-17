@@ -3,10 +3,6 @@
 Java 后端面试题与项目实战合集：覆盖 Java 基础、JVM、并发编程、Spring、
 Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高并发、
 微服务、分布式与 AI Agent，每篇都是可落地的实战经验。
-
-- 📖 完整网站（题库 + 场景设计 + 项目源码）：https://www.susan.net.cn
-- 🚀 项目实战（13 个可写进简历的企业级项目）：https://www.susan.net.cn/project/
-- 🤖 AI 教程（Spring AI / RAG / Agent）：https://www.susan.net.cn/ai/
   
 > ⭐ 点右上角给一个 Star，鼓励技术人输出更多干货，爱了 ！
 
@@ -38,6 +34,8 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 
 ## AI相关
 
+- [Hermes Agent 保姆级教程](https://mp.weixin.qq.com/s/tGs8XH2A1dIwNpF1azqIoQ)
+- [Spring AI 从入门到实战](https://mp.weixin.qq.com/s/MCGmJ1GsVcpWAcO395TuYg)
 - [为什么越来越多人用 Magpie？](https://mp.weixin.qq.com/s/7TRnRgwnNZc4ObFMatbH0w)
 - [腾讯又来一王炸，开源版 WorkBuddy 太顶了](https://mp.weixin.qq.com/s/kuPuPUFSMbfMKngqXBbO3w)
 - [Workbuddy + ima 打造个人 AI 知识库](https://mp.weixin.qq.com/s/hkrnvzsoyHApVkwEm1762Q)
@@ -70,6 +68,7 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 - [Spring AI Aliababa和AgentScope，哪个更好？](https://mp.weixin.qq.com/s/q3deoe-d4B-Tsiq3ziZKYw)     
 - [Codex最佳实践完整指南（2026）](https://mp.weixin.qq.com/s/y-HPD9EifwhHpUeb5WfTng)
 - [ClaudeCode 新功能指南](https://mp.weixin.qq.com/s/cKKyZx1-GZfVf5ynhE8xIQ)
+- [Claude Code命令速查大全](https://mp.weixin.qq.com/s/cVrSK0xbOwena37vsWHGHA)
 - [JAVA中AI框架选型指南（2026）](https://mp.weixin.qq.com/s/6XGLvncryNNi7bWHoytk5g)
 - [Codex 接入 DeepSeek V4 保姆级教程](https://mp.weixin.qq.com/s/6XFwFvl5Z3PRwmftY1WUWw)
 - [为什么越来越多人用Eino？](https://mp.weixin.qq.com/s/9NtIiYcERFIzwT_oNs1jyw)
@@ -292,7 +291,8 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 - [这个神器让我工作效率提升了数倍](https://mp.weixin.qq.com/s/_DUz6e_-GBbCA34gAEYyGQ)   
 - [这个神器让我的代码bug少了一半](https://mp.weixin.qq.com/s/zSe2y3QTClIhIxxcEHtIMQ) 
 - [学会这10种定时任务，我有点飘了](https://mp.weixin.qq.com/s/D98xFBCS5CSwSXQ22itQqA) 
-- [用代码画时序图！YYDS](https://mp.weixin.qq.com/s/oO2LHwguMUvl8jDwwYl12w) 
+- [用代码画时序图！YYDS](https://mp.weixin.qq.com/s/oO2LHwguMUvl8jDwwYl12w)
+- [推荐IDEA中一些牛逼的使用技巧](https://mp.weixin.qq.com/s/wkmi596JlNpsJI1RMDltNA)
 
 ## 系统设计 
 - [权限系统就该这么设计，yyds](https://mp.weixin.qq.com/s/qbRJtUfZwrpF4_izoOSWDQ)   
@@ -356,6 +356,10 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 2. 当你想快速增加项目实战能力的时候。
 3. 当你想学习AI Agent开发的时候。
 4. 当你职业发展很迷茫不知道该如何选择的时候。
+
+- 📖 完整网站（题库 + 场景设计 + 项目源码）：https://www.susan.net.cn
+- 🚀 项目实战（13 个可写进简历的企业级项目）：https://www.susan.net.cn/project/
+- 🤖 AI 教程（Spring AI / RAG / Agent）：https://www.susan.net.cn/ai/   
 
 或许 [苏三的知识星球](https://mp.weixin.qq.com/s/7qSxQvO8yEZ_5NjHvmwlEg)：【[Java突击队](https://mp.weixin.qq.com/s/7qSxQvO8yEZ_5NjHvmwlEg)】真的可以帮到你。
 
