@@ -34,6 +34,8 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 
 ## AI相关
 
+- [Loop Engineering 实战指南](https://mp.weixin.qq.com/s/sPx6x1At4M4dWtrqvrZpEA)
+- [3 分钟掌握 Codex 97% 的功能，超实用教程！](https://mp.weixin.qq.com/s/HEyakskFlLZAvXKlPwlJmQ)
 - [Hermes Agent 保姆级教程](https://mp.weixin.qq.com/s/tGs8XH2A1dIwNpF1azqIoQ)
 - [Spring AI 从入门到实战](https://mp.weixin.qq.com/s/MCGmJ1GsVcpWAcO395TuYg)
 - [为什么越来越多人用 Magpie？](https://mp.weixin.qq.com/s/7TRnRgwnNZc4ObFMatbH0w)
@@ -332,6 +334,7 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 - [继PHP之后，Java也爆出了重大安全漏洞！](https://mp.weixin.qq.com/s/17imsGCoXhy_dqpFgB9taw)
 
 ## 项目推荐
+- [推荐一个牛逼开源的OCR工具](https://mp.weixin.qq.com/s/XrgpmBXzeefwLkI2QFIS7g)
 - [推荐14个牛逼的SpringBoot项目](https://mp.weixin.qq.com/s/7qSxQvO8yEZ_5NjHvmwlEg)  
 - [阿里开源了一个神级Agent项目](https://mp.weixin.qq.com/s/horzvWx2tUUQdkKlaq2Kzg)
 - [推荐一个牛逼的RAG+KAG双引擎系统](https://mp.weixin.qq.com/s/FLHcS7T6RvUNDFLD8B3qNQ)
