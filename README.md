@@ -37,7 +37,8 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 ![](https://pic.imgdb.cn/item/62c82558f54cd3f93756e811.png)
 
 ## AI相关
-
+- [推荐一个神级 PPT Skill](https://mp.weixin.qq.com/s/N_KlSmzQFDlTgYylP2u_zQ)
+- [如何把 Codex 用到极致](https://mp.weixin.qq.com/s/550TWBGweLc_tDQvlmuP-w)
 - [Loop Engineering 实战指南](https://mp.weixin.qq.com/s/sPx6x1At4M4dWtrqvrZpEA)
 - [3 分钟掌握 Codex 97% 的功能，超实用教程！](https://mp.weixin.qq.com/s/HEyakskFlLZAvXKlPwlJmQ)
 - [Hermes Agent 保姆级教程](https://mp.weixin.qq.com/s/tGs8XH2A1dIwNpF1azqIoQ)
@@ -299,6 +300,7 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 - [学会这10种定时任务，我有点飘了](https://mp.weixin.qq.com/s/D98xFBCS5CSwSXQ22itQqA) 
 - [用代码画时序图！YYDS](https://mp.weixin.qq.com/s/oO2LHwguMUvl8jDwwYl12w)
 - [推荐IDEA中一些牛逼的使用技巧](https://mp.weixin.qq.com/s/wkmi596JlNpsJI1RMDltNA)
+- [IntelliJ IDEA 从卡顿到起飞，只用改这些。。。](https://mp.weixin.qq.com/s/poL1nCsukKRuUmto3liF0A)
 
 ## 系统设计 
 - [权限系统就该这么设计，yyds](https://mp.weixin.qq.com/s/qbRJtUfZwrpF4_izoOSWDQ)   
@@ -338,6 +340,8 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 - [继PHP之后，Java也爆出了重大安全漏洞！](https://mp.weixin.qq.com/s/17imsGCoXhy_dqpFgB9taw)
 
 ## 项目推荐
+
+- [推荐一个牛逼的Claude Code开源项目！](https://mp.weixin.qq.com/s/jXx6gXNhZEFMTZhI8aPjiw)
 - [推荐一个牛逼开源的OCR工具](https://mp.weixin.qq.com/s/XrgpmBXzeefwLkI2QFIS7g)
 - [推荐14个牛逼的SpringBoot项目](https://mp.weixin.qq.com/s/7qSxQvO8yEZ_5NjHvmwlEg)  
 - [阿里开源了一个神级Agent项目](https://mp.weixin.qq.com/s/horzvWx2tUUQdkKlaq2Kzg)
