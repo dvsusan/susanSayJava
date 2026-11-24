@@ -156,10 +156,17 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 - [聊聊Spring中最常用的11个扩展点](https://mp.weixin.qq.com/s/yUMIqZINL2YKBGLQ0Zys9w)   
 
 ## SpringBoot系列
+- [Fastjson 2 也炸了，影响数百万Spring Boot项目！](https://mp.weixin.qq.com/s/YAGAE6LsGlkn7vbywVBqbw) 
+- [SpringBoot  Skills 全景指南](https://mp.weixin.qq.com/s/P2-JbCp4cUeOGTU_6RS6bg) 
+- [SpringBoot4.2正式发布，人麻了！](https://mp.weixin.qq.com/s/chth56FnKuaBCPf6WLuB-Q)
+- [Spring Boot 4.1.0 震撼发布！新特性，惊爆了！](https://mp.weixin.qq.com/s/yN6QIeRj1GNlWrr53Opbnw) 
 - [SpringBoot 生产中 16 条最佳实践](https://mp.weixin.qq.com/s/S-ILmIfh3z8uQmQWIdCZ7w)   
 - [Spring Boot Admin，贼好使！](https://mp.weixin.qq.com/s/hoi0V6npzorlWocojgxYJA)   
 - [SpringBoot + Sharding JDBC 分库分表](https://mp.weixin.qq.com/s/TrfirXbY-cQ7ZFUk_f6wTA)   
-- [SpringBoot的starter到底是什么？](https://mp.weixin.qq.com/s/pk8z3yKPuTPBajkWZNxS6w)   
+- [SpringBoot的starter到底是什么？](https://mp.weixin.qq.com/s/pk8z3yKPuTPBajkWZNxS6w)
+- [SpringBoot3 + OpenSpec 实现 MCP 服务实战](https://mp.weixin.qq.com/s/jt592HURlVd3jlan4CACLw)
+- [SpringBoot如何对接第三方系统？](https://mp.weixin.qq.com/s/d1YAx_wSTDH30revs1fQ3A)
+- [SpringBoot+SPI机制，轻松实现可插拔组件](https://mp.weixin.qq.com/s/PofRY4bViVaDIO0gFA6x9A)   
 
 ## Spring Cloud
 - [深入理解 Ribbon 的架构原理](https://mp.weixin.qq.com/s/91W7RU0HF_56rc_nF6LHDw)   
