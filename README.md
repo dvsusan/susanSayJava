@@ -37,7 +37,8 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 ![](https://pic.imgdb.cn/item/62c82558f54cd3f93756e811.png)
 
 ## AI相关
-
+- [Claude Code 配上 DeepSeek V4，性价比炸了（附保姆级教程）](https://mp.weixin.qq.com/s/8BP540tiw42aEC6HBi1FsA)
+- [Claude Code 35个实用技巧，yyds](https://mp.weixin.qq.com/s/kdzzTL3yillDWHL3XlJP1w)
 - [为什么越来越多人用 Docling ？](https://mp.weixin.qq.com/s/a6zmjSBsDoV3MhCIm8dqqw)
 - [推荐一个神级 PPT Skill](https://mp.weixin.qq.com/s/N_KlSmzQFDlTgYylP2u_zQ)
 - [如何把 Codex 用到极致](https://mp.weixin.qq.com/s/550TWBGweLc_tDQvlmuP-w)
