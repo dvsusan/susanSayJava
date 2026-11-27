@@ -8,7 +8,6 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 
 - 📖 完整网站（题库 + 场景设计 + 项目源码）：https://www.susan.net.cn
 - 🚀 项目实战（13 个可写进简历的企业级项目）：https://www.susan.net.cn/project/
-- 🤖 AI 教程（Spring AI / RAG / Agent）：https://www.susan.net.cn/ai/   
 
 这里有面试八股文，面试真题，工作经验分享，踩坑日记，学习路线，还有个人成长经历等。
 
@@ -167,7 +166,8 @@ Spring Boot、Spring Cloud、MySQL、Redis、消息队列、分库分表、高�
 - [SpringBoot的starter到底是什么？](https://mp.weixin.qq.com/s/pk8z3yKPuTPBajkWZNxS6w)
 - [SpringBoot3 + OpenSpec 实现 MCP 服务实战](https://mp.weixin.qq.com/s/jt592HURlVd3jlan4CACLw)
 - [SpringBoot如何对接第三方系统？](https://mp.weixin.qq.com/s/d1YAx_wSTDH30revs1fQ3A)
-- [SpringBoot+SPI机制，轻松实现可插拔组件](https://mp.weixin.qq.com/s/PofRY4bViVaDIO0gFA6x9A)   
+- [SpringBoot+SPI机制，轻松实现可插拔组件](https://mp.weixin.qq.com/s/PofRY4bViVaDIO0gFA6x9A)
+- [SpringBoot4.2正式发布，人麻了](https://mp.weixin.qq.com/s/chth56FnKuaBCPf6WLuB-Q)
 
 ## Spring Cloud
 - [深入理解 Ribbon 的架构原理](https://mp.weixin.qq.com/s/91W7RU0HF_56rc_nF6LHDw)   
